@@ -2,24 +2,24 @@
   {
     "question": "De acordo com a Associação Internacional de Estudos para Dor (IASP) em 2020, como a dor é primariamente definida?",
     "options": [
-      "Uma resposta puramente fisiológica a um estímulo nociceptivo real, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Uma sensação puramente sensitiva, objetiva e mensurável no sistema nervoso central, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Uma experiência sensitiva e emocional desagradável associada ou semelhante a uma lesão tecidual real ou potencial, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "O resultado exclusivo de um trauma físico, sem componentes subjetivos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "A incapacidade de realizar tarefas diárias devido a um dano estrutural, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
+      "Uma sensação puramente sensitiva, objetiva e mensurável no sistema nervoso central, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "A incapacidade de realizar tarefas diárias devido a um dano estrutural, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Uma resposta puramente fisiológica a um estímulo nociceptivo real, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "O resultado exclusivo de um trauma físico, sem componentes subjetivos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A IASP (2020) define dor como uma experiência subjetiva, sendo uma experiência sensitiva e emocional desagradável, associada ou semelhante a uma lesão real ou potencial [1, 2].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a faixa etária em que a lombalgia é considerada o problema de saúde mais comum e qual a prevalência aproximada na população adulta?",
     "options": [
-      "Entre 65 e 75 anos, com prevalência de 5% a 10% na população adulta, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Entre 15 e 64 anos, com prevalência de 14% a 22% na população adulta, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "Entre 5 e 14 anos, com prevalência de 30% devido a atividades físicas, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Em todas as faixas etárias, com prevalência estável de 50%, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "Apenas na população idosa, acima de 75 anos, devido à degeneração articular, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Entre 15 e 64 anos, com prevalência de 14% a 22% na população adulta, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Entre 65 e 75 anos, com prevalência de 5% a 10% na população adulta, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Apenas na população idosa, acima de 75 anos, devido à degeneração articular, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Em todas as faixas etárias, com prevalência estável de 50%, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
     ],
     "correctIndex": 1,
     "explanation": "A lombalgia é o problema de saúde mais comum entre 15 e 64 anos e afeta cerca de 14% a 22% da população adulta [3, 4].",
@@ -28,24 +28,24 @@
   {
     "question": "Qual o principal impacto socioeconômico da dor lombar no Brasil, conforme dados de 2019?",
     "options": [
-      "Causa maior de mortes prematuras, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "A maior causa de anos vividos com incapacidade entre os brasileiros, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "A principal causa de internações hospitalares em adolescentes, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "O fator que mais contribui para o aumento da expectativa de vida, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "A maior causa de faltas escolares no ensino fundamental, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "A maior causa de faltas escolares no ensino fundamental, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "A principal causa de internações hospitalares em adolescentes, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "Causa maior de mortes prematuras, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "A maior causa de anos vividos com incapacidade entre os brasileiros, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar."
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "A dor lombar é a maior causa de anos vividos com incapacidade entre os brasileiros, conforme estudo realizado em 2019 [3, 4].",
     "type": "conteudista"
   },
   {
     "question": "Qual o percentual de pessoas que relataram faltar ao serviço por conta de dor lombar e qual a consequência trabalhista mais impactante dessa condição?",
     "options": [
-      "10% de faltas e causa secundária de afastamento, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "50% de faltas e causa principal de liberação para trabalho voluntário, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "30% de faltas e principal causa de liberação trabalhista e aposentadoria precoce, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "5% de faltas, não gerando impacto significativo, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "70% de faltas, sendo a segunda causa de internação, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "5% de faltas, não gerando impacto significativo, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "30% de faltas e principal causa de liberação trabalhista e aposentadoria precoce, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "10% de faltas e causa secundária de afastamento, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "50% de faltas e causa principal de liberação para trabalho voluntário, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
     ],
     "correctIndex": 2,
     "explanation": "Cerca de 30% das pessoas relataram falta no serviço por dor lombar, e é a principal causa de liberação trabalhista e aposentadoria precoce [4, 5].",
@@ -54,76 +54,76 @@
   {
     "question": "Quais são os três principais componentes ou categorias fisiopatológicas da experiência da dor?",
     "options": [
-      "Dor somática, visceral e neuropática, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "Dor aguda, subaguda e crônica, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Dor nociceptiva, neuropática e nociplástica, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "Dor de repouso, de movimento e de exercício, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Dor nociceptiva, neuropática e nociplástica, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Dor aguda, subaguda e crônica, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Dor somática, visceral e neuropática, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Dor leve, moderada e severa, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Os três principais componentes da experiência da dor são a dor nociceptiva (estímulo doloroso clássico), a dor neuropática (acometimento nervoso) e a dor nociplástica (modulação neurosensitiva sem lesão nervosa clara) [6, 7].",
     "type": "conteudista"
   },
   {
     "question": "Além dos componentes sensitivos e emocionais, quais outros fatores foram citados como influenciadores da experiência dolorosa, reforçando a multidimensionalidade do quadro?",
     "options": [
+      "O tipo de alimentação e a ingestão de água, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "Fatores exclusivamente genéticos e hereditários, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Fatores psicossociais e motores, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "Apenas o uso de medicamentos opioides, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Somente o nível de atividade física do paciente, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "O tipo de alimentação e a ingestão de água, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
+      "Fatores psicossociais e motores, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Apenas o uso de medicamentos opioides, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": "Outras dimensões, como fatores psicossociais e motores, também estão relacionadas à experiência dolorosa, tornando a dor uma experiência complexa [7].",
     "type": "conteudista"
   },
   {
     "question": "O Método Clínico Centrado na Pessoa (MCCP) é essencial na abordagem da dor, por que ele é considerado o método adequado para lidar com a dor lombar?",
     "options": [
+      "Porque o MCCP exige o pedido imediato de exames de ressonância magnética, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "Porque a dor é uma experiência subjetiva, e olhar para a pessoa como um todo e para a 'experiência do adoecimento' é crucial, ao invés de focar apenas na doença (dor), segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "Porque o MCCP é o único método que permite prescrever medicamentos controlados, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Porque a lombalgia é puramente mecânica, e o MCCP foca na biomecânica, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Porque a dor é uma experiência subjetiva, e olhar para a pessoa como um todo e para a 'experiência do adoecimento' é crucial, ao invés de focar apenas na doença (dor), segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "Porque o MCCP exige o pedido imediato de exames de ressonância magnética, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "Porque este método exclui a necessidade de exame físico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Se a dor é uma experiência subjetiva, não faz sentido olhar para ela com um método centrado na doença. O MCCP exige que o cuidado seja centrado na pessoa, entendendo sua experiência de adoecimento para ser eficaz [2, 8, 9].",
     "type": "conteudista"
   },
   {
     "question": "A Lombalgia Localizada é definida como a dor percebida em qual região anatômica?",
     "options": [
+      "Apenas na região do sacro e cóccix.",
+      "Entre as últimas costelas e a prega glútea.",
       "Entre a nuca e os ombros.",
       "Abaixo dos joelhos e nos pés.",
-      "Entre as últimas costelas e a prega glútea.",
-      "Apenas na região do sacro e cóccix.",
       "Entre o cotovelo e o punho."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Dor lombar é definida como uma dor percebida entre as últimas costelas e a prega glútea [10, 11].",
     "type": "conteudista"
   },
   {
     "question": "Em relação à 'Determinação Social do Processo Saúde-Doença' (Breilh), o que o médico deve considerar ao abordar a dor lombar de um paciente?",
     "options": [
-      "Apenas a predisposição genética do paciente, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "As bases da sociedade, como ela está estruturada e as relações das pessoas com o território onde vivem, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "Somente a capacidade individual de resiliência ao estresse, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "A exclusão de fatores ambientais e sociais na etiologia da dor, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "O enfoque apenas em exames de imagem complexos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Apenas a predisposição genética do paciente, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "O enfoque apenas em exames de imagem complexos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "A exclusão de fatores ambientais e sociais na etiologia da dor, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "A determinação social requer que se olhe para 'como essa sociedade funciona, quais são as bases dessa sociedade, como ela tá estruturada, como que as pessoas se relacionam com outras pessoas ou com a natureza onde elas vivem', pois isso gera o adoecimento [2, 12].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a musculatura que, quando acometida em uma lombalgia localizada (ritmo mecânico), geralmente gera queixa de 'piora ao virar na cama'?",
     "options": [
-      "Glúteo máximo, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Psoas maior, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Musculatura paravertebral (envolvida na estabilização da coluna e rotação), segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
-      "Quadríceps femoral, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Glúteo máximo, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Músculos abdominais, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Psoas maior, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Quadríceps femoral, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
     "correctIndex": 1,
     "explanation": "A dor na musculatura paravertebral (que auxilia na estabilização da coluna e nos movimentos rotatórios) costuma piorar ao virar na cama ou ao fazer movimentos rotatórios [13, 14].",
@@ -132,26 +132,26 @@
   {
     "question": "A lombalgia que se irradia abaixo do joelho era classicamente chamada de lombociatalgia. Qual é o novo termo recomendado pela IASP (2023) para essa condição?",
     "options": [
+      "Dor em perna associada à coluna, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Meralgia parestésica, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Dor neuropática de quadril, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "Síndrome da cauda equina, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "Dor em perna associada à coluna, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "Radiculopatia de tronco, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Meralgia parestésica, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
+      "Radiculopatia de tronco, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A IASP (2023) está abolindo o termo lombociatalgia e recomendando o uso de 'dor em perna associada à coluna' para as dores irradiadas abaixo do joelho [11, 15, 16].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a porcentagem aproximada de pacientes que chegam com o padrão clássico de dor irradiada ('lombociatalgia') que, ao realizar uma Ressonância Magnética (RM), não apresentam lesão estrutural?",
     "options": [
+      "Apenas 1% em pacientes jovens, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Menos de 10% (a maioria tem lesão), sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Cerca de 80% (o que torna a RM um exame inútil), contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Até 60% (2 a 3 em cada 5), indicando baixa correlação direta entre dor e achados radiológicos, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
       "100% (a dor é sempre puramente psicossomática), o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Apenas 1% em pacientes jovens, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Até 60% (2 a 3 em cada 5), indicando baixa correlação direta entre dor e achados radiológicos, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Até 60% das pessoas que chegam com o padrão de dor irradiada não apresentam achados de lesão em ressonância magnética, demonstrando que a dor nem sempre tem correlação direta com a estrutura [11, 16, 17].",
     "type": "conteudista"
   },
@@ -159,23 +159,23 @@
     "question": "Na abordagem da dor na Atenção Primária à Saúde (APS), o acrônimo PQRST é utilizado. O que representa o 'R' e o 'T' neste método de qualificação e quantificação da dor?",
     "options": [
       "Pior e Tolerância.",
-      "Prevenção e Tratamento.",
       "Região/Irradiação e Tempo/Duração.",
+      "Prevenção e Tratamento.",
       "Repouso e Testes.",
       "Ritmo e Tonalidade."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O acrônimo PQRST na abordagem da dor significa: P (Provoca/Palia), Q (Qualidade), R (Região), S (Severidade) e T (Tempo/Duração) [18, 19].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a principal linha de tratamento farmacológico para lombalgia, baseada em evidências, recomendada para uso a curto prazo, diferentemente dos analgésicos simples?",
     "options": [
-      "Opioides de alta potência, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Analgésicos simples (dipirona/paracetamol), o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "Opioides de alta potência, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Anti-inflamatórios não esteroidais (AINEs), conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "Anticonvulsivantes (Gabapentinoides) como primeira linha, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Injeções de toxina botulínica, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Injeções de toxina botulínica, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Anticonvulsivantes (Gabapentinoides) como primeira linha, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
     "correctIndex": 2,
     "explanation": "A primeira linha de tratamento farmacológico baseada em evidências é o uso de anti-inflamatórios não esteroidais (AINEs) a curto prazo, sendo os analgésicos simples menos efetivos para lombalgia [20].",
@@ -184,11 +184,11 @@
   {
     "question": "No contexto do impacto psicossocial da dor, quais fatores foram citados como estando nas 'camadas mais profundas' do 'iceberg' da dor?",
     "options": [
+      "A presença exclusiva de dor nociceptiva, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Apenas a compressão de raízes nervosas, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Apenas o uso incorreto de calçados, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "Tristeza, solidão, falta de prazer, estresse, ansiedade e fome, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "O excesso de sono e a ausência de trabalho, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "A presença exclusiva de dor nociceptiva, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Apenas o uso incorreto de calçados, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "O excesso de sono e a ausência de trabalho, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
     "correctIndex": 2,
     "explanation": "As camadas profundas da dor (o 'iceberg') incluem fatores psicossociais e existenciais como tristeza, solidão, saudade, falta de prazer, cansaço, desemprego, estresse, ansiedade e fome [21-23].",
@@ -210,26 +210,26 @@
   {
     "question": "Um paciente com lombalgia crônica relata que a dor se intensifica em períodos de estresse familiar e desemprego, e ele não apresenta lesão significativa na RM. Aplicando o Método Clínico Centrado na Pessoa (MCCP), qual deve ser o foco principal da abordagem inicial do médico?",
     "options": [
-      "Encaminhar imediatamente para cirurgia de coluna, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Focar apenas na prescrição de relaxantes musculares e anti-inflamatórios, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Solicitar um novo exame de imagem imediatamente, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Dar enfoque na 'experiência do adoecimento', valorizando a dor como tristeza/estresse/desemprego e abordando os determinantes sociais e psicossociais, além de considerar a sensibilização central.",
+      "Focar apenas na prescrição de relaxantes musculares e anti-inflamatórios, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Comunicar ao paciente que a dor é imaginária, visto que a RM é normal, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Solicitar um novo exame de imagem imediatamente, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Encaminhar imediatamente para cirurgia de coluna, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O MCCP exige que o médico dê enfoque à experiência do adoecimento, alcançando as camadas profundas do iceberg (tristeza, estresse, desemprego) [9, 21, 22]. O tratamento deve transcender a doença, focando na pessoa e nos fatores psicossociais, que podem perpetuar a dor (sensibilização central) [8, 22].",
     "type": "raciocínio"
   },
   {
     "question": "O conceito de 'Sensibilização Central' na dor crônica é comparado à figura do 'secretário sobrecarregado' que 'surta' (burnout) e não consegue mais inibir estímulos. Qual é a correlação clínica dessa sensibilização com a experiência dolorosa do paciente?",
     "options": [
-      "A dor se torna menos intensa e fácil de modular, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "A dor é sempre puramente nociceptiva, respondendo bem a analgésicos simples, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "O sistema nervoso central (medula/encéfalo) amplifica os estímulos dolorosos periféricos, transformando uma dor simples em uma experiência muito mais intensa e difusa, exigindo uma abordagem focada em neuromoduladores (ex: tricíclicos).",
+      "A dor se torna menos intensa e fácil de modular, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "A sensibilização central só ocorre em casos de compressão medular grave, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "O sistema nervoso central (medula/encéfalo) amplifica os estímulos dolorosos periféricos, transformando uma dor simples em uma experiência muito mais intensa e difusa, exigindo uma abordagem focada em neuromoduladores (ex: tricíclicos).",
       "É um fenômeno que só ocorre em pacientes idosos, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "A sensibilização central envolve modulação neuroimunológica e intensifica a experiência dolorosa. O que era um estímulo adequado deixa de ter a mesma percepção, tornando o paciente hipersensível, pois as estruturas do SNC (diretoria/secretários) falham na modulação inibitória [25, 26].",
     "type": "raciocínio"
   },
@@ -238,9 +238,9 @@
     "options": [
       "O médico deve prescrever AINEs e relaxantes para todos, sem questionar o ambiente de trabalho, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "O médico deve olhar para o processo de trabalho e a organização da atividade, questionando se o problema reside no trabalho em si, e deve notificar a doença ocupacional (compulsória), visando a modificação da organização do trabalho, conforme recomendações de prática clínica, segundo literatura recente sobre o tema.",
-      "O foco deve ser apenas em exames de sangue para descartar infecção, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "O médico deve apenas sugerir mudança de estilo de vida para todos os trabalhadores, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "A Medicina Ocupacional exige que o médico se concentre apenas nas intervenções no indivíduo, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "O médico deve apenas sugerir mudança de estilo de vida para todos os trabalhadores, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "O foco deve ser apenas em exames de sangue para descartar infecção, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
     "correctIndex": 1,
     "explanation": "Saúde do Trabalhador (em contraste com Medicina Ocupacional) foca no processo de trabalho, organização e atividade. Se o problema for sistêmico (várias pessoas com a mesma queixa), o médico deve ir na raiz das causas, modificar o trabalho e realizar a notificação compulsória [20, 27, 28].",
@@ -250,49 +250,49 @@
     "question": "Ao avaliar achados de degeneração em exames de imagem em pacientes assintomáticos (ex: 30% das pessoas de 40 anos terem uma hérnia), qual é a decisão clínica mais embasada em evidências para o médico generalista no manejo da lombalgia não complicada?",
     "options": [
       "Pedir uma RM imediatamente para todos os pacientes com dor, independentemente dos sintomas, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "Tratar a dor apenas com gabapentinoides, devido à alta severidade, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Não correlacionar diretamente dor com achado de exame, e adiar a solicitação de exames de imagem (RM) para lombalgias de ritmo mecânico por, no mínimo, 3 meses, se não houver má evolução, para evitar tratamento inadequado de achados incidentais, em consonância com as diretrizes de manejo da dor lombar.",
       "Encaminhar todos os casos para o neurocirurgião, pois a degeneração indica cirurgia, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Realizar apenas agulhamento a seco sem qualquer outra orientação, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Tratar a dor apenas com gabapentinoides, devido à alta severidade, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Realizar apenas agulhamento a seco sem qualquer outra orientação, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Não correlacionar diretamente dor com achado de exame, e adiar a solicitação de exames de imagem (RM) para lombalgias de ritmo mecânico por, no mínimo, 3 meses, se não houver má evolução, para evitar tratamento inadequado de achados incidentais, em consonância com as diretrizes de manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A alta prevalência de degeneração da coluna em pacientes assintomáticos mostra que não há correlação direta entre dor e achado de exame [17]. O manejo recomendado é atrasar a solicitação de exames de imagem até que se observe má evolução após 3 meses de tratamento [11, 29], focando inicialmente em orientações, ritmo e função muscular [17].",
     "type": "raciocínio"
   },
   {
     "question": "No acrônimo PQRST, utilizado na Atenção Primária à Saúde (APS) para sistematizar a abordagem da dor, o que o 'P' representa?",
     "options": [
-      "Processo inflamatório ou neuropático, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Postura do paciente e sua profissão, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Provoca ou Palia (o que desencadeia ou o que alivia a dor), segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
+      "Prevalência e incidência do quadro doloroso, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Prioridade do tratamento e prognóstico, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Prevalência e incidência do quadro doloroso, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
+      "Provoca ou Palia (o que desencadeia ou o que alivia a dor), segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
+      "Processo inflamatório ou neuropático, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O acrônimo PQRST (não o eletro) é um guia de raciocínio clínico, onde o 'P' representa o que Provoca e o que Palia a dor [1, 2].",
     "type": "conteudista"
   },
   {
     "question": "O PQRST é dividido em Qualificação (PQR) e Quantificação (ST) da dor. Qual é a principal característica da etapa de Qualificação (PQR)?",
     "options": [
-      "Avaliação do impacto socioeconômico e tempo de duração, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Enfoque exclusivo no uso de anti-inflamatórios e relaxantes musculares, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Revisão dos exames de imagem, como ressonância magnética, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Momento de conversa, anamnese e exame físico para formular hipóteses diagnósticas, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Avaliação do impacto socioeconômico e tempo de duração, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Uso de escalas numéricas de 0 a 10 para medir a intensidade, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Revisão dos exames de imagem, como ressonância magnética, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Enfoque exclusivo no uso de anti-inflamatórios e relaxantes musculares, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A Qualificação da dor (PQR) é o momento da anamnese, conversa e exame físico para chegar às hipóteses [1, 2].",
     "type": "conteudista"
   },
   {
     "question": "A Lombalgia Localizada é definida como a dor percebida entre quais limites anatômicos?",
     "options": [
-      "Entre a nuca e o ombro, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Abaixo da prega glútea, na coxa, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Acima da cintura escapular, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
       "Entre as últimas costelas e a prega glútea, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "Apenas na região do sacro e cóccix, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Acima da cintura escapular, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "Entre a nuca e o ombro, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
     "correctIndex": 2,
     "explanation": "Dor lombar é definida como uma dor percebida entre as últimas costelas e a prega glútea [3, 4].",
@@ -301,10 +301,10 @@
   {
     "question": "Na lombalgia localizada, a grande maioria dos casos (97%) apresenta qual característica de ritmo de dor?",
     "options": [
-      "Ritmo neuropático.",
-      "Ritmo nociplástico.",
-      "Ritmo inflamatório.",
       "Ritmo central.",
+      "Ritmo nociplástico.",
+      "Ritmo neuropático.",
+      "Ritmo inflamatório.",
       "Ritmo mecânico."
     ],
     "correctIndex": 4,
@@ -314,37 +314,37 @@
   {
     "question": "Em relação à abordagem da dor na APS, o que o conceito de 'Severidade' (S do PQRST) busca avaliar, além da intensidade da dor?",
     "options": [
-      "Apenas o nível de comprometimento neurológico, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "O tempo de duração da dor em meses, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "A intensidade e a experiência da doença, avaliando o impacto no dia a dia do paciente.",
       "Se a dor é passível de tratamento cirúrgico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "A qualidade da dor (se é pontada, queimação, etc.), desconsiderando a abordagem multidimensional necessária no ambulatório."
+      "Apenas o nível de comprometimento neurológico, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "A qualidade da dor (se é pontada, queimação, etc.), desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "A intensidade e a experiência da doença, avaliando o impacto no dia a dia do paciente."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A severidade está preocupada com a intensidade e a experiência da doença, o que diz muito sobre o impacto no dia a dia [2, 6].",
     "type": "conteudista"
   },
   {
     "question": "A dor de Ritmo Mecânico é tipicamente caracterizada por qual padrão de variação?",
     "options": [
-      "Piora à noite e melhora com atividade e movimento, sugerindo um componente inflamatório, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "É exclusivamente desencadeada pela tosse ou espirro, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Permanece constante, independentemente de postura ou atividade, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Piora ao movimento e está associada a posturas prolongadas, envolvendo o sistema musculoesquelético, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Piora à noite e melhora com atividade e movimento, sugerindo um componente inflamatório, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Melhora com estresse emocional e piora com repouso, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "É exclusivamente desencadeada pela tosse ou espirro, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
+      "Piora ao movimento e está associada a posturas prolongadas, envolvendo o sistema musculoesquelético, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Dor de ritmo mecânico é aquela que piora ao movimento e pode estar associada com posturas prolongadas, sendo ligada ao sistema muscular e esquelético [7].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a principal característica da Dor Miofascial, que pode ocorrer na lombalgia localizada?",
     "options": [
-      "É uma dor exclusivamente neuropática, sem componente muscular, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "É uma dor que afeta a estrutura óssea da coluna, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "É causada por um músculo que está contraído (trigger point ou 'nozinho'), gerando dor pontual e irradiada por contiguidade.",
       "É uma dor que melhora com a injeção de gabapentinoides, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "É um diagnóstico que só pode ser feito após ressonância magnética, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "É um diagnóstico que só pode ser feito após ressonância magnética, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
+      "É causada por um músculo que está contraído (trigger point ou 'nozinho'), gerando dor pontual e irradiada por contiguidade.",
+      "É uma dor exclusivamente neuropática, sem componente muscular, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "É uma dor que afeta a estrutura óssea da coluna, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
     ],
     "correctIndex": 2,
     "explanation": "Dor miofascial está associada ao 'trigger point', que é um músculo contraído, formando um nó, que pode ser tratado com agulhamento a seco [8, 9].",
@@ -354,25 +354,25 @@
     "question": "Qual das seguintes perguntas-chave na anamnese sugere primariamente um acometimento da musculatura paravertebral, que atua na estabilização e rotação da coluna?",
     "options": [
       "A dor piora ao tossir ou espirrar?, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "A dor irradia para abaixo do joelho?, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
       "A dor piora ao virar na cama ou fazer movimentos rotatórios?, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
       "A dor piora ao caminhar ou ficar em pé por longos períodos?, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "A dor melhora com atividade física intensa?, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "A dor irradia para abaixo do joelho?, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "A dor melhora com atividade física intensa?, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "A musculatura paravertebral é envolvida na estabilização e rotação. A queixa típica de seu acometimento é a piora da dor 'ao virar da cama' ou fazer movimentos rotatórios [10].",
     "type": "conteudista"
   },
   {
     "question": "Qual das perguntas-chave a seguir está relacionada principalmente ao envolvimento do glúteo médio, cuja função é estabilizar o quadril no movimento contralateral?",
     "options": [
-      "A dor é constante, mesmo em repouso?, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "A dor é sentida como queimação ou choque?, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "A dor piora ao caminhar ou ao desestabilizar o movimento contralateral?, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, conforme recomendações de prática clínica.",
       "A dor se restringe à região das costelas?, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "A dor melhora com o uso de relaxantes musculares?, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "A dor melhora com o uso de relaxantes musculares?, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "A dor é constante, mesmo em repouso?, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O glúteo médio é ativado para estabilizar o quadril durante a caminhada, e a queixa típica de seu acometimento é a dor que piora 'ao caminhar' [11].",
     "type": "conteudista"
   },
@@ -380,35 +380,35 @@
     "question": "A sensibilização central é um fenômeno que transforma a dor e envolve estruturas do Sistema Nervoso Central (SNC). Quais estruturas estão envolvidas nesse processo?",
     "options": [
       "Apenas o nervo ciático e o plexo lombar.",
+      "As vértebras lombares e o disco intervertebral.",
       "Apenas a articulação do joelho e o tornozelo.",
-      "Encéfalo, tronco encefálico e medula espinhal.",
       "Ossículos da audição e a cóclea.",
-      "As vértebras lombares e o disco intervertebral."
+      "Encéfalo, tronco encefálico e medula espinhal."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A sensibilização central envolve o SNC, que inclui o encéfalo, tronco encefálico e medula espinhal [12].",
     "type": "conteudista"
   },
   {
     "question": "Na analogia da sensibilização central (diretoria, secretários, operários), qual é a função dos 'operários'?",
     "options": [
+      "Esconder a dor para debaixo do tapete, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Dar o alarme final da dor (percepção), refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
       "Ser o centro de modulação descendente, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Continuar a dar estímulos de dor (músculo, inflamação) mesmo que o processo seja inibido.",
-      "Esconder a dor para debaixo do tapete, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "Prescrever o tratamento final, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Prescrever o tratamento final, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Continuar a dar estímulos de dor (músculo, inflamação) mesmo que o processo seja inibido."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Os operários continuam gerando estímulos ('é dor, é músculo, é inflamação'), sendo a fonte inicial do estímulo da dor, que precisa ser transmitido na cadeia [13].",
     "type": "conteudista"
   },
   {
     "question": "O Ritmo da Dor é definido como:",
     "options": [
-      "Apenas o tempo total de duração da dor, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "A qualidade da dor (se é em pontada ou queimação), o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "A variação de um fenômeno com dadas circunstâncias nas quais mais ocorre ou se intensifica, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "O nível de radiação da dor para os membros inferiores, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "A qualidade da dor (se é em pontada ou queimação), o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Apenas o tempo total de duração da dor, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "A causa primária da dor (neuropática, nociceptiva ou nociplástica), refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
     "correctIndex": 1,
@@ -418,52 +418,52 @@
   {
     "question": "Qual dos seguintes elementos do PQRST corresponde à Quantificação (ST) da dor?",
     "options": [
-      "Provoca/Palia, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Qualidade, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Apenas o Exame Físico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
+      "Provoca/Palia, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Região, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "Severidade e Tempo, em consonância com as diretrizes de manejo da dor lombar, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "Apenas o Exame Físico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "Severidade e Tempo, em consonância com as diretrizes de manejo da dor lombar, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar."
     ],
-    "correctIndex": 3,
+    "correctIndex": 4,
     "explanation": "A Quantificação da dor é feita pelos componentes 'S' (Severidade, avaliando impacto) e 'T' (Tempo de duração) [2, 6].",
     "type": "conteudista"
   },
   {
     "question": "No contexto da sensibilização central, o 'surto' ou 'burnout' do secretário (que representa a modulação) resulta em qual consequência para a experiência dolorosa?",
     "options": [
-      "Diminuição da intensidade da dor, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "O corpo deixa de perceber o estímulo doloroso, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "A dor passa a ser exclusivamente de ritmo inflamatório, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "A dor se transforma, tornando-se muito mais intensa e sensível, pois a regulação do SNC falha, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "O corpo deixa de perceber o estímulo doloroso, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "A dor é automaticamente resolvida com analgésicos simples, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "A dor passa a ser exclusivamente de ritmo inflamatório, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Diminuição da intensidade da dor, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O surto do secretário faz com que ele não consiga mais segurar os estímulos, e o que era um estímulo adequado se transforma em algo muito mais intenso e sensível, caracterizando a sensibilização central [13].",
     "type": "conteudista"
   },
   {
     "question": "A dor nociplástica, componente da experiência dolorosa, se refere a dores que envolvem qual mecanismo, conforme a descrição da aula?",
     "options": [
-      "Apenas o estímulo doloroso clássico (nocicepção), o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "Um processo que afeta diretamente a estrutura nervosa (neuropático), refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Perda de força motora na perna, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Alguma modulação neurosensitiva nas estruturas da medula ou do cérebro, sem lesão nervosa clara, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "Dano exclusivo ao disco intervertebral, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Perda de força motora na perna, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Apenas o estímulo doloroso clássico (nocicepção), o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Um processo que afeta diretamente a estrutura nervosa (neuropático), refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A dor nociplástica se refere a dores que não envolvem necessariamente lesão nervosa ou estímulo nociceptivo clássico, mas que existe 'alguma modulação neurosensitiva' no SNC [14].",
     "type": "conteudista"
   },
   {
     "question": "Um paciente relata dor lombar que piora consistentemente ao se levantar pela manhã e ao fazer esforços de flexão do tronco, mas melhora significativamente ao longo do dia com o aquecimento da musculatura. Que ritmo de dor é mais provável e qual estrutura está primariamente envolvida?",
     "options": [
-      "Ritmo inflamatório, sugerindo espondiloartrite, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Ritmo neuropático, sugerindo ciatalgia, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
       "Ritmo mecânico, sugerindo acometimento musculoesquelético ou postural, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
+      "Ritmo inflamatório, sugerindo espondiloartrite, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Sensibilização central, devido à variação do humor, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Ritmo central, sugerindo fibromialgia, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
+      "Ritmo central, sugerindo fibromialgia, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "Ritmo neuropático, sugerindo ciatalgia, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A dor de ritmo mecânico é aquela que piora com o movimento e posturas prolongadas (como ao acordar e fazer esforço) [5, 7]. O ritmo inflamatório, em contraste, piora com o repouso e melhora com a atividade [15].",
     "type": "raciocínio"
   },
@@ -471,23 +471,23 @@
     "question": "Um paciente chega ao consultório com dor que irradia para a perna (lombociatalgia), mas a ressonância magnética (RM) não apresenta nenhuma lesão compressiva. Utilizando o raciocínio clínico da sensibilização central, como o médico de família deve interpretar a persistência dessa dor intensa?",
     "options": [
       "A dor é sempre simulada, pois não há lesão em RM, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "A dor só pode ser tratada com gabapentinoides, pois são os únicos eficazes sem lesão evidente, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "O paciente precisa de cirurgia imediata, independentemente do exame, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "A dor pode ser um fenômeno de sensibilização central, onde o SNC amplifica o estímulo, tornando a dor mais intensa (nociplástica), mesmo sem dano estrutural direto, exigindo uma abordagem focada nos fatores psicossociais, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "O diagnóstico está errado, devendo-se descartar a lombalgia, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "A dor só pode ser tratada com gabapentinoides, pois são os únicos eficazes sem lesão evidente, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "O diagnóstico está errado, devendo-se descartar a lombalgia, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Até 60% das 'lombociatalgias' não apresentam lesão em RM [4, 16]. Isso indica que a dor pode ser gerada ou intensificada pela sensibilização central (componente nociplástico), onde a dor é amplificada no SNC, exigindo uma abordagem focada na experiência do adoecimento e fatores psicossociais [12, 17].",
     "type": "raciocínio"
   },
   {
     "question": "Ao aplicar o PQRST em um caso de lombalgia, a paciente relata dor 'muito forte (Severidade 9/10)' que a impede de cuidar dos netos (experiência do adoecimento). Por que o foco na 'Severidade' (S) é essencial na APS, conforme o Método Clínico Centrado na Pessoa (MCCP)?",
     "options": [
-      "Porque a intensidade é o único fator que define o tratamento farmacológico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Porque a severidade comprova a presença de uma hérnia de disco, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Porque a severidade está mais preocupada com a experiência da doença e o impacto funcional (Quantificação), que é o foco do MCCP ao tratar a pessoa e não apenas a patologia (dor), em consonância com as diretrizes de manejo da dor lombar.",
+      "Porque o médico de família deve apenas encaminhar casos de Severidade 9/10, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Porque a severidade dita o nível de dor nociceptiva, ignorando o componente emocional, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Porque o médico de família deve apenas encaminhar casos de Severidade 9/10, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Porque a severidade está mais preocupada com a experiência da doença e o impacto funcional (Quantificação), que é o foco do MCCP ao tratar a pessoa e não apenas a patologia (dor), em consonância com as diretrizes de manejo da dor lombar.",
+      "Porque a severidade comprova a presença de uma hérnia de disco, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "Porque a intensidade é o único fator que define o tratamento farmacológico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
     "correctIndex": 2,
     "explanation": "A Severidade está preocupada com a intensidade e a experiência da doença, o que diz muito sobre o impacto no dia a dia [2, 6]. Isso se alinha com o MCCP, que foca na experiência do adoecimento, e não apenas na doença [18-20].",
@@ -498,11 +498,11 @@
     "options": [
       "Piriforme, devido à compressão do nervo ciático, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "Musculatura abdominal, devido à fraqueza do core, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Glúteo médio, pois sua função de estabilização do quadril é mais exigida e falha durante a marcha, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
+      "Isquiotibiais, devido ao encurtamento, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
       "Psoas maior, pois sua função é a flexão do quadril, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "Isquiotibiais, devido ao encurtamento, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "Glúteo médio, pois sua função de estabilização do quadril é mais exigida e falha durante a marcha, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A dor que piora ao caminhar está associada à disfunção do glúteo médio, cuja função é estabilizar o quadril no movimento contralateral, sendo ativado e forçado durante a marcha [11].",
     "type": "raciocínio"
   },
@@ -510,25 +510,25 @@
     "question": "Qual das seguintes descrições do ritmo da dor corresponde ao Ritmo Inflamatório, em contraste com o Ritmo Mecânico, que é predominante na lombalgia localizada?",
     "options": [
       "Dor que piora ao virar na cama e melhora rapidamente com o uso de compressas quentes, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Dor que é intensa, mas não varia com posturas ou movimentos, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Dor que piora à noite e/ou com imobilização prolongada, mas melhora com o início da atividade ou movimento, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "Dor que melhora totalmente com o uso de AINEs e relaxantes musculares, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Dor que irradia para abaixo do joelho, independente do horário, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Dor que irradia para abaixo do joelho, independente do horário, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Dor que é intensa, mas não varia com posturas ou movimentos, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O ritmo inflamatório é caracterizado por uma dor que piora à noite e com imobilização, mas melhora com a atividade/movimento, um padrão contrário ao mecânico (que piora com movimento) [15].",
     "type": "raciocínio"
   },
   {
     "question": "Na abordagem da lombalgia irradiada, por que é crucial diferenciar se a irradiação da dor ocorre acima ou abaixo do joelho?",
     "options": [
+      "Não há diferença clínica significativa, mas a documentação é exigida, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Irradiação acima do joelho é sempre neuropática, e abaixo, sempre vascular, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "A irradiação abaixo do joelho (perna) indica, especificamente, um quadro que a IASP (2023) está renomeando para 'dor em perna associada à coluna', conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "A irradiação acima do joelho indica exclusivamente acometimento da coluna vertebral, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Não há diferença clínica significativa, mas a documentação é exigida, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Somente dores que irradiam para a coxa (acima do joelho) são consideradas lombociatalgias, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "A diferenciação (acima ou abaixo do joelho) é importante porque a dor que irradia abaixo do joelho é o padrão que o consenso IASP 2023 está abolindo o termo 'lombociatalgia' e preferindo 'dor em perna associada à coluna' [1, 2].",
     "type": "conteudista"
   },
@@ -536,12 +536,12 @@
     "question": "Qual é o termo mais atual e recomendado pela IASP (2023) para descrever a dor que irradia para a perna (abaixo do joelho), substituindo o clássico 'lombociatalgia'?",
     "options": [
       "Dor Nociplástica Pura, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Radiculopatia de Tronco, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Dor em perna associada à coluna, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
       "Neuralgia do Nervo Femoral, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Radiculopatia de Tronco, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Meralgia Parestésica, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A IASP (Associação Internacional de Estudos para Dor) em 2023 está abolindo o termo 'lombociatalgia', especialmente para a dor que irradia abaixo do joelho, recomendando 'dor em perna associada à coluna' [1, 2].",
     "type": "conteudista"
   },
@@ -549,9 +549,9 @@
     "question": "Qual é a principal limitação dos exames de imagem, como a Ressonância Magnética (RM), no diagnóstico da dor em perna associada à coluna (lombociatalgia clássica)?",
     "options": [
       "A RM só detecta lesões em pacientes acima de 60 anos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "A RM não é capaz de detectar compressão de raiz nervosa, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "O exame possui alta prevalência de achados de degeneração (ex: hérnias) em pacientes assintomáticos, gerando baixa correlação direta entre achado radiológico e a experiência dolorosa do paciente, conforme recomendações de prática clínica.",
       "O exame é caro e sempre deve ser evitado, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "O exame possui alta prevalência de achados de degeneração (ex: hérnias) em pacientes assintomáticos, gerando baixa correlação direta entre achado radiológico e a experiência dolorosa do paciente, conforme recomendações de prática clínica.",
+      "A RM não é capaz de detectar compressão de raiz nervosa, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "A RM só é útil para avaliar a musculatura paravertebral, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
     ],
     "correctIndex": 2,
@@ -561,24 +561,24 @@
   {
     "question": "Na abordagem da lombalgia irradiada, qual é o tempo mínimo de má evolução que deve ser observado antes de o médico de família considerar a solicitação de exames de imagem, como a Ressonância Magnética (RM)?",
     "options": [
+      "1 semana.",
       "3 dias.",
       "2 semanas.",
       "3 meses.",
-      "6 meses.",
-      "1 semana."
+      "6 meses."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O raciocínio clínico recomenda tratar primeiro, ver quem sente e como é o iceberg, para depois de 3 meses, se não houver melhora, talvez pedir um exame de imagem [5].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a porcentagem aproximada de pessoas que chegam com o padrão clássico de dor em perna associada à coluna (lombociatalgia) que, ao fazerem uma Ressonância Magnética (RM), não apresentam nenhuma lesão estrutural?",
     "options": [
-      "Até 10%, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Até 25%, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Até 10%, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Até 60% (2 a 3 em cada 5), segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
-      "Mais de 80%, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Menos de 5%, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Menos de 5%, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Mais de 80%, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
     "correctIndex": 2,
     "explanation": "Até 60% das pessoas que chegam com esse padrão de dor ('lombociatalgia clássica') não apresentam nada na ressonância, indicando que nem sempre a dor tem uma causa estrutural clara [2].",
@@ -587,37 +587,37 @@
   {
     "question": "A dor em perna associada à coluna pode ser causada por compressão muscular. Quais músculos são frequentemente citados como afetados, exercendo influência sobre o nervo ciático por contiguidade?",
     "options": [
-      "Quadríceps e Tibial Anterior, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Glúteo Máximo e Isquiotibiais, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "Glúteo Mínimo e Piriforme, em consonância com as diretrizes de manejo da dor lombar.",
+      "Quadríceps e Tibial Anterior, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Psoas Maior e Iliopsoas, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Musculatura paravertebral, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Musculatura paravertebral, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Glúteo Máximo e Isquiotibiais, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Na lombalgia irradiada, a abordagem inclui glúteo mínimo e piriforme. O nervo ciático emerge nessa região, sendo afetado pelo músculo edemaciado/contraído ('trigger point') [5, 6].",
     "type": "conteudista"
   },
   {
     "question": "Ao avaliar a prevalência de achados degenerativos em pacientes assintomáticos de 60 anos, qual a porcentagem aproximada que apresenta algum nível de degeneração discal ou de vértebras na RM?",
     "options": [
+      "Quase 90%, em consonância com as diretrizes de manejo da dor lombar, em consonância com as diretrizes de manejo da dor lombar.",
       "Cerca de 20%, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Cerca de 50%, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Quase 90%, em consonância com as diretrizes de manejo da dor lombar, em consonância com as diretrizes de manejo da dor lombar.",
-      "Cerca de 40%, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "100%, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "100%, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Cerca de 40%, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Na faixa etária dos 60 anos, quase 90% das pessoas apresentam degeneração de escala, mesmo não reclamando de dor [4].",
     "type": "conteudista"
   },
   {
     "question": "O que o termo 'Bandeiras Amarelas' (*Yellow Flags*) representa no contexto da dor lombar, especialmente na APS?",
     "options": [
-      "Sinais de alerta para tumores ou fraturas, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Fatores de risco ambientais (ex: má postura) que podem ser corrigidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Fatores psicossociais, emocionais e de crença (ex: estresse, solidão, ansiedade, desemprego) que perpetuam a dor crônica, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
+      "Sintomas exclusivamente neuropáticos, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Apenas a necessidade de um exame de imagem urgente, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Sintomas exclusivamente neuropáticos, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Fatores psicossociais, emocionais e de crença (ex: estresse, solidão, ansiedade, desemprego) que perpetuam a dor crônica, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
+      "Fatores de risco ambientais (ex: má postura) que podem ser corrigidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "Sinais de alerta para tumores ou fraturas, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
     "correctIndex": 2,
     "explanation": "As Bandeiras Amarelas representam os fatores psicossociais contidos nas camadas profundas do 'iceberg' da dor (Tristeza, solidão, saudade, insatisfação, desemprego, estresse, ansiedade, etc.) [7, 8].",
@@ -627,99 +627,99 @@
     "question": "Um músculo com 'trigger point' (ponto gatilho), como o piriforme, pode gerar uma dor irradiada. Qual o mecanismo fisiopatológico mais citado para essa irradiação, além da compressão mecânica direta no nervo ciático?",
     "options": [
       "Compressão medular grave, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Sensibilização central, que amplifica os estímulos e transforma a dor em uma experiência mais intensa e difusa, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
       "Aumento da pressão intracraniana, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Formação de coágulos venosos profundos, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Infecção bacteriana da coluna, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Infecção bacteriana da coluna, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Sensibilização central, que amplifica os estímulos e transforma a dor em uma experiência mais intensa e difusa, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema."
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "A dor irradiada pode ser gerada pelo próprio músculo afetado (trigger point) através do padrão de dor e pela sensibilização que pode ocorrer (sensibilização central), além do efeito de contiguidade no nervo ciático [5].",
     "type": "conteudista"
   },
   {
     "question": "A dor em perna associada à coluna que segue o padrão dos dermátomos (faixas específicas do corpo, ex: L4, L5, S1) sugere acometimento de qual estrutura?",
     "options": [
-      "Apenas do glúteo médio, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "Da musculatura abdominal, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Apenas de vasos sanguíneos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Da raiz nervosa (radiculopatia) em um nível medular específico, refletindo a sensibilidade na faixa do corpo correspondente, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "Exclusivamente do tecido mole adjacente, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Apenas de vasos sanguíneos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Da musculatura abdominal, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Apenas do glúteo médio, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Exclusivamente do tecido mole adjacente, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O padrão dos dermátomos sensitivos está associado ao comprometimento da raiz nervosa ou de um nível medular, onde a dor é distribuída na faixa do corpo afetada [6, 9].",
     "type": "conteudista"
   },
   {
     "question": "Para a dor que irradia, que é frequentemente neuropática, qual classe de medicamento é citada como de alto nível de evidência, mas com um Número Necessário para Causar Dano (NNH) relativamente alto?",
     "options": [
-      "Analgésicos simples (Dipirona/Paracetamol), refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Relaxantes musculares (Ciclobenzaprina), sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Anti-inflamatórios não esteroidais (AINEs), desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Inibidores da Bomba de Prótons, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Gabapentinoides (Pregabalina, Gabapentina), segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "Inibidores da Bomba de Prótons, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
+      "Analgésicos simples (Dipirona/Paracetamol), refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Anti-inflamatórios não esteroidais (AINEs), desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": "Para dor que irradia (neuropática), Gabapentinoides (Pregabalina, Gabapentina) são usados. O NNH (Número Necessário para Causar Dano) é de 6 a 8, indicando que a medicação pode causar efeitos adversos significativos em uma proporção considerável de pacientes [10, 11].",
     "type": "conteudista"
   },
   {
     "question": "Em termos de achados de imagem em pacientes assintomáticos, qual a prevalência de protusão ou hérnia discal em indivíduos de 40 anos que NÃO sentem dor?",
     "options": [
-      "Cerca de 10%.",
-      "Cerca de 30%.",
       "Cerca de 50%.",
-      "Cerca de 70%.",
-      "Cerca de 90%."
+      "Cerca de 10%.",
+      "Cerca de 90%.",
+      "Cerca de 30%.",
+      "Cerca de 70%."
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": "Em pacientes de 40 anos assintomáticos, cerca de 30% já terão uma hérnia ou protusão discal (achado incidental) [3].",
     "type": "conteudista"
   },
   {
     "question": "No manejo da dor irradiada, o agulhamento a seco é uma técnica mencionada. Qual é o alvo primário do agulhamento a seco?",
     "options": [
-      "A raiz nervosa comprimida, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "O disco intervertebral degenerado, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "O 'trigger point' ou 'nozinho', que é o músculo contraído que gera a dor miofascial/irradiada, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "A estrutura energética, seguindo a medicina oriental, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "O centro de sensibilização na medula espinhal, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "A raiz nervosa comprimida, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "O centro de sensibilização na medula espinhal, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
+      "O 'trigger point' ou 'nozinho', que é o músculo contraído que gera a dor miofascial/irradiada, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O agulhamento a seco visa o 'trigger point' (ponto gatilho), que é o músculo contraído (o 'nozinho'), tratando a questão mais física e patológica da musculatura [12].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a principal implicação do fato de que a lombalgia irradiada nem sempre tem correlação com achados de lesão na RM (discordância clínico-radiológica)?",
     "options": [
+      "A dor irradiada não necessita de tratamento, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
+      "A intervenção deve focar na abordagem clínica, funcional, e nos fatores psicossociais (iceberg) e, caso se peça o exame, o médico deve evitar tratar um achado incidental (como uma hérnia assintomática) como a causa primária da dor, conforme recomendações de prática clínica, segundo literatura recente sobre o tema.",
       "A dor irradiada é sempre puramente psicossomática, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "O médico deve sempre tratar a dor com cirurgia, independentemente do exame, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "A intervenção deve focar na abordagem clínica, funcional, e nos fatores psicossociais (iceberg) e, caso se peça o exame, o médico deve evitar tratar um achado incidental (como uma hérnia assintomática) como a causa primária da dor, conforme recomendações de prática clínica, segundo literatura recente sobre o tema.",
-      "O exame de imagem deve ser solicitado na primeira consulta para orientar o tratamento, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "A dor irradiada não necessita de tratamento, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "O exame de imagem deve ser solicitado na primeira consulta para orientar o tratamento, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Não existe correlação direta entre dor e achado nos exames [3]. Se o médico trata o achado da coluna (como uma hérnia), mas a dor está no músculo, o tratamento será ineficaz. O foco deve ser na experiência do adoecimento e na função [13].",
     "type": "conteudista"
   },
   {
     "question": "Qual é o principal fator que distingue a 'Bandeira Vermelha' (*Red Flag* - não detalhada nos materiais, mas implícita na necessidade de investigação urgente) de um quadro comum de lombalgia mecânica?",
     "options": [
-      "O fato de a dor ser de ritmo mecânico e melhorar ao caminhar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "A presença de dor que se irradia apenas para a coxa, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "Sinais de alerta graves que sugerem patologias sérias (ex: fratura, tumor, síndrome da cauda equina, infecção), exigindo investigação imediata (em contraste com a espera de 3 meses), segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "O achado de degeneração na RM em um paciente assintomático, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "O uso de anti-inflamatórios como primeira linha de tratamento, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "O uso de anti-inflamatórios como primeira linha de tratamento, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "O fato de a dor ser de ritmo mecânico e melhorar ao caminhar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Sinais de alerta graves que sugerem patologias sérias (ex: fratura, tumor, síndrome da cauda equina, infecção), exigindo investigação imediata (em contraste com a espera de 3 meses), segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Enquanto a maioria das lombalgias não requer investigação imediata (devido à baixa correlação com lesão), as 'Bandeiras Vermelhas' representam sinais de alarme que indicam condições graves (como tumor ou infecção/neurológicas) que anulam a regra dos 3 meses e exigem investigação imediata, evitando os 'desencontros' clínicos [2].",
     "type": "conteudista"
   },
   {
     "question": "Um paciente de 35 anos chega ao consultório com dor que irradia abaixo do joelho (padrão 'dor em perna associada à coluna'), com início há 4 semanas, sem febre ou déficits neurológicos. Qual a decisão clínica mais correta em relação à solicitação de exame de imagem (RM)?",
     "options": [
-      "Solicitar a RM imediatamente para confirmar a compressão nervosa, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Informar ao paciente que o exame de imagem não é recomendado neste momento e iniciar tratamento focado em orientação (estrutura/função/ritmo) e anti-inflamatórios/relaxantes, e reavaliar a imagem somente após 3 meses de má evolução, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "Encaminhar imediatamente para cirurgia de coluna, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
+      "Informar ao paciente que o exame de imagem não é recomendado neste momento e iniciar tratamento focado em orientação (estrutura/função/ritmo) e anti-inflamatórios/relaxantes, e reavaliar a imagem somente após 3 meses de má evolução, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Solicitar a RM imediatamente para confirmar a compressão nervosa, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Solicitar apenas radiografia simples da coluna lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Prescrever Gabapentina de imediato, devido ao alto NNH, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
     ],
@@ -733,8 +733,8 @@
       "A hérnia é a única causa da dor, e os fatores emocionais são irrelevantes, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "O paciente precisa de cirurgia de urgência, pois a hérnia é a causa primária, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "A hérnia discal é provavelmente um achado incidental e assintomático, e a dor real é impulsionada pela sensibilização central e fatores psicossociais ('iceberg'), exigindo neuromoduladores (tricíclicos) e manejo da ansiedade/estresse, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
-      "O exame de RM deve ser repetido a cada mês, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "O paciente deve ser tratado apenas com analgésicos simples, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "O paciente deve ser tratado apenas com analgésicos simples, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "O exame de RM deve ser repetido a cada mês, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
     ],
     "correctIndex": 2,
     "explanation": "Achados de degeneração são comuns em assintomáticos (30% dos 40 anos têm hérnia) [3]. A dor que piora com estresse/ansiedade aponta para as camadas profundas do 'iceberg' e para a Sensibilização Central (o 'secretário' sobrecarregado), que amplifica o estímulo doloroso [7, 14].",
@@ -743,11 +743,11 @@
   {
     "question": "Qual das seguintes descrições de dor sugere a ativação do mecanismo de Sensibilização Central, sendo crucial para o raciocínio clínico na lombalgia irradiada crônica?",
     "options": [
-      "Dor que melhora significativamente com repouso absoluto, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Dor que piora ao virar na cama e pela manhã, sugerindo componente mecânico, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Dor que piora com estresse emocional, fadiga e tem caráter difuso/desproporcional, indicando que o sistema nervoso central está amplificando os estímulos ('o secretário surtou'), conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Dor que melhora apenas com massagem local e compressa quente, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Dor exclusivamente localizada entre as costelas e a prega glútea, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Dor que melhora apenas com massagem local e compressa quente, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Dor que piora com estresse emocional, fadiga e tem caráter difuso/desproporcional, indicando que o sistema nervoso central está amplificando os estímulos ('o secretário surtou'), conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Dor que melhora significativamente com repouso absoluto, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Dor que piora ao virar na cama e pela manhã, sugerindo componente mecânico, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
     "correctIndex": 2,
     "explanation": "A sensibilização central intensifica a experiência dolorosa [15]. Fatores como estresse, ansiedade e cansaço são as 'camadas profundas' do iceberg [7, 8] que levam o sistema (o 'secretário') a falhar na inibição, amplificando a dor [14].",
@@ -756,24 +756,24 @@
   {
     "question": "Um paciente de 60 anos com lombalgia crônica irradida, sem má evolução recente, decide fazer uma RM particular contra a orientação médica, que revela degeneração avançada (quase 90% dos assintomáticos dessa idade a têm). Para gerenciar a expectativa do paciente, qual a principal ferramenta de comunicação a ser utilizada pelo médico?",
     "options": [
-      "Utilizar o Protocolo SPIKES (comunicação de notícias difíceis) para explicar que os achados de degeneração são comuns em pessoas assintomáticas e que a imagem não se correlaciona diretamente com a dor que ele sente, direcionando o foco para a melhora da função, segundo literatura recente sobre o tema.",
       "Sugeri-lo a ignorar o exame de imagem completamente, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "Encaminhar imediatamente para a cirurgia para corrigir a degeneração, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
       "Afirmar que a dor é imaginária, já que a degeneração é normal para a idade, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Incentivá-lo a buscar a 'cura da melancolia' através de terapias alternativas, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Encaminhar imediatamente para a cirurgia para corrigir a degeneração, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "Utilizar o Protocolo SPIKES (comunicação de notícias difíceis) para explicar que os achados de degeneração são comuns em pessoas assintomáticas e que a imagem não se correlaciona diretamente com a dor que ele sente, direcionando o foco para a melhora da função, segundo literatura recente sobre o tema.",
+      "Incentivá-lo a buscar a 'cura da melancolia' através de terapias alternativas, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "O paciente chega com uma expectativa baseada no achado de imagem. O médico deve utilizar ferramentas de comunicação (como o Protocolo SPIKES, citado para lidar com notícias difíceis ou a experiência dolorosa subjetiva [13, 16]) para orientar que os achados degenerativos são prevalentes em assintomáticos (quase 90% aos 60 anos) e que não há correlação direta com a dor [3, 4, 13].",
     "type": "raciocínio"
   },
   {
     "question": "Qual dos seguintes padrões de piora da dor, na lombalgia irradiada, seria um forte indicador de uma 'Bandeira Vermelha' (necessidade de investigação urgente), que contradiz a recomendação de esperar 3 meses?",
     "options": [
-      "Dor que piora ao caminhar longas distâncias e melhora ao sentar, sugerindo claudicação (vascular ou neurogênica), refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "Dor que piora ao virar na cama e pela manhã, sugerindo componente mecânico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "Dor que piora à noite e não melhora com repouso, sugerindo origem inflamatória ou neoplásica (Red Flag), segundo literatura recente sobre o tema.",
       "Dor que piora com estresse emocional e fadiga, sugerindo sensibilização central, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Dor que piora exclusivamente após exercícios intensos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Dor que piora exclusivamente após exercícios intensos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Dor que piora à noite e não melhora com repouso, sugerindo origem inflamatória ou neoplásica (Red Flag), segundo literatura recente sobre o tema.",
+      "Dor que piora ao virar na cama e pela manhã, sugerindo componente mecânico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
+      "Dor que piora ao caminhar longas distâncias e melhora ao sentar, sugerindo claudicação (vascular ou neurogênica), refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
     ],
     "correctIndex": 2,
     "explanation": "O ritmo inflamatório, caracterizado por dor que piora à noite ou que não melhora com repouso [17], está frequentemente associado a processos patológicos graves (como tumores ou infecções vertebrais) e é um sinal clássico de 'Bandeira Vermelha' que exige investigação imediata, quebrando a regra dos 3 meses de espera [2, 5].",
@@ -782,11 +782,11 @@
   {
     "question": "Quais métodos centrais (além do técnico) são listados para orientar a abordagem e tratamento da lombalgia, reforçando a importância de focar na pessoa?",
     "options": [
-      "Apenas o BERA e a Audiometria, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "Apenas o PQRST e a Ressonância Magnética, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "O Método Clínico Centrado na Pessoa (MCCP) e o Sistema de Informação para o Encontro (SIFE), conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "O uso exclusivo de Anti-inflamatórios e Relaxantes Musculares, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "O Protocolo de Cirurgia Imediata (PCI) e o Bloqueio Paraespinhoso, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "O uso exclusivo de Anti-inflamatórios e Relaxantes Musculares, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
+      "O Método Clínico Centrado na Pessoa (MCCP) e o Sistema de Informação para o Encontro (SIFE), conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Apenas o BERA e a Audiometria, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Apenas o PQRST e a Ressonância Magnética, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
     "correctIndex": 2,
     "explanation": "As ferramentas para a abordagem incluem o MCCP (Método Clínico Centrado na Pessoa) e o SIFE (Sistema de Informação para o Encontro) [1]. O MCCP é crucial porque a dor é uma experiência subjetiva e exige o foco na pessoa, e não na doença [2].",
@@ -796,49 +796,49 @@
     "question": "Qual ferramenta de comunicação é explicitamente mencionada para ajudar o médico a transmitir informações complexas, abstratas ou potencialmente negativas ao paciente com dor crônica?",
     "options": [
       "O Protocolo PQRST, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "O Teste de Lasègue modificado, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "O Protocolo de comunicação de notícias difíceis (SPIKES), em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "O Método Clínico Centrado na Doença (MCCD), o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "O Acrônimo NNH, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
-      "O Teste de Lasègue modificado, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "O Método Clínico Centrado na Doença (MCCD), o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Ferramentas de comunicação como o protocolo SPIKES (comunicação de notícias difíceis) são importantes para amenizar o sofrimento na comunicação sobre a dor e a experiência dolorosa, que pode ser abstrata e difícil [1, 3, 4].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a principal orientação não farmacológica que o médico pode dar ao paciente com lombalgia, baseada no raciocínio clínico da fisiopatologia?",
     "options": [
-      "Restrição de líquidos e dieta com alto teor de sódio, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Recomendação de repouso absoluto por mais de 3 meses, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Orientações com base na estrutura, função e ritmo da dor, informando o que pode piorar e o que pode melhorar o quadro, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
       "Uso constante e sem limite de AINEs, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Encaminhamento imediato para cirurgia de coluna, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Recomendação de repouso absoluto por mais de 3 meses, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Encaminhamento imediato para cirurgia de coluna, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Orientações com base na estrutura, função e ritmo da dor, informando o que pode piorar e o que pode melhorar o quadro, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
+      "Restrição de líquidos e dieta com alto teor de sódio, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Orientações não farmacológicas incluem o raciocínio clínico sobre estrutura, função e ritmo, permitindo que o médico dê informações sobre o que pode melhorar ou desencadear a dor com base na fisiopatologia do paciente [1, 5].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a classe de medicamentos considerada de Primeira Linha para o tratamento farmacológico da lombalgia, segundo evidências?",
     "options": [
-      "Opioides fortes, como a Morfina, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Anticonvulsivantes (Gabapentinoides), o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Analgésicos simples (Dipirona e Paracetamol), refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Anti-inflamatórios Não Esteroidais (AINEs), para uso a curto prazo, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Analgésicos simples (Dipirona e Paracetamol), refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Opioides fortes, como a Morfina, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Relaxantes musculares como primeira linha isolada, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "A primeira linha baseada em evidências para o tratamento farmacológico são os Anti-inflamatórios Não Esteroidais (AINEs) [6]. O uso de analgésicos simples geralmente não é tão eficaz para lombalgia [6].",
     "type": "conteudista"
   },
   {
     "question": "Para o tratamento da dor lombar, qual é o papel primário dos relaxantes musculares, e qual o exemplo de droga clássica citada?",
     "options": [
-      "Tratar a dor neuropática e a sensibilização central (ex: Pregabalina), o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Atuar como primeira linha de tratamento para dor inflamatória (ex: Ibuprofeno), refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "Ajudar no componente musculoesquelético de rigidez e contração (ex: Ciclobenzaprina), com uso a curto prazo, conforme recomendações de prática clínica.",
+      "Substituir a necessidade de fisioterapia, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Tratar apenas a dor que irradia abaixo do joelho, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Substituir a necessidade de fisioterapia, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Ajudar no componente musculoesquelético de rigidez e contração (ex: Ciclobenzaprina), com uso a curto prazo, conforme recomendações de prática clínica.",
+      "Atuar como primeira linha de tratamento para dor inflamatória (ex: Ibuprofeno), refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
+      "Tratar a dor neuropática e a sensibilização central (ex: Pregabalina), o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
     "correctIndex": 2,
     "explanation": "O relaxante muscular é útil porque a lombalgia envolve frequentemente a musculatura (paravertebral, glúteo) [7]. Ciclobenzaprina (Osn*n, Famos*) é citada como um relaxante muscular clássico [7].",
@@ -847,13 +847,13 @@
   {
     "question": "Além dos AINEs e relaxantes, qual tipo de tratamento não farmacológico é citado como tendo um efeito de relaxamento muscular similar ao relaxante?",
     "options": [
+      "Fazer agulhamento a seco, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Agulhamento úmido, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
       "Compressa quente, em consonância com as diretrizes de manejo da dor lombar.",
-      "Fazer agulhamento a seco, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Compressa fria, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Restrição alimentar completa, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "A compressa quente costuma ter um efeito de relaxamento muscular, um tipo de orientação que pode ser dada antes da prescrição de remédios [7].",
     "type": "conteudista"
   },
@@ -861,51 +861,51 @@
     "question": "Em quais situações, principalmente, os antidepressivos tricíclicos (como a Amitriptilina) podem ser indicados no tratamento da dor lombar?",
     "options": [
       "Exclusivamente em casos de hérnia de disco grave, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Quando há apenas um componente nociceptivo clássico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Principalmente quando há um componente psicossocial (como estresse/ansiedade) ou sensibilização central, tornando a dor fora do normal.",
       "Como substituto direto dos AINEs em todos os casos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Apenas para tratar insônia, sem efeito sobre a dor, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "Apenas para tratar insônia, sem efeito sobre a dor, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
+      "Quando há apenas um componente nociceptivo clássico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "Principalmente quando há um componente psicossocial (como estresse/ansiedade) ou sensibilização central, tornando a dor fora do normal."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Os tricíclicos (como Amitriptilina) são usados principalmente quando o médico pensa em um componente psicossocial ou naquela sensibilização central, fazendo a dor se manifestar de forma mais intensa ou fora do padrão normal [8].",
     "type": "conteudista"
   },
   {
     "question": "O que o conceito de NNH (Número Necessário para Causar Dano) representa no contexto dos Gabapentinoides (Pregabalina/Gabapentina) para dor?",
     "options": [
-      "O número de pacientes que precisa ser tratado para um ter melhora, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "O número de pacientes que, ao serem tratados, um sofrerá um efeito adverso significativo (dano), em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
+      "A dose máxima tolerada da medicação, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "O número de médicos que prescrevem essa droga sem base em evidências, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "O tempo necessário para a droga começar a fazer efeito, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "A dose máxima tolerada da medicação, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "O número de pacientes que precisa ser tratado para um ter melhora, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "NNH (Número Necessário para Causar Dano) é o inverso do NNT (Número Necessário para Tratar) e foca no risco, indicando quantos pacientes tratados causarão um dano [8].",
     "type": "conteudista"
   },
   {
     "question": "Qual o valor aproximado do NNH (Número Necessário para Causar Dano) citado para os Gabapentinoides, sugerindo cautela na prescrição?",
     "options": [
-      "NNH 15 a 20.",
-      "NNH 6 a 8.",
-      "NNH < 3.",
       "NNH > 50.",
+      "NNH < 3.",
+      "NNH 6 a 8.",
+      "NNH 15 a 20.",
       "NNH 1 a 2."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Os Gabapentinoides apresentam um NNH de 6 a 8, o que significa que, para cada 6 a 8 pessoas tratadas, uma pode sofrer um dano (efeito adverso significativo), exigindo que o médico pondere bem o risco/benefício [1, 8, 9].",
     "type": "conteudista"
   },
   {
     "question": "Qual dos seguintes efeitos adversos é comumente associado à prescrição de Gabapentinoides, que o médico deve comunicar ao paciente?",
     "options": [
-      "Dor de cabeça intensa, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Constipação e boca seca, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Sonolência, risco de queda e falta de adaptação, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "Hipertensão arterial e taquicardia, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Sonolência, risco de queda e falta de adaptação, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
+      "Constipação e boca seca, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Dor de cabeça intensa, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "Aumento do apetite e perda de peso, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "É comum o médico prescrever e já comunicar os efeitos como sonolência, risco de queda (pode te deixar sonolento, pode te deixar grogue) ou falta de adaptação [9].",
     "type": "conteudista"
   },
@@ -914,76 +914,76 @@
     "options": [
       "O agulhamento a seco foca em pontos energéticos e medicina oriental, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "O agulhamento a seco é uma prática que utiliza agulhas com anestésicos (infiltração), sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
+      "O agulhamento a seco é usado apenas para dor neuropática, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "O agulhamento a seco foca na questão mais física e patológica, visando desativar os 'trigger points' (pontos-gatilho) no músculo contraído, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
-      "O agulhamento a seco é proibido pela medicina baseada em evidências, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "O agulhamento a seco é usado apenas para dor neuropática, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
+      "O agulhamento a seco é proibido pela medicina baseada em evidências, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O agulhamento a seco é uma prática focada na questão patológica e muscular, visando desativar o 'trigger point' (o 'nozinho'), diferentemente da acupuntura que envolve a questão energética [10].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a principal diferença entre o Agulhamento a Seco e o Agulhamento Úmido (Wet Needling)?",
     "options": [
+      "Ambos são idênticos e os termos são sinônimos, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "O agulhamento a seco é usado para dor crônica e o úmido para dor aguda, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "O agulhamento úmido é realizado com o uso de anestésicos (infiltração) para bloquear ou diminuir estímulos de dor [11], conforme recomendações de prática clínica, segundo literatura recente sobre o tema, conforme recomendações de prática clínica.",
       "O agulhamento úmido é o único que foca em 'trigger points', desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "O agulhamento a seco é feito com agulhas finas e o úmido com agulhas grossas, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Ambos são idênticos e os termos são sinônimos, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
+      "O agulhamento úmido é realizado com o uso de anestésicos (infiltração) para bloquear ou diminuir estímulos de dor, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, conforme recomendações de prática clínica."
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "O agulhamento úmido é quando o procedimento é feito com anestésicos, como se fosse uma infiltração, com a perspectiva de diminuir os estímulos nervosos de dor [11].",
     "type": "conteudista"
   },
   {
     "question": "A abordagem da 'Saúde do Trabalhador' na APS foca em qual aspecto do adoecimento, diferentemente da 'Medicina Ocupacional'?",
     "options": [
-      "Foca exclusivamente nas intervenções individuais no trabalhador, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Foca no processo de trabalho, na organização e na atividade que a pessoa exerce, visando modificar o trabalho se ele for a causa do adoecimento, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
       "Foca apenas em emitir atestados para a previdência social, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "Foca na prescrição de AINEs de longo prazo para todos os trabalhadores, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Foca em tratar apenas doenças não relacionadas à dor, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Foca na prescrição de AINEs de longo prazo para todos os trabalhadores, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Foca exclusivamente nas intervenções individuais no trabalhador, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Foca no processo de trabalho, na organização e na atividade que a pessoa exerce, visando modificar o trabalho se ele for a causa do adoecimento, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema."
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "A Saúde do Trabalhador olha para o processo, organização e atividade do trabalho, enquanto a Medicina Ocupacional tende a olhar para o trabalhador em si, buscando intervir no indivíduo [1, 12].",
     "type": "conteudista"
   },
   {
     "question": "Em caso de lombalgia relacionada ao processo de trabalho, o médico de família deve obrigatoriamente realizar qual ação administrativa, conforme as diretrizes da Saúde do Trabalhador?",
     "options": [
-      "Atrasar o diagnóstico por 3 meses, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
+      "Solicitar um exame de imagem imediatamente, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
+      "Apenas aconselhar o paciente a procurar outro emprego, desconsiderando a abordagem multidimensional necessária no ambulatório, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
       "Prescrever somente acupuntura, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "Realizar a notificação compulsória da doença ocupacional, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, conforme recomendações de prática clínica.",
-      "Solicitar um exame de imagem imediatamente, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "Apenas aconselhar o paciente a procurar outro emprego, desconsiderando a abordagem multidimensional necessária no ambulatório, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Atrasar o diagnóstico por 3 meses, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Tudo que é ocupacional é passível de notificação compulsória. O médico deve registrar que aquilo está acontecendo para que o sistema tome providências [1, 6, 12].",
     "type": "conteudista"
   },
   {
     "question": "Para o tratamento da lombalgia, por que é recomendado usar AINEs e relaxantes musculares apenas a curto prazo, mesmo sendo a primeira linha?",
     "options": [
-      "Para aumentar a eficácia dos Gabapentinoides, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Porque o uso crônico pode levar à dependência e vício, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Para evitar a cronificação do quadro e o aumento dos efeitos adversos (ex: gastrointestinais e renais) do uso prolongado de AINEs, em consonância com as diretrizes de manejo da dor lombar, segundo literatura recente sobre o tema.",
+      "Para aumentar a eficácia dos Gabapentinoides, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "Porque a lombalgia aguda se torna crônica em 97% dos casos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Porque a acupuntura tem maior eficácia no longo prazo, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
+      "Porque a acupuntura tem maior eficácia no longo prazo, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Porque o uso crônico pode levar à dependência e vício, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Os AINEs devem ser usados a curto prazo [6]. O uso prolongado aumenta o risco de efeitos adversos, e o papel do médico é a 'desprescrição' quando o paciente já chega tomando cronicamente [7].",
     "type": "conteudista"
   },
   {
     "question": "Um paciente com dor lombar crônica apresenta Severidade 9/10 e relata que a dor se intensifica com desemprego, estresse e falta de lazer. Baseado na analogia do 'iceberg' [13] e no MCCP, qual é a abordagem mais integral e correta para iniciar o tratamento?",
     "options": [
+      "Apenas prescrever Amitriptilina, pois cobre todos os aspectos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
       "Focar apenas no componente nociceptivo, prescrevendo alta dose de AINEs e Gabapentinoides, ignorando o contexto social, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "Reconhecer a dor como tristeza/estresse/fome (componentes profundos do iceberg), abordar os fatores psicossociais e iniciar orientações não farmacológicas (estrutura/função/ritmo) antes ou junto com a farmacoterapia.",
-      "Solicitar ressonância magnética imediata para provar a dor neuropática, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Internar o paciente para avaliação psiquiátrica imediata, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Apenas prescrever Amitriptilina, pois cobre todos os aspectos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "Solicitar ressonância magnética imediata para provar a dor neuropática, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Reconhecer a dor como tristeza/estresse/fome (componentes profundos do iceberg), abordar os fatores psicossociais e iniciar orientações não farmacológicas (estrutura/função/ritmo) antes ou junto com a farmacoterapia."
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "A dor pode ser 'Tristeza, solidão, saudade, desemprego...' [13, 14]. A abordagem integral, conforme o MCCP, exige que o médico dê enfoque na experiência do adoecimento e alcance essas camadas profundas, integrando orientações e tratando o contexto, não apenas a queixa [3, 15].",
     "type": "raciocínio"
   },
@@ -991,23 +991,23 @@
     "question": "Um médico atende três trabalhadores de uma mesma fábrica com lombalgia de ritmo mecânico. Ao investigar, descobre que a queixa está diretamente ligada à postura inadequada exigida no processo de produção. Qual a decisão de raciocínio crítico que deve ser tomada pelo médico, refletindo o princípio da 'Saúde do Trabalhador'?",
     "options": [
       "Tratar a dor individualmente com relaxantes musculares e esquecer o ambiente de trabalho, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
-      "Aconselhar os pacientes a mudar de profissão, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Realizar a notificação compulsória da doença ocupacional, reconhecendo que o problema reside na organização do trabalho e não apenas no indivíduo, e atuar para modificar o processo de trabalho, segundo literatura recente sobre o tema, conforme recomendações de prática clínica.",
+      "Atrasar o diagnóstico e a notificação por 6 meses, aguardando a má evolução, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Recomendar o uso de Gabapentinoides para todos, devido à dor crônica, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Atrasar o diagnóstico e a notificação por 6 meses, aguardando a má evolução, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório."
+      "Aconselhar os pacientes a mudar de profissão, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Realizar a notificação compulsória da doença ocupacional, reconhecendo que o problema reside na organização do trabalho e não apenas no indivíduo, e atuar para modificar o processo de trabalho, segundo literatura recente sobre o tema, conforme recomendações de prática clínica."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Quando o problema reside no trabalho e afeta várias pessoas ('tô num território atendendo várias pessoas que trabalham numa determinada fábrica'), o trabalho é a causa raiz [12]. A notificação compulsória e a modificação da organização do trabalho são as ações recomendadas na Saúde do Trabalhador [1, 12].",
     "type": "raciocínio"
   },
   {
     "question": "Um paciente com lombalgia aguda (menos de 12 semanas) chega já utilizando Dipirona e Paracetamol sem melhora. Qual o escalonamento terapêutico mais recomendado pela primeira linha, e qual a orientação não farmacológica deve acompanhá-lo?",
     "options": [
-      "Iniciar Gabapentinoides (Pregabalina) e prescrever repouso absoluto, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
+      "Solicitar ressonância magnética e encaminhar para fisioterapia sem qualquer medicação, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar.",
       "Suspender os analgésicos e iniciar AINEs de curta duração e/ou Relaxantes Musculares, orientando o paciente sobre a importância da atividade e compressa quente, em consonância com as diretrizes de manejo da dor lombar.",
-      "Suspender AINEs e iniciar Amitriptilina imediatamente, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório.",
       "Agulhamento úmido para todos os 'trigger points', refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Solicitar ressonância magnética e encaminhar para fisioterapia sem qualquer medicação, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, refletindo uma interpretação equivocada da fisiopatologia da dor lombar."
+      "Suspender AINEs e iniciar Amitriptilina imediatamente, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Iniciar Gabapentinoides (Pregabalina) e prescrever repouso absoluto, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
     "correctIndex": 1,
     "explanation": "Analgésicos simples não são a primeira linha eficaz [6]. O escalonamento sugere AINEs a curto prazo e Relaxantes Musculares [6, 7]. A orientação não farmacológica (calor, movimentação, ritmo da dor) é crucial para um plano compartilhado [5, 7].",
@@ -1017,23 +1017,23 @@
     "question": "O paciente com lombalgia irradiada não apresenta achados em RM, mas tem forte componente de sensibilização central e dor em perna associada à coluna. Baseado nos riscos dos Gabapentinoides (NNH 6-8), qual é o raciocínio terapêutico ideal?",
     "options": [
       "Prescrever Gabapentinoides imediatamente em dose máxima, ignorando o NNH, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
-      "Utilizar agulhamento a seco para os 'trigger points' (se houver), considerar Tricíclicos (Amitriptilina) para a sensibilização e abordar os fatores psicossociais, adiando Gabapentinoides devido ao alto risco de dano e efeitos colaterais, conforme recomendações de prática clínica, segundo literatura recente sobre o tema.",
-      "Encaminhar para cirurgia de coluna, pois a sensibilização é irreversível, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
       "Prescrever apenas analgésicos simples e recomendar atividade física intensa, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Fazer Agulhamento úmido e Agulhamento a seco simultaneamente, sem medicação, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico."
+      "Encaminhar para cirurgia de coluna, pois a sensibilização é irreversível, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Fazer Agulhamento úmido e Agulhamento a seco simultaneamente, sem medicação, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
+      "Utilizar agulhamento a seco para os 'trigger points' (se houver), considerar Tricíclicos (Amitriptilina) para a sensibilização e abordar os fatores psicossociais, adiando Gabapentinoides devido ao alto risco de dano e efeitos colaterais, conforme recomendações de prática clínica, segundo literatura recente sobre o tema."
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "O Gabapentinoide tem NNH 6 a 8, exigindo que o médico pense bem antes de prescrever [9]. Nesses casos (dor irradiada com sensibilização), alternativas como Tricíclicos (que ajudam na sensibilização) [8] e agulhamento (para trigger points) [10] são tratamentos eficazes que trazem 'bastante eficácia no tratamento de dor, diferentemente do uso constante de medicações' [11].",
     "type": "raciocínio"
   },
   {
     "question": "O médico identifica que a dor do paciente é de ritmo mecânico, piorando ao virar na cama (sugerindo musculatura paravertebral [16]). Como o médico pode integrar medidas farmacológicas e não farmacológicas, neste caso?",
     "options": [
-      "Prescrever opioides fortes e enviar para cirurgia, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Sugestão de mudança imediata de emprego e residência, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar.",
       "Prescrever AINEs e/ou Relaxantes Musculares a curto prazo, juntamente com a orientação sobre a função da musculatura paravertebral e uso de compressa quente na região lombar, conforme recomendações de prática clínica, segundo literatura recente sobre o tema, em consonância com as diretrizes de manejo da dor lombar.",
       "Focar apenas no diagnóstico de hérnia de disco por meio de RM, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, o que não corresponde às evidências clínicas sobre tratamento e prognóstico.",
-      "Excluir qualquer tratamento não farmacológico, focando apenas nos Gabapentinoides, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos.",
-      "Sugestão de mudança imediata de emprego e residência, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, contrariando as diretrizes clínicas atuais para o manejo da dor lombar."
+      "Prescrever opioides fortes e enviar para cirurgia, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, refletindo uma interpretação equivocada da fisiopatologia da dor lombar, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos, desconsiderando a abordagem multidimensional necessária no ambulatório.",
+      "Excluir qualquer tratamento não farmacológico, focando apenas nos Gabapentinoides, contrariando as diretrizes clínicas atuais para o manejo da dor lombar, desconsiderando a abordagem multidimensional necessária no ambulatório, o que não corresponde às evidências clínicas sobre tratamento e prognóstico, sem levar em consideração fatores biopsicossociais e critérios diagnósticos estabelecidos."
     ],
     "correctIndex": 1,
     "explanation": "A dor de ritmo mecânico envolve tipicamente o sistema muscular e esquelético [17]. O tratamento inclui AINEs e Relaxantes Musculares [6, 7]. A orientação sobre a função muscular (o 'o que fazer, o que não fazer') e a compressa quente (relaxamento muscular) são as medidas não farmacológicas que se integram à medicação [5, 7].",

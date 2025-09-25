@@ -2,65 +2,65 @@
   {
     "question": "Qual foi o marco inicial do projeto Jornada da Saúde da Med Santo Amaro e qual entidade/grupo esteve envolvido na sua concepção inicial em 2007?",
     "options": [
-      "O evento em Ferraz de Vasconcelos em 2008, organizado pela 15ª turma, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
+      "Uma iniciativa exclusiva dos docentes da faculdade de Medicina, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
       "A criação da ONG em 2008 por ex-alunos da 35ª turma, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
+      "O evento em Ferraz de Vasconcelos em 2008, organizado pela 15ª turma, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
       "A gestão de 2007 do CARMA, com alunos da 36ª turma, segundo os relatos oficiais da Jornada da Saúde, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento.",
-      "O primeiro curso introdutório de Disacusias em 2007, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
-      "Uma iniciativa exclusiva dos docentes da faculdade de Medicina, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade."
+      "O primeiro curso introdutório de Disacusias em 2007, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "A ideia da jornada começou na gestão de 2007 do pessoal do CARMA (Centro Acadêmico), mais especificamente com alunos da 36ª turma. A ONG foi propriamente fundada em 2008 [1, 2].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a cidade e o ano em que ocorreu a Primeira Jornada da Saúde, e quantos dias durou o atendimento?",
     "options": [
-      "Sarapuí, 2024, 5 dias de atendimento, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
-      "São Sebastião, 2007, 2 dias de atendimento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
+      "São Paulo, 2007, 3 dias de atendimento, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto.",
       "Ferraz de Vasconcelos, maio de 2008, 3 dias de atendimento, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento, segundo os relatos oficiais da Jornada da Saúde.",
-      "Itapetininga, 2008, 1 dia de atendimento, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
-      "São Paulo, 2007, 3 dias de atendimento, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto."
+      "São Sebastião, 2007, 2 dias de atendimento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
+      "Sarapuí, 2024, 5 dias de atendimento, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
+      "Itapetininga, 2008, 1 dia de atendimento, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A primeira jornada foi realizada em Ferraz de Vasconcelos, em maio de 2008, com duração de três dias de atendimento [1, 3].",
     "type": "conteudista"
   },
   {
     "question": "Na estrutura hierárquica de atendimentos da Jornada, qual é a responsabilidade primária dos alunos do 3º ano de Medicina?",
     "options": [
-      "Realizar triagem e questionário inicial, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "Definir a conduta médica sob supervisão, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
-      "Tirar a história clínica dos pacientes, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento.",
+      "Fazer a apresentação do caso clínico para os médicos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "Realizar sinais vitais e procedimentos pequenos, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto.",
-      "Fazer a apresentação do caso clínico para os médicos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos."
+      "Realizar triagem e questionário inicial, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
+      "Tirar a história clínica dos pacientes, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A organização hierárquica define que o pessoal do 3º ano tira a história clínica [1, 3].",
     "type": "conteudista"
   },
   {
     "question": "Qual o papel dos alunos do internato (5º e 6º anos) na organização dos atendimentos da Jornada da Saúde?",
     "options": [
-      "Definir as condutas finais e cirúrgicas, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
-      "Fazer a triagem inicial e questionário, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
+      "Realizar procedimentos complexos e exames complementares, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "Organizar as informações passadas pelos alunos mais novos e apresentar aos médicos para definição de condutas, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento, segundo os relatos oficiais da Jornada da Saúde.",
+      "Definir as condutas finais e cirúrgicas, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
       "Apenas fazer o exame físico completo, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
-      "Realizar procedimentos complexos e exames complementares, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos."
+      "Fazer a triagem inicial e questionário, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O 5º e 6º ano, que é o pessoal do internato, organiza tudo que foi passado pelos mais novos e passa para os médicos que levariam à definição de condutas [1, 3].",
     "type": "conteudista"
   },
   {
     "question": "O caráter multiprofissional sempre foi um ideal da Jornada. Quais áreas, além da Medicina, foram levadas já na Primeira Jornada em Ferraz de Vasconcelos?",
     "options": [
-      "Odontologia e Psicologia, conforme descrito nos documentos institucionais sobre o projeto.",
-      "Nutrição e Reumatologia, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "Farmácia e Enfermagem, segundo os relatos oficiais da Jornada da Saúde.",
       "Geriatria e Vascular, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
+      "Odontologia e Psicologia, conforme descrito nos documentos institucionais sobre o projeto.",
+      "Nutrição e Reumatologia, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "A Primeira Jornada foi exclusivamente médica, conforme descrito nos documentos institucionais sobre o projeto."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A ideia sempre foi ser um atendimento multiprofissional, e na Primeira Jornada em Ferraz eles conseguiram levar Farmácia e Enfermagem [1, 4].",
     "type": "conteudista"
   },
@@ -80,39 +80,39 @@
   {
     "question": "A XXI Jornada da Saúde foi realizada em Sarapuí. Qual a principal característica da infraestrutura de saúde deste município mencionada como chocante e comum em outras jornadas?",
     "options": [
-      "Não possui Unidades Básicas de Saúde (UBS), em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
+      "O IDH é considerado muito alto, mas o acesso à saúde é ruim, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
       "Possui apenas um especialista médico para todos os 10 mil habitantes, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
-      "Não possui hospital de referência, contando apenas com 4 unidades de atendimento pelo SUS, segundo os relatos oficiais da Jornada da Saúde, de acordo com as atas e registros do evento, segundo os relatos oficiais da Jornada da Saúde.",
+      "Não possui Unidades Básicas de Saúde (UBS), em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "A cidade de referência é Sorocaba, a mais de 300 km de distância, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
-      "O IDH é considerado muito alto, mas o acesso à saúde é ruim, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade."
+      "Não possui hospital de referência, contando apenas com 4 unidades de atendimento pelo SUS, segundo os relatos oficiais da Jornada da Saúde, de acordo com as atas e registros do evento, segundo os relatos oficiais da Jornada da Saúde."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Sarapuí possui 10 mil habitantes e não possui hospital, contando apenas com 4 unidades de atendimento pelo SUS. A cidade de referência é Itapetininga [5, 6].",
     "type": "conteudista"
   },
   {
     "question": "Qual é o Índice de Desenvolvimento Humano (IDH) de Sarapuí e qual a distância aproximada do município em relação a São Paulo?",
     "options": [
-      "IDH 0,850; 50 km de SP.",
       "IDH 0,600; 250 km de SP.",
-      "IDH 0,707; 160-170 km de SP.",
       "IDH 0,790; 100 km de SP.",
-      "IDH 0,550; 300 km de SP."
+      "IDH 0,550; 300 km de SP.",
+      "IDH 0,707; 160-170 km de SP.",
+      "IDH 0,850; 50 km de SP."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Sarapuí fica a 160 km [5] ou 170 km [6] de São Paulo e possui um IDH de 0,707 [5, 6].",
     "type": "conteudista"
   },
   {
     "question": "Em Sarapuí, quais especialidades médicas foram destacadas por não terem um especialista na cidade e por apresentarem longas filas de espera, indicando a necessidade premente da Jornada?",
     "options": [
-      "Cardiologia e Pneumologia.",
-      "Otorrinolaringologia e Psiquiatria.",
+      "Cirurgia Geral e Ginecologia.",
       "Geriatria e Dermatologia.",
+      "Otorrinolaringologia e Psiquiatria.",
       "Clínica Médica e Pediatria.",
-      "Cirurgia Geral e Ginecologia."
+      "Cardiologia e Pneumologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Sarapuí não possui especialista em Geriatria e nem Dermatologia [5, 6]. A fila para Dermatologia era de 350 pacientes [5, 6].",
     "type": "conteudista"
   },
@@ -120,75 +120,75 @@
     "question": "Entre as especialidades citadas com as maiores demandas reprimidas em Sarapuí, qual delas apresentava a maior fila de espera (350 pacientes)?",
     "options": [
       "Ultrassom (USG), incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
-      "Vascular, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto.",
-      "Dermatologia, de acordo com as atas e registros do evento, segundo os relatos oficiais da Jornada da Saúde, de acordo com as atas e registros do evento, segundo os relatos oficiais da Jornada da Saúde.",
       "Geriatria, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
-      "Otorrinolaringologia, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde."
+      "Otorrinolaringologia, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
+      "Vascular, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto.",
+      "Dermatologia, de acordo com as atas e registros do evento, segundo os relatos oficiais da Jornada da Saúde, de acordo com as atas e registros do evento, segundo os relatos oficiais da Jornada da Saúde."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Havia uma fila de 350 pacientes para passar em Dermatologia, sendo a maior demanda listada, seguida por 294 para USG e 150 para Vascular [5, 6].",
     "type": "conteudista"
   },
   {
     "question": "Além das áreas médicas, quais outras áreas profissionais foram incluídas no projeto ao longo de sua evolução, reforçando o caráter multiprofissional para além de Farmácia e Enfermagem?",
     "options": [
-      "Fisioterapia, Fonoaudiologia e Terapia Ocupacional, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
       "Biomedicina e Radiologia, em conjunto com supervisores, garantindo a qualidade e a organização do evento, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "Odontologia, Nutrição e Psicologia, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento, conforme os documentos institucionais sobre o projeto.",
       "Serviço Social e Direito, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
-      "Economia e Gestão Pública, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade."
+      "Economia e Gestão Pública, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
+      "Fisioterapia, Fonoaudiologia e Terapia Ocupacional, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A evolução do projeto incluiu, além da Medicina, Farmácia e Enfermagem, as áreas de Odontologia, Nutrição e Psicologia [4].",
     "type": "conteudista"
   },
   {
     "question": "A Jornada da Saúde oferece atividades complementares. Quais atividades como microprocedimentos, exames e ações lúdicas foram mencionadas como parte do crescimento e evolução do projeto?",
     "options": [
-      "Apenas exames laboratoriais básicos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
-      "Consultas médicas de rotina e doação de roupas, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "Microprocedimentos cirúrgicos, exames complementares, palhaçoterapia e educação em saúde, de acordo com as atas e registros do evento, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento.",
       "Palestras sobre Disacusias para a comunidade, conforme descrito nos documentos institucionais sobre o projeto, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
-      "Atividades focadas apenas em pesquisa científica, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto."
+      "Consultas médicas de rotina e doação de roupas, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
+      "Atividades focadas apenas em pesquisa científica, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto.",
+      "Apenas exames laboratoriais básicos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A evolução e crescimento do projeto incluem: microprocedimentos cirúrgicos e exames complementares, palhaçoterapia, educação em saúde e doação de alimentos [4].",
     "type": "conteudista"
   },
   {
     "question": "Qual dos seguintes objetivos *NÃO* é listado como parte do 'Ideal Santo Amaro' para a Jornada?",
     "options": [
-      "Maior contato e troca entre alunos de todos os semestres, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "Imersão em uma nova realidade sociocultural, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
+      "Desenvolver atividades de pesquisa que tragam o impacto da jornada em cada cidade, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto.",
+      "Maior contato e troca entre alunos de todos os semestres, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "Obter lucro para financiar o centro acadêmico, de acordo com as atas e registros do evento, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento.",
-      "Levar atendimento e cuidado humanizado à população escolhida, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto.",
-      "Desenvolver atividades de pesquisa que tragam o impacto da jornada em cada cidade, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto."
+      "Levar atendimento e cuidado humanizado à população escolhida, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Os ideais listados incluem: maior contato entre alunos, imersão em nova realidade sociocultural, atividades de pesquisa e atendimento humanizado de qualidade, mas não o objetivo de obter lucro [5, 7].",
     "type": "conteudista"
   },
   {
     "question": "Qual era a responsabilidade específica dos alunos do 1º ano na hierarquia original de atendimentos da Jornada?",
     "options": [
-      "Tirar a história clínica, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
       "Realizar o exame físico, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
       "Fazer a triagem e o questionário inicial, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento, segundo os relatos oficiais da Jornada da Saúde.",
+      "Tirar a história clínica, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
       "Apresentar o caso aos médicos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "Acompanhar os procedimentos cirúrgicos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A organização hierárquica define que o pessoal do primeiro ano geralmente faz a triagem no questionário [1, 3].",
     "type": "conteudista"
   },
   {
     "question": "Qual foi o principal 'legado' burocrático e jurídico da gestão atual da Jornada, conforme relatado pelo Diretor Tesoureiro Pedro Laganara?",
     "options": [
-      "A aquisição de novos equipamentos de ultrassom, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
+      "A expansão da Jornada para um quarto dia de atendimento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "A consolidação do processo seletivo para voluntários, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto.",
       "A viabilização e consolidação de um CNPJ para a Jornada, conferindo-lhe estrutura jurídica, de acordo com as atas e registros do evento, segundo os relatos oficiais da Jornada da Saúde, de acordo com as atas e registros do evento.",
-      "A expansão da Jornada para um quarto dia de atendimento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
-      "O patrocínio exclusivo de uma empresa de radiologia, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde."
+      "O patrocínio exclusivo de uma empresa de radiologia, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
+      "A aquisição de novos equipamentos de ultrassom, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde."
     ],
     "correctIndex": 2,
     "explanation": "O diretor tesoureiro Pedro Laganara mencionou que a gestão realizou, com o GT Lawyers, a atuação para viabilizar um CNPJ para a Jornada, que antes operava sem estrutura jurídica, sendo este um legado para o futuro [8].",
@@ -197,39 +197,39 @@
   {
     "question": "A estrutura da Jornada é caracterizada por ser multiprofissional e hierárquica. Como o caráter multiprofissional (Medicina, Enfermagem, Farmácia, Odontologia, Nutrição, Psicologia) contribui crucialmente para o impacto social do projeto em comparação com um atendimento exclusivamente médico?",
     "options": [
-      "Permite que o atendimento seja mais rápido e atinja mais cidades, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
-      "Garante que apenas casos cirúrgicos sejam atendidos, desafogando hospitais, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
       "Oferece uma abordagem holística, tratando não apenas a doença, mas também o bem-estar psicológico, nutricional e a saúde preventiva (farmácia/enfermagem), maximizando a resolução de problemas de saúde da comunidade, conforme os documentos institucionais sobre o projeto, de acordo com as atas e registros do evento.",
+      "Foca exclusivamente na formação do estudante, sem impacto real na comunidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
       "Simplifica a logística de doação de alimentos e brinquedos, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
-      "Foca exclusivamente na formação do estudante, sem impacto real na comunidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade."
+      "Garante que apenas casos cirúrgicos sejam atendidos, desafogando hospitais, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
+      "Permite que o atendimento seja mais rápido e atinja mais cidades, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "O atendimento de caráter multiprofissional é fundamental para garantir um cuidado humanizado e completo ('olho no bolo') [1, 5]. Enquanto a Medicina trata a patologia, a inclusão de Nutrição, Psicologia, Farmácia e Enfermagem oferece o cuidado integral necessário para populações vulneráveis, conforme o Ideal Santo Amaro [1, 4, 7].",
     "type": "raciocínio"
   },
   {
     "question": "Municípios como Sarapuí demonstram grande carência de especialistas (ex: filas de 350 para Dermatologia e 150 para Vascular). Qual a principal análise do impacto social da Jornada ao desafogar essas filas em um contexto de precariedade do sistema de saúde local?",
     "options": [
+      "A Jornada funciona como um desafogo pontual, oferecendo acesso a especialistas e procedimentos que, de outra forma, levariam anos ou seriam inacessíveis, restaurando histórias de pessoas que não conseguiam consultas e resolvendo problemas crônicos da fila do SUS, segundo os relatos oficiais da Jornada da Saúde.",
       "O impacto é limitado, pois apenas os médicos da Jornada conseguem resolver os casos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto.",
-      "A Jornada substitui o sistema de saúde local permanentemente, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, em conjunto com supervisores, garantindo a qualidade e a organização do evento.",
-      "A Jornada funciona como um desafogo pontual, oferecendo acesso a especialistas e procedimentos que, de outra forma, levariam anos ou seriam inacessíveis, restaurando histórias de pessoas que não conseguiam consultas e resolvendo problemas crônicos da fila do SUS [1], segundo os relatos oficiais da Jornada da Saúde.",
       "O principal impacto é garantir o CNPJ e a estrutura jurídica do projeto, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento.",
+      "A Jornada substitui o sistema de saúde local permanentemente, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, em conjunto com supervisores, garantindo a qualidade e a organização do evento.",
       "O impacto se restringe à distribuição de medicamentos básicos, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A Jornada é vista como um meio de 'desafogar e resolver' filas de pacientes que não conseguiam passar em consultas [1]. Em Sarapuí, onde o sistema é precário (sem hospital, apenas 4 unidades) e há grande fila para especialidades (Dermatologia, Vascular) [5, 6], a atuação da Jornada é crucial para garantir esse acesso temporário, mas resolutivo, a cuidados especializados.",
     "type": "raciocínio"
   },
   {
     "question": "O município de Sarapuí tem um IDH de 0,707 e não possui hospital. Como a correlação entre este IDH relativamente baixo (indicando vulnerabilidade social e econômica) e as demandas de saúde (como a alta fila para USG) sugere a necessidade da Jornada?",
     "options": [
-      "O IDH e a demanda por ultrassom não possuem relação direta, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, em conjunto com supervisores, garantindo a qualidade e a organização do evento.",
-      "Um IDH mais alto indicaria maior necessidade de projetos voluntários, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
-      "Um IDH mais baixo frequentemente se correlaciona com menor investimento e infraestrutura de saúde pública, resultando em deficiência de diagnóstico (fila de USG) e ausência de especialistas (Dermatologia/Geriatria), confirmando a necessidade de intervenções externas como a Jornada, segundo os relatos oficiais da Jornada da Saúde, de acordo com as atas e registros do evento.",
       "O baixo IDH sugere que a população é muito jovem e não precisa de especialidades complexas, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
-      "A ausência de hospital em Sarapuí se deve apenas à má gestão local, não tendo relação com o IDH, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos."
+      "A ausência de hospital em Sarapuí se deve apenas à má gestão local, não tendo relação com o IDH, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
+      "Um IDH mais alto indicaria maior necessidade de projetos voluntários, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
+      "O IDH e a demanda por ultrassom não possuem relação direta, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, em conjunto com supervisores, garantindo a qualidade e a organização do evento.",
+      "Um IDH mais baixo frequentemente se correlaciona com menor investimento e infraestrutura de saúde pública, resultando em deficiência de diagnóstico (fila de USG) e ausência de especialistas (Dermatologia/Geriatria), confirmando a necessidade de intervenções externas como a Jornada, segundo os relatos oficiais da Jornada da Saúde, de acordo com as atas e registros do evento."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O baixo IDH indica uma realidade sociocultural mais vulnerável [5]. A ausência de hospital e a alta demanda reprimida por exames complementares (como 294 para USG) e especialistas [5, 6] são sintomas diretos dessa precariedade estrutural e econômica, justificando a intervenção da Jornada, que busca levar atendimento de qualidade a essa população [5, 9].",
     "type": "raciocínio"
   },
@@ -237,25 +237,25 @@
     "question": "O 'Ideal Santo Amaro' preza pelo contato entre alunos de todos os semestres. Como a hierarquia de atendimento (1º ano: triagem; 5º/6º: apresentação) contribui para o valor pedagógico na formação médica e na integração vertical entre as turmas?",
     "options": [
       "Permite que apenas os alunos mais experientes (internato) trabalhem no atendimento direto, protegendo os mais novos, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
-      "Reforça a especialização precoce dos alunos, focando apenas na sua área de interesse, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
-      "Cria uma cadeia de aprendizado progressivo e vertical, onde alunos mais novos ganham a imersão na realidade (triagem/sinais vitais) e observam o desenvolvimento clínico dos mais velhos, enquanto os internos treinam a organização e apresentação do caso, promovendo a troca global de experiências [1, 5], segundo os relatos oficiais da Jornada da Saúde.",
       "É útil apenas para a distribuição de tarefas, sem valor educativo, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
-      "Prioriza a pesquisa científica em detrimento da prática clínica, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos."
+      "Prioriza a pesquisa científica em detrimento da prática clínica, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
+      "Reforça a especialização precoce dos alunos, focando apenas na sua área de interesse, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde.",
+      "Cria uma cadeia de aprendizado progressivo e vertical, onde alunos mais novos ganham a imersão na realidade (triagem/sinais vitais) e observam o desenvolvimento clínico dos mais velhos, enquanto os internos treinam a organização e apresentação do caso, promovendo a troca global de experiências, segundo os relatos oficiais da Jornada da Saúde."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A jornada une alunos de todas as turmas e órgãos [5, 9]. A hierarquia garante que cada semestre tenha um papel progressivo no processo clínico, permitindo que o aluno do 1º semestre 'consiga ver o desenvolvimento e o atendimento de um aluno que tá no 10, no 11º semestre, conseguir ter essa troca entre alunos' [5].",
     "type": "raciocínio"
   },
   {
     "question": "Um dos objetivos da Jornada é proporcionar aos alunos uma 'imersão em uma nova realidade sociocultural'. Qual é o principal valor pedagógico e humano dessa imersão, conforme os ideais do projeto?",
     "options": [
-      "Garantir pontos no currículo dos alunos, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
       "Capacitar os alunos a lidar com alta tecnologia em locais remotos, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, conforme descrito nos documentos institucionais sobre o projeto.",
-      "Permitir que os alunos entendam a medicina em um contexto de extrema precariedade, ensinando-os a levar o atendimento humanizado e de qualidade ('olho no bolo') a populações que não têm acesso, reforçando o Ideal Santo Amaro [5, 9], segundo os relatos oficiais da Jornada da Saúde, conforme os documentos institucionais sobre o projeto.",
       "Focar apenas no diagnóstico de Disacusias em populações carentes, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos.",
-      "Restringir a experiência apenas a Ferraz de Vasconcelos, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento."
+      "Garantir pontos no currículo dos alunos, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento, como descrito nos relatos dos anos anteriores da Jornada da Saúde, respeitando o fluxo de atendimento e a logística do projeto em cada cidade.",
+      "Restringir a experiência apenas a Ferraz de Vasconcelos, respeitando o fluxo de atendimento e a logística do projeto em cada cidade, conforme descrito nos documentos institucionais sobre o projeto, incluindo a realização de entrevistas, acolhimento e orientação dos pacientes atendidos, em conjunto com supervisores, garantindo a qualidade e a organização do evento.",
+      "Permitir que os alunos entendam a medicina em um contexto de extrema precariedade, ensinando-os a levar o atendimento humanizado e de qualidade ('olho no bolo') a populações que não têm acesso, reforçando o Ideal Santo Amaro, segundo os relatos oficiais da Jornada da Saúde, conforme os documentos institucionais sobre o projeto."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A imersão em uma nova realidade sociocultural permite 'entender um pouco melhor como a medicina funciona nesses outros lugares' [5]. O projeto busca levar atendimento humanizado, 'aquilo que só a gente sabe fazer, porque só a gente foi ensinado a ser assim' [5], unindo o atendimento de excelência com a sensibilidade necessária para populações vulneráveis [9].",
     "type": "raciocínio"
   }

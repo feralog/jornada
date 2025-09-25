@@ -2,89 +2,89 @@
   {
     "question": "Em relação à estrutura molecular do colesterol, qual combinação de características é correta, conforme as fontes?",
     "options": [
-      "Possui 24 átomos de carbono, núcleo tetracíclico e é uma substância apolar.",
       "Possui 27 átomos de carbono, estrutura dicíclica e é um lipídeo totalmente polar.",
       "Possui 27 átomos de carbono, uma estrutura tetracíclica (núcleo esteroide) e é anfipático.",
+      "É um éster com 24 carbonos e sua porção polar é a cadeia alifática lateral.",
       "É um carboidrato complexo com 27 carbonos e se liga a triglicerídeos no sangue.",
-      "É um éster com 24 carbonos e sua porção polar é a cadeia alifática lateral."
+      "Possui 24 átomos de carbono, núcleo tetracíclico e é uma substância apolar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A molécula de colesterol possui 27 átomos de carbono [1], é formada por uma estrutura tetracíclica chamada núcleo esteroide [1, 2] e é uma substância anfipática, possuindo uma parte polar (o grupo hidroxila) e uma parte apolar (os anéis e a cadeia) [3]. Além disso, o colesterol é classificado como um álcool [4].",
     "type": "conteudista"
   },
   {
     "question": "O colesterol é transportado na corrente sanguínea por lipoproteínas. Qual é o papel da lipoproteína de baixa densidade (LDL) e qual lipoproteína é considerada o 'colesterol bom'?",
     "options": [
-      "O LDL retira o colesterol da parede das artérias, e o HDL é o colesterol ruim, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "O LDL é produzido no intestino, e o VLDL é o colesterol bom, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "O LDL acaba ficando na parede das artérias, e o HDL tira esse colesterol e o retorna ao fígado, sendo o colesterol bom, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Ambas, LDL e HDL, são ruins, pois depositam colesterol na camada íntima média, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "O LDL é o colesterol bom, transportando vitaminas lipossolúveis para as células, e o HDL é o colesterol residual, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Ambas, LDL e HDL, são ruins, pois depositam colesterol na camada íntima média, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
+      "O LDL acaba ficando na parede das artérias, e o HDL tira esse colesterol e o retorna ao fígado, sendo o colesterol bom, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "O LDL retira o colesterol da parede das artérias, e o HDL é o colesterol ruim, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O colesterol é carreado na corrente sanguínea por lipoproteínas como LDL, HDL e VLDL [5]. O LDL (baixa densidade) é considerado o colesterol ruim por se depositar nas artérias [5, 6], enquanto o HDL é considerado o colesterol bom porque ele 'tira esse colesterol e volta pro fígado' [5].",
     "type": "conteudista"
   },
   {
     "question": "De acordo com a epidemiologia brasileira citada nas fontes, qual é a prevalência estimada de colesterol elevado e qual sexo tem maior prevalência?",
     "options": [
-      "Uma em cada cinco pessoas tem CT > 200 mg/dL, com prevalência maior no sexo masculino, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Uma em cada dez pessoas tem LDL-c > 130 mg/dL, sem diferença significativa entre os sexos, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "Estima-se que uma em cada três pessoas apresente Colesterol Total (CT) > 200 mg/dL e um em cada cinco indivíduos tenha LDL-c > 130 mg/dL, com prevalências maiores no sexo feminino, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
-      "Metade da população brasileira tem LDL-c > 130 mg/dL, sendo os homens mais afetados, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "CT > 200 mg/dL é raro no Brasil (menos de 10% da população), mas a prevalência é maior em mulheres, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "Uma em cada cinco pessoas tem CT > 200 mg/dL, com prevalência maior no sexo masculino, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "CT > 200 mg/dL é raro no Brasil (menos de 10% da população), mas a prevalência é maior em mulheres, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Metade da população brasileira tem LDL-c > 130 mg/dL, sendo os homens mais afetados, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Estima-se que em cada três pessoas apresentam um colesterol total maior que 200 mg/dL e que em cada cinco alguém tem mais de 130 mg/dL de LDL [3, 6]. As prevalências são maiores no sexo feminino [7].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a principal causa de morte em todo o mundo, diretamente relacionada à dislipidemia, e como o colesterol contribui para essa condição?",
     "options": [
-      "O acidente vascular cerebral (AVC), onde o colesterol se deposita na camada externa das artérias cerebrais, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "A insuficiência cardíaca congestiva, causada pelo colesterol LDL que impede a função da coenzima A redutase, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "A doença cardiovascular aterosclerótica (DCVA), onde o colesterol LDL é depositado na camada íntima média das artérias, formando placas de ateroma que podem romper e causar infarto, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "O acidente vascular cerebral (AVC), onde o colesterol se deposita na camada externa das artérias cerebrais, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "A trombose venosa profunda, causada pela hipertrigliceridemia grave, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "A insuficiência cardíaca congestiva, causada pelo colesterol LDL que impede a função da coenzima A redutase, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "O câncer, pois o colesterol é essencial para a produção de células tumorais, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A doença cardiovascular aterosclerótica (DCVA) representa a principal causa de morte em todo o mundo [6, 7]. O colesterol LDL causa problema ao ser depositado na camada íntima média das artérias, formando placas de ateroma. A rotura dessas placas é o que forma o infarto [8].",
     "type": "conteudista"
   },
   {
     "question": "Ao analisar os fatores de risco isolados que levam à doença cardiovascular, as estatísticas de 1990 a 2019 mostram uma tendência preocupante. Qual é essa tendência em relação ao colesterol?",
     "options": [
-      "O colesterol reduziu drasticamente sua posição como fator de risco isolado devido às novas estatinas, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "A mortalidade cardiovascular se manteve constante, indicando que o tratamento não é eficaz, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Não houve mudança na posição do colesterol como fator de risco em 30 anos, mostrando que a curva de mortalidade continua em ascensão, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "O tabagismo substituiu o colesterol como o principal fator de risco nos últimos 30 anos, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Houve uma ligeira redução na prevalência de colesterol alto apenas no sexo masculino, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
+      "Não houve mudança na posição do colesterol como fator de risco em 30 anos, mostrando que a curva de mortalidade continua em ascensão, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Houve uma ligeira redução na prevalência de colesterol alto apenas no sexo masculino, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "A mortalidade cardiovascular se manteve constante, indicando que o tratamento não é eficaz, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "O colesterol reduziu drasticamente sua posição como fator de risco isolado devido às novas estatinas, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A análise entre 1990 e 2019 mostra que não houve mudança, e o colesterol continua na mesma posição [8, 9]. Embora a mortalidade tenha reduzido um pouco, ela continua em curva de ascensão [9].",
     "type": "conteudista"
   },
   {
     "question": "O colesterol é classificado como um álcool. Qual é a denominação técnica do núcleo do colesterol, que também está presente nas enzimas e hormônios?",
     "options": [
-      "Ácido bempedóico, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Ciclo pentano hidrofenantreno, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
       "Glicoproteína de baixa densidade, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "Ácido bempedóico, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Coenzima A redutase, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Polifenol butílico, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
+      "Polifenol butílico, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "Ciclo pentano hidrofenantreno, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais."
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "O colesterol é um álcool [4]. O núcleo do colesterol, que é o núcleo que está em todas as enzimas e nos hormônios masculinos e femininos, é o ciclo pentano hidrofenantreno [2].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a principal diferença etiológica enfatizada nas fontes entre o LDL elevado e o Triglicerídeo (TG) elevado, e qual deles é considerado um 'erro inato do metabolismo'?",
     "options": [
-      "O TG elevado é um erro inato do metabolismo, enquanto o LDL alto é puramente causado por dieta, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "O TG só é elevado em casos de pancreatite, enquanto o LDL é sempre primário, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "Ambos são erros inatos do metabolismo e não respondem à atividade física, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "O LDL elevado é um erro inato do metabolismo (defeito na produção), não tendo efeito com dieta. O TG elevado é fortemente afetado pela alimentação (açúcar, gordura, álcool) e sedentarismo, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "O LDL alto é o único que responde à dieta e exercício, pois o TG é sempre de origem genética, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "O TG só é elevado em casos de pancreatite, enquanto o LDL é sempre primário, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
+      "O TG elevado é um erro inato do metabolismo, enquanto o LDL alto é puramente causado por dieta, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
     ],
     "correctIndex": 2,
     "explanation": "O LDL é um 'erro inato do metabolismo', sendo um defeito adquirido na vida intrauterina que leva à produção excessiva de colesterol, e a dieta para LDL tem 'zero resultado' [10]. Já o TG é alterado por fatores como alimentação com açúcar, gordura, bebida alcoólica e sedentarismo, e pode ser controlado com estilo de vida [11, 12].",
@@ -93,26 +93,26 @@
   {
     "question": "Em um paciente com alto risco cardiovascular, o valor de referência do laboratório para LDL-c (por exemplo, até 130 mg/dL) deve ser ignorado. Qual é o valor de LDL-c ideal para um paciente de Risco Intermediário, Risco Alto e Risco Extremo, respectivamente, segundo a nova diretriz?",
     "options": [
-      "Intermediário: <115 mg/dL; Alto: <100 mg/dL; Extremo: <70 mg/dL.",
-      "Intermediário: <130 mg/dL; Alto: <100 mg/dL; Extremo: <50 mg/dL.",
-      "Intermediário: <100 mg/dL; Alto: <70 mg/dL; Extremo: <40 mg/dL.",
       "Intermediário: <70 mg/dL; Alto: <50 mg/dL; Extremo: <40 mg/dL.",
-      "Intermediário: <115 mg/dL; Alto: <50 mg/dL; Extremo: <70 mg/dL."
+      "Intermediário: <100 mg/dL; Alto: <70 mg/dL; Extremo: <40 mg/dL.",
+      "Intermediário: <130 mg/dL; Alto: <100 mg/dL; Extremo: <50 mg/dL.",
+      "Intermediário: <115 mg/dL; Alto: <50 mg/dL; Extremo: <70 mg/dL.",
+      "Intermediário: <115 mg/dL; Alto: <100 mg/dL; Extremo: <70 mg/dL."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O valor normal do LDL é individual [13]. As metas são: Baixo Risco: <115 mg/dL [14, 15]; Intermediário: <100 mg/dL [14]; Alto Risco: <70 mg/dL [14]; Muito Alto Risco: <50 mg/dL [14]; Risco Extremo: <40 mg/dL [10, 14, 16].",
     "type": "conteudista"
   },
   {
     "question": "Qual é o significado clínico do Colesterol não-HDL e por que a nova diretriz o considera uma meta coprimária junto ao LDL-c?",
     "options": [
-      "O não-HDL é o principal indicador de inflamação sistêmica, usado para avaliar a necessidade de estatinas, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "O não-HDL é o colesterol livre no sangue, sendo a principal causa de pancreatite, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "É o colesterol presente nas células hepáticas, e sua redução é o alvo principal para todos os pacientes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "O colesterol não-HDL é um colesterol residual que anda de mãos dadas com o triglicerídeo, sendo usado como meta coprimária por estar ligado à ateromatose, mesmo com LDL normal, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "O não-HDL mede a eficiência das estatinas e deve ser reduzido apenas por fibratos, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "É o colesterol presente nas células hepáticas, e sua redução é o alvo principal para todos os pacientes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
+      "O não-HDL é o principal indicador de inflamação sistêmica, usado para avaliar a necessidade de estatinas, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "O não-HDL é o colesterol livre no sangue, sendo a principal causa de pancreatite, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O colesterol não-HDL é um colesterol residual que está diretamente ligado ao triglicerídeo [14] e anda de mãos dadas com ele [17]. Ele é importante pois um padrão de LDL normal, HDL baixo, TG alto e não-HDL alto causa mais ateromatose do que o habitual [18], sendo agora considerado meta coprimária junto ao LDL [17].",
     "type": "conteudista"
   },
@@ -120,75 +120,75 @@
     "question": "O que define a nova categoria de Risco Cardiovascular Extremo, e qual é a meta terapêutica de LDL-c para esses pacientes?",
     "options": [
       "Pacientes com histórico familiar de dislipidemia e LDL > 190 mg/dL; Meta < 70 mg/dL, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
+      "Pacientes com LPinha alta e obesidade; Meta < 100 mg/dL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Pacientes diabéticos com três ou mais fatores de risco; Meta < 50 mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Pacientes que já tiveram um infarto ou AVC, estão tomando medicação e tiveram outro evento nos últimos 12 meses; Meta < 40 mg/dL, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "Pacientes com escore de cálcio acima de 300 e hipertensão; Meta < 50 mg/dL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Pacientes com LPinha alta e obesidade; Meta < 100 mg/dL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "Pacientes que já tiveram um infarto ou AVC, estão tomando medicação e tiveram outro evento nos últimos 12 meses; Meta < 40 mg/dL, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Risco extremo é definido como aquele paciente que já teve um infarto ou AVC, está tomando remédio para colesterol e teve outro evento [19], ou que teve síndrome coronariana aguda recente (últimos 12 meses) [10]. A meta para o risco extremo é LDL abaixo de 40 mg/dL [10, 14, 16].",
     "type": "conteudista"
   },
   {
     "question": "Qual dos seguintes medicamentos atua bloqueando a reabsorção intestinal do colesterol que veio pela bile, impedindo que caia na corrente sanguínea, e qual sua potência de redução de LDL quando usado isoladamente?",
     "options": [
-      "Fibrato, com potência de redução de 50%, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Estatina de alta intensidade, com potência de redução de 50%, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "Inibidor da PCSK9, com potência de redução de 55%, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "Ezetimiba, com potência de redução de 20%, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
-      "Ácido bempedóico, com potência de redução de 40%, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
+      "Ácido bempedóico, com potência de redução de 40%, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "Fibrato, com potência de redução de 50%, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Estatina de alta intensidade, com potência de redução de 50%, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "A Ezetimiba atua no intestino, impedindo que o colesterol seja reabsorvido pelas microvilosidades para cair na corrente sanguínea [20]. Quando usada isoladamente, a Ezetimiba consegue reduzir o LDL em apenas 20% [21].",
     "type": "conteudista"
   },
   {
     "question": "O tratamento não farmacológico (dieta e atividade física) tem um papel importante no controle lipídico, mas 'zero resultado' no LDL. Em que aspectos ele é eficaz?",
     "options": [
-      "É eficaz na redução da produção de LDL no fígado e na melhoria do escore de cálcio, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "É eficaz no aumento da produção de enzimas com núcleo de ciclopentano hidrofenantreno, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "É eficaz na redução da produção de LDL no fígado e na melhoria do escore de cálcio, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "É eficaz somente para o colesterol total, não tendo impacto no LDL nem no HDL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "É eficaz no controle do triglicerídeo (TG) e na melhoria do colesterol HDL, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
-      "É eficaz apenas se for de alta intensidade, como 75 minutos de corrida por dia, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "É eficaz somente para o colesterol total, não tendo impacto no LDL nem no HDL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
+      "É eficaz apenas se for de alta intensidade, como 75 minutos de corrida por dia, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Dieta e atividade física para LDL é 'zero resultado' [10]. Contudo, a atividade física (exercício aeróbico) melhora o triglicerídeo e melhora o colesterol HDL [12]. Medidas de estilo de vida são eficazes na redução dos TG [11, 22].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a recomendação da diretriz sobre a dosagem da apolipoproteína B (Apo B) e a dosagem do perfil lipídico na vida adulta?",
     "options": [
-      "A Apo B deve ser dosada em todas as consultas e o perfil lipídico só após os 60 anos, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "A Apo B é a meta primária, e o perfil lipídico deve ser dosado obrigatoriamente aos 40 anos, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "A Apo B deve ser esquecida por enquanto (meta secundária) e a lipoproteína deve ser dosada em todos os indivíduos pelo menos uma vez na vida, sendo obrigatória aos 40 anos de idade, conforme evidenciado em estudos clínicos e epidemiológicos.",
+      "A Apo B deve ser dosada em todas as consultas e o perfil lipídico só após os 60 anos, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "A dosagem do colesterol deve ser feita apenas em casos de infarto prévio, independentemente da idade, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "A Apo B é a meta primária, e o perfil lipídico deve ser dosado obrigatoriamente aos 40 anos, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "A Apo B substituiu o LDL como principal marcador e deve ser dosada em crianças, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Apo B (pro B) ainda deve ser esquecida, pois não é importante para nós por enquanto [17]. A lipoproteína deve ser dosada em todos os indivíduos pelo menos uma vez na vida, sendo o ideal dosar nas crianças, mas é obrigatória aos 40 anos de idade [23].",
     "type": "conteudista"
   },
   {
     "question": "Um paciente que pratica exercício leve (como caminhada) e deseja reduzir o risco cardiovascular deve buscar qual frequência semanal mínima de atividade, independentemente do controle do colesterol?",
     "options": [
+      "Não há benefício cardiovascular com exercício leve, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "75 minutos por semana, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "150 minutos por semana, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
-      "300 minutos por semana, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "75 minutos por dia, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Não há benefício cardiovascular com exercício leve, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
+      "150 minutos por semana, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "300 minutos por semana, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": "Para reduzir eventos cardiovasculares, se for exercício leve (caminhada), o ideal é fazer 150 minutos por semana. Se for exercício de alta performance (corrida), o ideal é 75 minutos por semana [12, 24].",
     "type": "conteudista"
   },
   {
     "question": "A terapia combinada de estatinas com Ezetimiba é preferível em muitos casos em vez de aumentar a dose da estatina. Qual é o principal benefício dessa combinação, além da maior potência de redução?",
     "options": [
-      "Aumento da absorção da estatina no intestino, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Redução do risco de pancreatite aguda, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "Potencialização do efeito sem que se aumente o risco de efeito colateral, como a rabdomiólise, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
+      "Melhoria do colesterol HDL em 90%, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "Bloqueio da PCSK9, o que só é possível com terapia combinada, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Melhoria do colesterol HDL em 90%, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
+      "Potencialização do efeito sem que se aumente o risco de efeito colateral, como a rabdomiólise, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
+      "Aumento da absorção da estatina no intestino, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "Redução do risco de pancreatite aguda, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
     ],
     "correctIndex": 2,
     "explanation": "Ao associar uma estatina (bloqueio da produção) com Ezetimiba (bloqueio da reabsorção), utiliza-se dois sistemas de bloqueio [21], potencializando o efeito (podendo chegar a 65% de redução com estatina moderada) sem que haja aumento do risco de efeito colateral, como a rabdomiólise, que é um risco da associação de estatina com fibrato [1, 11, 16].",
@@ -197,130 +197,130 @@
   {
     "question": "Um paciente chega ao consultório com LDL-c de 160 mg/dL e Triglicerídeos (TG) de 750 mg/dL. Qual é a principal preocupação clínica imediata e a conduta medicamentosa primordial para esse TG, de acordo com as diretrizes?",
     "options": [
-      "A principal preocupação é o risco cardiovascular e deve-se iniciar estatina de alta potência, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "Ambos os parâmetros indicam risco extremo; deve-se dar estatina e fibrato imediatamente para reduzir ambos, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "Deve-se tratar o TG somente com dieta e exercício, independentemente do valor, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "A principal preocupação é o risco de pancreatite, e o tratamento medicamentoso com fibratos é recomendado para manter o TG abaixo de 500 mg/dL, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
       "A principal preocupação é o LDL, e o TG deve ser ignorado por não aumentar o risco cardiovascular, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Ambos os parâmetros indicam risco extremo; deve-se dar estatina e fibrato imediatamente para reduzir ambos, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Deve-se tratar o TG somente com dieta e exercício, independentemente do valor, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "A principal preocupação é o risco cardiovascular e deve-se iniciar estatina de alta potência, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Níveis de TG séricos $\\geq$ 500 mg/dL (hipertrigliceridemia grave) associam-se a risco de pancreatite aguda, não a risco cardiovascular [14, 22, 25]. Neste caso, a recomendação é usar fármacos mais eficazes na redução dos TG, como os fibratos, e o alvo terapêutico é manter os níveis séricos abaixo de 500 mg/dL [26].",
     "type": "raciocínio"
   },
   {
     "question": "Um paciente de 35 anos, fumante e sedentário, sem histórico de eventos cardiovasculares, apresenta LDL-c de 140 mg/dL. O escore PREVENTE calculado é de 4%. Como o tabagismo deve influenciar a classificação de risco e a meta de LDL-c desse paciente?",
     "options": [
-      "O tabagismo não é um agravante de risco e o paciente permanece em baixo risco (meta <115 mg/dL), conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "O paciente deve ser classificado como risco intermediário (5 a 20%), e o tabagismo é irrelevante para a meta, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "O escore PREVENTE de 4% é a única referência válida, e a meta é <130 mg/dL, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "O tabagismo é um agravante de risco muito alto. O paciente deve ser reclassificado, necessitando de uma meta de LDL-c mais baixa do que 115 mg/dL, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "O tabagismo só é considerado agravante se o LDL-c for superior a 190 mg/dL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "O paciente deve ser classificado como risco intermediário (5 a 20%), e o tabagismo é irrelevante para a meta, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "O escore PREVENTE de 4% é a única referência válida, e a meta é <130 mg/dL, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
+      "O tabagismo não é um agravante de risco e o paciente permanece em baixo risco (meta <115 mg/dL), conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Agravantes de risco devem ser considerados para reclassificação [17]. Se o paciente fuma, mesmo sendo um jovem saudável, isso é um agravante muito alto de risco. Portanto, o tabagismo tem que ser considerado na determinação do valor do LDL que será o alvo terapêutico [15]. Para um paciente em baixo risco (menos de 5% em 10 anos) [27], a meta é <115 mg/dL [14, 15], mas o agravante exigirá uma meta mais rigorosa.",
     "type": "raciocínio"
   },
   {
     "question": "Em 1950, pacientes transplantados de coração, mesmo recebendo órgãos jovens, desenvolviam aterosclerose fulminante rapidamente. Qual a principal conclusão que se pode tirar desse histórico sobre a gravidade da dislipidemia e a progressão da doença?",
     "options": [
-      "A rejeição imunológica é o fator mais importante, e o colesterol é secundário, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "A idade do paciente receptor é o fator decisivo, independentemente do LDL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Os medicamentos para rejeição são mais importantes que os hipolipemiantes na sobrevida do transplante, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
+      "A rejeição imunológica é o fator mais importante, e o colesterol é secundário, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "O LDL elevado, na ausência de tratamento específico, causa uma progressão aterosclerótica fulminante, demonstrando sua potência como fator de risco isolado e a necessidade urgente de hipolipemiantes, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
-      "O colesterol não tem impacto em pacientes jovens, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Os medicamentos para rejeição são mais importantes que os hipolipemiantes na sobrevida do transplante, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
+      "O colesterol não tem impacto em pacientes jovens, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O caso é usado para ilustrar a 'gravidade da coisa' [28]. O coração de 18 anos estava 'todo esclerosado' um ano depois, com uma reação aterosclerótica fulminante, levando o professor a parar os transplantes. Ele só voltou quando surgiram os medicamentos que sustentavam a progressão 'absurda do colesterol', ou seja, os hipolipemiantes [8, 28].",
     "type": "raciocínio"
   },
   {
     "question": "Um médico atende um paciente de alto risco pelo SUS, com LDL-c de 180 mg/dL e meta terapêutica de <70 mg/dL. O SUS só disponibiliza Sinvastatina, que reduz o LDL em apenas 30%. O médico deve seguir qual conduta, sob a perspectiva da Medicina Legal, para se proteger e garantir o melhor cuidado?",
     "options": [
-      "Prescrever a Sinvastatina e informar que o SUS só oferece essa opção, sem necessidade de registro, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "Enviar o paciente para um especialista, transferindo a responsabilidade do tratamento, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Aumentar a dose da Sinvastatina ao máximo, pois é o único remédio disponível, e não informar sobre outras opções, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Informar o paciente que a medicação disponível (Sinvastatina) é insuficiente para atingir a meta, e oferecer a possibilidade de associar Ezetimiba (se comprar) ou prescrever Atorvastatina (se conseguir relatório de alto custo), registrando todas as opções negadas pelo paciente no prontuário, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "Esperar que o paciente mude o estilo de vida, já que a Sinvastatina é fraca, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Enviar o paciente para um especialista, transferindo a responsabilidade do tratamento, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
+      "Informar o paciente que a medicação disponível (Sinvastatina) é insuficiente para atingir a meta, e oferecer a possibilidade de associar Ezetimiba (se comprar) ou prescrever Atorvastatina (se conseguir relatório de alto custo), registrando todas as opções negadas pelo paciente no prontuário, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Prescrever a Sinvastatina e informar que o SUS só oferece essa opção, sem necessidade de registro, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Pelo Código de Defesa do Consumidor, o médico é obrigado a oferecer o melhor para o consumidor [3]. Se o medicamento disponível no SUS não atinge a meta (30% de redução de 180 mg/dL daria 126 mg/dL, acima da meta <70 mg/dL) [3, 21], o médico deve avisar o paciente sobre a insuficiência do tratamento, oferecer alternativas (como a associação com Ezetimiba ou o alto custo da Atorvastatina), e anotar no prontuário que o paciente foi informado sobre as opções e que o tratamento escolhido não atingirá a meta. Isso é crucial para a defesa em caso de processo [3].",
     "type": "raciocínio"
   },
   {
     "question": "Por que, para um paciente de Baixo Risco (PREVENTE < 5%), é importante que o valor de LDL-c seja mantido abaixo de 115 mg/dL, mesmo que a referência laboratorial indique normalidade até 130 mg/dL?",
     "options": [
-      "Porque o colesterol não-HDL sempre deve ser considerado, independentemente do LDL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Porque o valor 'normal' de LDL é individualizado, e a diretriz estabelece <115 mg/dL como a meta para baixo risco, sendo crucial para a prevenção a longo prazo, mesmo em indivíduos saudáveis, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "Porque o baixo risco só existe se o paciente for diabético, caso contrário a meta é sempre <70 mg/dL, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "Porque a meta <115 mg/dL é necessária apenas para prevenir pancreatite, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "Porque, se o LDL for muito baixo (<40 mg/dL), a meta de prevenção estará garantida, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Porque a meta <115 mg/dL é necessária apenas para prevenir pancreatite, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
+      "Porque o valor 'normal' de LDL é individualizado, e a diretriz estabelece <115 mg/dL como a meta para baixo risco, sendo crucial para a prevenção a longo prazo, mesmo em indivíduos saudáveis, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Porque o colesterol não-HDL sempre deve ser considerado, independentemente do LDL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": "O valor normal do LDL é individual para cada paciente [13]. O valor de referência do laboratório deve ser esquecido [13]. Mesmo para o paciente de Baixo Risco (PREVENTE $\\leq$ 5% em 10 anos) [27], que é um jovem saudável ou atleta, a diretriz estabelece que ele tem que ter um valor de LDL menor que 115 mg/dL. Se não tiver, o médico deve intervir para alcançar essa meta [14, 15].",
     "type": "raciocínio"
   },
   {
     "question": "De acordo com as novas diretrizes, qual é o valor de LDL-c considerado meta terapêutica para um paciente classificado na nova categoria de Risco Cardiovascular Extremo?",
     "options": [
+      "Menor que 115 mg/dL",
       "Menor que 70 mg/dL",
       "Menor que 50 mg/dL",
-      "Menor que 40 mg/dL",
       "Menor que 100 mg/dL",
-      "Menor que 115 mg/dL"
+      "Menor que 40 mg/dL"
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A categoria de Risco Cardiovascular Extremo é a nova classificação introduzida na diretriz. A meta de LDL para esses pacientes é rigorosa, devendo ser menor que 40 mg/dL [1-4]. Anteriormente, a meta para o risco extremo era menor que 50 mg/dL [3].",
     "type": "conteudista"
   },
   {
     "question": "O colesterol não-HDL (não-HDL-c) é adotado como meta coprimária junto ao LDL-c. Como o não-HDL-c é conceituado e qual sua relação com outros lipídios?",
     "options": [
-      "É o colesterol presente apenas nas partículas de LDL, usado para medir a eficácia das estatinas, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "É o total de Colesterol Total menos os Triglicerídeos, sendo o alvo principal para todos os pacientes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "É a dosagem da Apolipoproteína B, que substituiu o LDL como meta primária, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "É o colesterol ligado apenas ao HDL, refletindo a proteção cardiovascular, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "É um colesterol residual que está diretamente ligado ao triglicerídeo (TG), sendo um importante marcador de ateromatose, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
-      "É o total de Colesterol Total menos os Triglicerídeos, sendo o alvo principal para todos os pacientes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "É a dosagem da Apolipoproteína B, que substituiu o LDL como meta primária, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
+      "É o colesterol presente apenas nas partículas de LDL, usado para medir a eficácia das estatinas, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O não-HDL é um colesterol residual que está diretamente ligado a triglicerídeo [2] e anda de mãos dadas com ele [5]. A diretriz o adota como meta coprimária junto ao LDL-c [6], pois um padrão de LDL normal, HDL baixo, TG alto e não-HDL alto causa mais ateromatose do que o habitual [5].",
     "type": "conteudista"
   },
   {
     "question": "Qual o critério de valor para classificar um paciente com hipertrigliceridemia grave, e qual é o principal risco associado a essa condição, conforme as fontes?",
     "options": [
-      "TG $\\geq$ 150 mg/dL, associado a risco de AVC, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "TG $\\geq$ 300 mg/dL, associado a risco de Infarto Agudo do Miocárdio (IAM), especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "TG $\\geq$ 500 mg/dL, associado a risco de pancreatite aguda, não a risco cardiovascular, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, conforme evidenciado em estudos clínicos e epidemiológicos.",
       "TG $\\geq$ 175 mg/dL em jejum, associado a rabdomiólise, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "TG $\\geq$ 300 mg/dL, associado a risco de Infarto Agudo do Miocárdio (IAM), especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "TG $\\geq$ 150 mg/dL, associado a risco de AVC, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "TG $\\geq$ 400 mg/dL, sendo um risco maior que o colesterol LDL, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Hipertrigliceridemia grave é definida como TG séricos **maior ou igual a 500 mg/dL** [2, 7], e associa-se a risco de pancreatite aguda, e não a risco cardiovascular [2, 7, 8]. O tratamento medicamentoso para TG só é recomendado quando acima de 500 mg/dL para manter os níveis abaixo desse valor [7, 8].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a meta terapêutica de LDL-c para um paciente classificado como de Risco Intermediário, de acordo com o Score PREVENTE?",
     "options": [
-      "Menor que 70 mg/dL",
       "Menor que 115 mg/dL",
+      "Menor que 130 mg/dL",
+      "Menor que 70 mg/dL",
       "Menor que 100 mg/dL",
-      "Menor que 50 mg/dL",
-      "Menor que 130 mg/dL"
+      "Menor que 50 mg/dL"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O Risco Intermediário é classificado quando o Score PREVENTE (calculado para 10 anos) está entre 5% a 20% [9]. A meta de LDL-c para esse grupo é menor que 100 mg/dL [2].",
     "type": "conteudista"
   },
   {
     "question": "A estratificação de risco é feita utilizando o Score PREVENTE. Qual é o risco percentual em 10 anos que define um paciente como de Alto Risco, e qual a meta de LDL-c?",
     "options": [
-      "Risco $\\geq$ 5%, meta LDL $< 100$ mg/dL.",
-      "Risco $\\geq$ 10%, meta LDL $< 50$ mg/dL.",
       "Risco $\\geq$ 20%, meta LDL $< 70$ mg/dL.",
+      "Risco $\\geq$ 10%, meta LDL $< 50$ mg/dL.",
+      "Risco $\\geq$ 5%, meta LDL $< 100$ mg/dL.",
       "Risco $\\geq$ 30%, meta LDL $< 40$ mg/dL.",
       "Risco $\\leq$ 5%, meta LDL $< 115$ mg/dL."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "O risco alto é determinado quando o Score PREVENTE indica uma probabilidade de evento cardiovascular acima de 20% em 10 anos [8, 9]. A meta de LDL-c para o Risco Alto é menor que 70 mg/dL [2].",
     "type": "conteudista"
   },
@@ -330,8 +330,8 @@
       "Diabéticos com mais de três fatores de risco ou score de cálcio acima de 300, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Pacientes com LDL inicial acima de 190 mg/dL e que não usam medicação, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Pacientes que já tiveram um infarto ou AVC, estão em uso de medicação e tiveram outro evento, ou tiveram Síndrome Coronariana Aguda recente (últimos 12 meses), segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos.",
-      "Qualquer paciente com triglicerídeos acima de 500 mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Pacientes de alto risco com LDL entre 50 e 70 mg/dL que precisam de terapia combinada, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
+      "Pacientes de alto risco com LDL entre 50 e 70 mg/dL que precisam de terapia combinada, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "Qualquer paciente com triglicerídeos acima de 500 mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
     ],
     "correctIndex": 2,
     "explanation": "O Risco Extremo inclui pacientes que já tiveram um infarto ou AVC, estão tomando remédio para colesterol e tiveram outro evento. Também abrange pacientes que tiveram Síndrome Coronariana Aguda recente nos últimos 12 meses [3, 4, 10].",
@@ -340,50 +340,50 @@
   {
     "question": "Qual é a faixa de valores de Triglicerídeos (TG) que é considerada anormal em jejum e no estado pós-prandial, respectivamente, pelas novas referências?",
     "options": [
+      "Em jejum $\\geq$ 500 mg/dL; Pós-prandial $\\geq$ 750 mg/dL.",
+      "Em jejum $\\geq$ 175 mg/dL; Pós-prandial $\\geq$ 200 mg/dL.",
       "Em jejum $< 100$ mg/dL; Pós-prandial $< 150$ mg/dL.",
       "Em jejum $\\geq$ 150 mg/dL; Pós-prandial $\\geq$ 175 mg/dL.",
-      "Em jejum $\\geq$ 175 mg/dL; Pós-prandial $\\geq$ 200 mg/dL.",
-      "Em jejum $\\geq$ 500 mg/dL; Pós-prandial $\\geq$ 750 mg/dL.",
       "Em jejum $\\geq$ 130 mg/dL; Pós-prandial $\\geq$ 150 mg/dL."
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": "Níveis séricos de TG **maior ou igual a 150 mg/dL em jejum** ou **maior ou igual a 175 mg/dL no estado pós-prandial** são considerados anormais [11, 12].",
     "type": "conteudista"
   },
   {
     "question": "Em relação aos valores de referência de LDL-c, o que os médicos devem fazer, conforme a orientação da aula, e qual é o valor ideal para um paciente de Baixo Risco?",
     "options": [
+      "Deve-se esquecer os valores de referência do laboratório, pois o valor normal é individual; meta de Baixo Risco $< 115$ mg/dL, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "Deve-se sempre seguir o valor de referência do laboratório (até 130 mg/dL); meta de Baixo Risco $< 130$ mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "Deve-se utilizar apenas o Score PREVENTE; meta de Baixo Risco $< 100$ mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Deve-se esquecer os valores de referência do laboratório, pois o valor normal é individual; meta de Baixo Risco $< 115$ mg/dL, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "O valor ideal é zero; meta de Baixo Risco $< 70$ mg/dL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Deve-se focar apenas no Colesterol Total; meta de Baixo Risco $< 200$ mg/dL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "O valor normal é individual para cada paciente, e os médicos são instruídos a 'esquecer aqueles valores de referência do laboratório' [13]. Para um paciente jovem, esportista, sem comorbidades (Baixo Risco, $\\leq 5%$ em 10 anos), a meta de LDL ideal é **abaixo de 115 mg/dL** [2, 13, 14].",
     "type": "conteudista"
   },
   {
     "question": "Qual das seguintes categorias de pacientes é automaticamente classificada como Risco Alto ou Muito Alto, dada a inflamação sistêmica que a acompanha?",
     "options": [
-      "Pacientes com LDL-c entre 115 mg/dL e 130 mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Pacientes com histórico familiar de hipercolesterolemia, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Pacientes diabéticos, devido à inflamação sistêmica que sempre causa alto ou muito alto risco, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos.",
       "Pacientes que tiveram apenas uma elevação de TG acima de 500 mg/dL, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Pacientes idosos (mais de 60 anos) com pressão arterial normal, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
+      "Pacientes idosos (mais de 60 anos) com pressão arterial normal, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "Pacientes com LDL-c entre 115 mg/dL e 130 mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "Pacientes diabéticos, devido à inflamação sistêmica que sempre causa alto ou muito alto risco, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O paciente diabético é considerado um fator de risco muito importante; toda a inflamação sistêmica que causa faz com que o paciente sempre vá, pelo menos, para o **alto risco ou muito alto risco** [15, 16].",
     "type": "conteudista"
   },
   {
     "question": "A meta terapêutica de LDL-c para Risco Muito Alto é menor que 50 mg/dL. Qual dos seguintes critérios pode levar um paciente a ser classificado como Risco Muito Alto, excluindo o Risco Extremo?",
     "options": [
-      "Score PREVENTE de 15% em 10 anos, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "Apenas ser tabagista e obeso, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "Ter um histórico familiar de colesterol alto, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "Diabético com mais de três fatores de risco, ou com um fator de risco muito alto, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
       "LDL-c acima de 115 mg/dL e Triglicerídeos acima de 150 mg/dL, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "Ter um histórico familiar de colesterol alto, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
+      "Score PREVENTE de 15% em 10 anos, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
     ],
     "correctIndex": 2,
     "explanation": "Um paciente diabético pode ser classificado como de **Muito Alto Risco** se já tiver mais de três fatores de risco ou um fator muito alto de risco [15]. Outro critério de Muito Alto Risco é um score de cálcio acima de 300 [15].",
@@ -392,13 +392,13 @@
   {
     "question": "O LDL de colesterol é considerado o alvo primário do tratamento, pois sua redução comprovadamente diminui eventos cardiovasculares (MC, infarto não fatal, AVC). O que ocorre quando se reduz o Triglicerídeo (TG) de forma isolada, conforme os estudos mencionados?",
     "options": [
-      "A redução do TG é o principal preditor de diminuição da mortalidade por todas as causas.",
-      "A redução do TG aumenta significativamente o HDL e reduz o LDL simultaneamente.",
       "A redução isolada do TG, mesmo com estudos, **não muda o evento cardiovascular**.",
+      "A redução do TG aumenta significativamente o HDL e reduz o LDL simultaneamente.",
+      "A redução do TG é o principal preditor de diminuição da mortalidade por todas as causas.",
       "A redução do TG é sempre mais importante que a redução do LDL.",
       "Reduzir o TG abaixo de 100 mg/dL é a nova meta para todos os pacientes."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Existem estudos com triglicerídeo que mostraram que sempre que se baixa o triglicerídeo, **não muda o evento cardiovascular** [8]. O foco do tratamento cardiovascular deve ser o LDL-c.",
     "type": "conteudista"
   },
@@ -407,11 +407,11 @@
     "options": [
       "Menor que 100 mg/dL",
       "Menor que 70 mg/dL",
-      "Menor que 50 mg/dL",
       "Menor que 40 mg/dL",
-      "Menor que 115 mg/dL"
+      "Menor que 115 mg/dL",
+      "Menor que 50 mg/dL"
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "As metas de LDL para as cinco categorias de risco são: Baixo Risco: $<115$ mg/dL; Intermediário: $<100$ mg/dL; Alto Risco: $<70$ mg/dL; **Muito Alto Risco: $<50$ mg/dL**; Risco Extremo: $<40$ mg/dL [2].",
     "type": "conteudista"
   },
@@ -419,12 +419,12 @@
     "question": "Qual a principal limitação dos valores de referência de exames de perfil lipídico fornecidos pelos laboratórios, segundo as diretrizes?",
     "options": [
       "Os laboratórios usam métodos de dosagem obsoletos, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "Os valores só são válidos para pacientes de Baixo Risco, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "O valor 'normal' é individualizado e depende da estratificação de risco do paciente, tornando as referências laboratoriais irrelevantes para a meta terapêutica, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
+      "Eles só consideram o HDL e não o LDL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Os valores laboratoriais são calculados para um risco de 20 anos, não 10 anos, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Eles só consideram o HDL e não o LDL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "Os valores só são válidos para pacientes de Baixo Risco, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "O valor 'normal' é individualizado e depende da estratificação de risco do paciente, tornando as referências laboratoriais irrelevantes para a meta terapêutica, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O médico deve 'esquecer aqueles valores de referência do laboratório', pois o **valor normal é individual para cada paciente**, sendo determinado pela sua categoria de risco cardiovascular [13].",
     "type": "conteudista"
   },
@@ -432,51 +432,51 @@
     "question": "O cálculo do Colesterol Não-HDL é fundamental como meta coprimária. Qual fórmula representa o colesterol não-HDL?",
     "options": [
       "HDL + LDL + VLDL, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Colesterol Total (CT) - Triglicerídeos (TG), o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Colesterol Total (CT) - Colesterol HDL (HDL-c), de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "VLDL + HDL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "LDL / HDL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
+      "Colesterol Total (CT) - Triglicerídeos (TG), o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "LDL / HDL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
+      "Colesterol Total (CT) - Colesterol HDL (HDL-c), de acordo com as diretrizes da Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O colesterol Não-HDL representa o colesterol em todas as lipoproteínas aterogênicas (LDL, VLDL, IDL, Lp(a), etc.). O Não-HDL é o colesterol residual [2], e é calculado subtraindo o HDL (o 'colesterol bom') do Colesterol Total (CT - HDL).",
     "type": "conteudista"
   },
   {
     "question": "Qual percentual de risco de evento cardiovascular em 10 anos, calculado pelo Score PREVENTE, coloca o paciente na categoria de Baixo Risco, exigindo uma meta de LDL-c $< 115$ mg/dL?",
     "options": [
-      "Risco $\\geq 20%$, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Risco de 5% a 20%, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "Risco $< 5%$, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais, conforme evidenciado em estudos clínicos e epidemiológicos.",
+      "Risco $\\geq 20%$, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Risco de 10% a 15%, situação observada em pacientes com síndrome metabólica e resistência à insulina, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Risco $< 1%$, situação observada em pacientes com síndrome metabólica e resistência à insulina, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O Risco Baixo é definido se o Score PREVENTE (calculado em 10 anos) der **menos de 5%**. Para esses pacientes, a meta é LDL menor que 115 mg/dL [9, 14].",
     "type": "conteudista"
   },
   {
     "question": "Um paciente de 45 anos, diabético tipo 2, sedentário e com hipertensão controlada, nunca teve infarto. Seus exames mostram Score de Cálcio de 350. Qual é a classificação de risco cardiovascular e a meta de LDL-c primária para este paciente?",
     "options": [
+      "Risco Extremo; meta LDL $< 40$ mg/dL.",
+      "Risco Muito Alto; meta LDL $< 50$ mg/dL.",
       "Alto Risco; meta LDL $< 70$ mg/dL.",
       "Risco Intermediário; meta LDL $< 100$ mg/dL.",
-      "Risco Muito Alto; meta LDL $< 50$ mg/dL.",
-      "Risco Extremo; meta LDL $< 40$ mg/dL.",
       "Baixo Risco; meta LDL $< 115$ mg/dL."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O paciente é diabético (já o coloca em Alto ou Muito Alto Risco [15, 16]). Além disso, um Score de Cálcio (K) **acima de 300** é um critério para classificar o paciente como **Risco Muito Alto** [15]. A meta de LDL para Risco Muito Alto é menor que 50 mg/dL [2].",
     "type": "raciocínio"
   },
   {
     "question": "Um paciente de 60 anos chega ao consultório com histórico de infarto agudo do miocárdio há 5 anos, está tomando sinvastatina há 3 anos, mas sofreu um AVC isquêmico há 6 meses. Qual é a correta classificação de risco e a meta de LDL-c que o médico deve buscar?",
     "options": [
+      "Risco Intermediário; meta LDL $< 100$ mg/dL.",
+      "Risco Extremo; meta LDL $< 50$ mg/dL.",
       "Risco Alto; meta LDL $< 70$ mg/dL.",
       "Risco Muito Alto; meta LDL $< 50$ mg/dL.",
-      "Risco Extremo; meta LDL $< 40$ mg/dL.",
-      "Risco Intermediário; meta LDL $< 100$ mg/dL.",
-      "Risco Extremo; meta LDL $< 50$ mg/dL."
+      "Risco Extremo; meta LDL $< 40$ mg/dL."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O paciente se enquadra na definição de Risco Extremo: 'aquele paciente que já teve um infarto ou AVC, está tomando remédio de colesterol e esse paciente teve outro evento' ou síndrome coronariana aguda recente (últimos 12 meses) [3, 4, 10]. Para o Risco Extremo, a meta é **LDL abaixo de 40 mg/dL** [1, 2, 4].",
     "type": "raciocínio"
   },
@@ -484,25 +484,25 @@
     "question": "Um paciente apresenta LDL-c de 120 mg/dL, HDL-c de 30 mg/dL e Triglicerídeos (TG) de 350 mg/dL. O Score PREVENTE indica Baixo Risco. Qual é o alvo terapêutico mais crítico a ser abordado inicialmente e por quê, considerando a necessidade de atingir metas individuais?",
     "options": [
       "O TG, pois está acima de 300 mg/dL e exige fibrato imediato, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "O LDL-c, pois a meta de Baixo Risco (<115 mg/dL) não está atingida, sendo o alvo primário para redução de eventos, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
-      "O HDL, que deve ser aumentado com estatinas de alta potência, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "O tratamento deve ser focado no TG, pois níveis altos são o principal fator de risco cardiovascular, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "O Colesterol Total, que deve ser mantido abaixo de 200 mg/dL para controle, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "O tratamento deve ser focado no TG, pois níveis altos são o principal fator de risco cardiovascular, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
+      "O HDL, que deve ser aumentado com estatinas de alta potência, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "O LDL-c, pois a meta de Baixo Risco (<115 mg/dL) não está atingida, sendo o alvo primário para redução de eventos, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "Mesmo em Baixo Risco, o valor de LDL-c tem que ser menor que 115 mg/dL [13, 14]. O LDL é o alvo primário cuja redução comprovadamente diminui eventos [8]. Portanto, o alvo mais crítico é o LDL-c (120 mg/dL) para que a meta individual (<115 mg/dL) seja alcançada. O TG, apesar de alto, não é o fator que muda o evento cardiovascular, e só exige tratamento medicamentoso acima de 500 mg/dL [8].",
     "type": "raciocínio"
   },
   {
     "question": "Um paciente de Risco Alto tem um LDL-c de 75 mg/dL, TG de 200 mg/dL e HDL-c de 35 mg/dL. Qual é a principal inadequação do perfil lipídico em relação à meta terapêutica, e qual medida adicional, além de focar no LDL, a diretriz sugere?",
     "options": [
-      "O TG está anormal (>175 mg/dL), exigindo fibrato, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "O LDL está inadequado, e o Colesterol Total é a meta coprimária, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "O LDL (75 mg/dL) está acima da meta de Risco Alto (<70 mg/dL). A diretriz sugere usar o **colesterol não-HDL** (CT - HDL) como meta coprimária, pois o padrão de TG alto e HDL baixo eleva o risco, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
       "O HDL baixo é o único problema, e deve ser tratado com exercício de alta performance, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Não há inadequação, pois o LDL está próximo da meta, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "Não há inadequação, pois o LDL está próximo da meta, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "O TG está anormal (>175 mg/dL), exigindo fibrato, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "O LDL (75 mg/dL) está acima da meta de Risco Alto (<70 mg/dL). A diretriz sugere usar o **colesterol não-HDL** (CT - HDL) como meta coprimária, pois o padrão de TG alto e HDL baixo eleva o risco, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A meta para Risco Alto é LDL **menor que 70 mg/dL** [2]; 75 mg/dL não atinge essa meta. Além disso, a diretriz agora adota o **não-HDL colesterol como meta coprimária** [6]. Um padrão de HDL baixo (35 mg/dL) e TG alto (200 mg/dL, anormal [11]) com LDL 'normal' (75 mg/dL) é um padrão que causa mais ateromatose do que o habitual, reforçando a importância da meta não-HDL [5].",
     "type": "raciocínio"
   },
@@ -510,36 +510,36 @@
     "question": "Um paciente com Risco Intermediário (meta LDL $<100$ mg/dL) está em tratamento e seu LDL-c atual é 105 mg/dL, e o Não-HDL-c é 135 mg/dL. O que o médico deve priorizar e por quê, considerando a visão moderna da dislipidemia?",
     "options": [
       "Priorizar o TG, pois o LDL está quase na meta, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
+      "Aumentar o HDL-c, pois é o colesterol bom, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Priorizar a redução do LDL (o alvo primário) para atingir os $< 100$ mg/dL, o que naturalmente ajudará a reduzir o Não-HDL-c (meta coprimária), de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
       "Priorizar apenas a redução do Não-HDL-c, focando em dieta e exercício, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Mudar o paciente para Baixo Risco, pois 105 mg/dL é um valor aceitável, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Aumentar o HDL-c, pois é o colesterol bom, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "Mudar o paciente para Baixo Risco, pois 105 mg/dL é um valor aceitável, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "O LDL-c é o **alvo primário** [8]. Embora o colesterol não-HDL seja uma meta coprimária [6], o primeiro passo é sempre garantir que o LDL atinja a meta individual (neste caso, $< 100$ mg/dL) [2]. Reduzir o LDL é a ação que comprovadamente reduz eventos cardiovasculares [8], e essa redução geralmente levará à diminuição do Não-HDL-c, que é o colesterol aterogênico total.",
     "type": "raciocínio"
   },
   {
     "question": "De acordo com as fontes, qual é o impacto principal do tratamento não farmacológico, incluindo dieta e atividade física, sobre o colesterol LDL?",
     "options": [
-      "Reduz drasticamente o LDL, sendo a primeira linha de tratamento, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Causa uma redução moderada (cerca de 30%) no LDL, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "Tem 'zero resultado' ou 'nenhum efeito' sobre o colesterol LDL, que é considerado um erro inato do metabolismo, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "É eficaz apenas na redução do LDL em pacientes jovens, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Melhora o LDL, mas piora o HDL, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
+      "Reduz drasticamente o LDL, sendo a primeira linha de tratamento, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "Melhora o LDL, mas piora o HDL, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "Causa uma redução moderada (cerca de 30%) no LDL, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "É expressamente mencionado que 'Dieta e atividade física para LDL é **zero resultado**' [1]. O LDL é considerado um defeito adquirido na vida intrauterina (erro inato do metabolismo), e não é afetado pela alimentação [1].",
     "type": "conteudista"
   },
   {
     "question": "O tratamento não farmacológico é altamente eficaz para qual componente do perfil lipídico e qual lipoproteína?",
     "options": [
-      "Colesterol Total (CT) e VLDL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Apolipoproteína B (Apo B) e LDL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "LDL e VLDL, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "Triglicerídeo (TG) e Colesterol HDL, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
-      "Colesterol Total (CT) e Quilomícrons, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "LDL e VLDL, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
+      "Colesterol Total (CT) e VLDL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "Colesterol Total (CT) e Quilomícrons, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
     "correctIndex": 2,
     "explanation": "A atividade física melhora o **triglicerídeo** e melhora o colesterol **HDL** [1, 2]. As medidas de estilo de vida são eficazes na redução dos TG [3, 4].",
@@ -548,11 +548,11 @@
   {
     "question": "Quais são os principais fatores de estilo de vida, relacionados à dieta e hábitos, que, se corrigidos, levam à queda natural dos triglicerídeos (TG)?",
     "options": [
-      "Excesso de proteínas e baixo consumo de gordura animal.",
       "Excesso de fibras e consumo de fitosteróis.",
-      "Alimentação com **açúcar**, **gordura**, **bebida alcoólica** e **sedentarismo**.",
       "Apenas o sedentarismo, sem relação com a alimentação.",
-      "Somente o consumo de ovos e carne vermelha."
+      "Alimentação com **açúcar**, **gordura**, **bebida alcoólica** e **sedentarismo**.",
+      "Somente o consumo de ovos e carne vermelha.",
+      "Excesso de proteínas e baixo consumo de gordura animal."
     ],
     "correctIndex": 2,
     "explanation": "O que altera triglicerídeo no dia a dia é 'Alimentação com açúcar, com gordura, bebida alcoólica, sedentarismo'. Se você corrigir a alimentação, corrigir o sedentarismo e reduzir a ingesta de álcool, o triglicerídeo cai naturalmente [4].",
@@ -561,63 +561,63 @@
   {
     "question": "Qual é a frequência semanal mínima de atividade física recomendada para um indivíduo que realiza apenas **exercício leve** (como caminhada) para reduzir o risco cardiovascular?",
     "options": [
-      "75 minutos por semana.",
-      "100 minutos por semana.",
       "150 minutos por semana.",
+      "75 minutos por dia.",
+      "75 minutos por semana.",
       "300 minutos por semana.",
-      "75 minutos por dia."
+      "100 minutos por semana."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Para reduzir eventos cardiovasculares, se for exercício leve (caminhada), o ideal é fazer **150 minutos por semana** [5].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a frequência semanal mínima de atividade física recomendada para um indivíduo que realiza **exercício de alta performance** (como corrida) para reduzir o risco cardiovascular?",
     "options": [
+      "30 minutos por dia, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
+      "Não há recomendação específica para alta performance, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "150 minutos por semana, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "75 minutos por semana, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
-      "30 minutos por dia, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "75 minutos a cada duas semanas, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Não há recomendação específica para alta performance, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
+      "75 minutos a cada duas semanas, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": "Se for exercício de alta performance (corrida), o ideal é **75 minutos por semana** [5].",
     "type": "conteudista"
   },
   {
     "question": "A diretriz estabelece a não negociação de certas medidas de estilo de vida com o paciente. Quais são os dois fatores que 'não entram na lista de coisas negociáveis'?",
     "options": [
-      "Gordura saturada e Açúcar, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Sedentarismo e Colesterol LDL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "Cigarro (tabagismo) e Sedentarismo, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Alimentos funcionais e Exercício leve, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Gordura saturada e Açúcar, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "Ingesta de Álcool e Controle de Peso, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Alimentos funcionais e Exercício leve, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "Sedentarismo e Colesterol LDL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Duas coisas a gente não negocia: 'cigarro e sedentarismo não entra na nossa lista de de coisas negociáveis' [5].",
     "type": "conteudista"
   },
   {
     "question": "Em relação à mudança de conceito dietético, qual ideia anterior à 2014 sobre a dislipidemia LDL foi desmistificada pelas pesquisas recentes?",
     "options": [
-      "Que o álcool era o único culpado pelo aumento do LDL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Que a atividade física era essencial para baixar o LDL, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Que o que sobe colesterol é comer comida com gordura de origem animal (ovo, banha de porco, manteiga), conforme evidenciado em estudos clínicos e epidemiológicos.",
+      "Que o álcool era o único culpado pelo aumento do LDL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Que o LDL deveria estar dentro da célula, não na corrente sanguínea, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Que o triglicerídeo não tinha relação com a ingestão de açúcar, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Que o LDL deveria estar dentro da célula, não na corrente sanguínea, situação observada em pacientes com síndrome metabólica e resistência à insulina."
+      "Que o que sobe colesterol é comer comida com gordura de origem animal (ovo, banha de porco, manteiga), conforme evidenciado em estudos clínicos e epidemiológicos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Até 2014, o conceito era de que o que sobe colesterol é 'comer comida com gordura de origem animal. Não se pode comer Ovo não se pode comer banha de porco, não pode ser manteiga'. Contudo, as fontes afirmam que 'Esses alimentos, nenhum alimento tem nenhum efeito no colesterol LDL' [1].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a recomendação geral de estilo de vida promovida pela nova diretriz para todos os indivíduos, independentemente dos níveis de colesterol?",
     "options": [
-      "Adoção imediata de estatinas, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "Redução da gordura saturada a zero, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Promoção de estilo de vida saudável ao longo de toda a vida, conforme evidenciado em estudos clínicos e epidemiológicos.",
       "Dosagem obrigatória da Apo B anualmente, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Redução da gordura saturada a zero, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Apenas exercício de alta performance, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
+      "Apenas exercício de alta performance, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "Adoção imediata de estatinas, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
     "correctIndex": 1,
     "explanation": "Uma das mensagens clicadas na diretriz nova é a **promoção de estilo de vida saudável ao longo de toda a vida**, independente de colesterol ou não [6].",
@@ -626,13 +626,13 @@
   {
     "question": "Se um paciente consegue corrigir a alimentação, controlar o sedentarismo e reduzir a ingesta de álcool, mas seu LDL continua alto (150 mg/dL), qual deve ser a conclusão sobre a eficácia dessas medidas no tratamento do LDL?",
     "options": [
-      "As medidas não farmacológicas não foram intensas o suficiente, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "A dieta precisa ser complementada com fibras solúveis, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "O LDL elevado não tem efeito com dieta, confirmando ser um erro inato do metabolismo, exigindo intervenção medicamentosa, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
+      "O tratamento não farmacológico está funcionando lentamente, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "As medidas não farmacológicas não foram intensas o suficiente, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Ele deve tentar mudar para exercício de alta performance (75 min/semana), contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "O tratamento não farmacológico está funcionando lentamente, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
+      "O LDL elevado não tem efeito com dieta, confirmando ser um erro inato do metabolismo, exigindo intervenção medicamentosa, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O LDL elevado é um 'erro inato do metabolismo' [1]. Tentar mudança de estilo de vida para baixar o LDL que está 150 'não vai adiantar nada', sendo necessário calcular o grupo de risco para iniciar a medicação [1].",
     "type": "conteudista"
   },
@@ -640,38 +640,38 @@
     "question": "Embora o tratamento não farmacológico não afete diretamente o LDL, a atividade física é crucial por atuar sobre o 'colesterol bom'. Qual é o efeito específico do exercício aeróbico no HDL?",
     "options": [
       "Diminuição da concentração de HDL.",
-      "Melhora do HDL de colesterol.",
-      "Estabilização do HDL, sem alteração significativa.",
       "Transformação do HDL em LDL.",
-      "Aumento da reabsorção intestinal do HDL."
+      "Melhora do HDL de colesterol.",
+      "Aumento da reabsorção intestinal do HDL.",
+      "Estabilização do HDL, sem alteração significativa."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "O exercício aeróbico 'melhora o triglicerídeo e **melhora o meu HDL de colesterol**' [2].",
     "type": "conteudista"
   },
   {
     "question": "O colesterol não-HDL é considerado meta coprimária e anda de mãos dadas com o triglicerídeo. Qual é a abordagem terapêutica não farmacológica recomendada para reduzir o colesterol não-HDL?",
     "options": [
-      "Somente fibratos, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Inibidores da PCSK9, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
+      "Bloqueio da reabsorção intestinal (Ezetimiba), especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Somente fibratos, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Do mesmo jeito que é feito com o triglicerídeo: atividade física e alimentação, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
-      "Apenas estatina de alta potência, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Bloqueio da reabsorção intestinal (Ezetimiba), especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "Apenas estatina de alta potência, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O não-HDL é um colesterol residual ligado ao triglicerídeo. O tratamento para reduzi-lo é o mesmo: 'Como é que eu baixo não HDL? Do mesmo jeito que eu faço com triglicerídeo, **atividade física, alimentação**' [7].",
     "type": "conteudista"
   },
   {
     "question": "Se um paciente de baixo risco, jovem e saudável, apresenta LDL de 125 mg/dL, o médico deve intervir com mudanças de estilo de vida? E qual seria a meta de LDL para este paciente?",
     "options": [
-      "Não, pois o LDL de 125 mg/dL está dentro da faixa de referência laboratorial, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Sim, deve-se intervir, pois a meta para baixo risco é LDL <100 mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Sim, deve-se intervir, mas apenas com o objetivo de reduzir o TG e a meta de LDL é **menor que 115 mg/dL**, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Sim, deve-se intervir, pois a meta para baixo risco é LDL <100 mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Não é necessário, pois o LDL só é um problema em pacientes acima de 60 anos, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Não, pois o LDL de 125 mg/dL está dentro da faixa de referência laboratorial, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "Sim, a meta é LDL <40 mg/dL, pois ele é jovem, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A meta de LDL de colesterol é **menor que 115** para indivíduo de baixo risco [8, 9]. Se o paciente 'não tiver, vocês têm que fazer os cálculos e ver o medicamento que vocês vão usar' [10]. Embora a dieta não baixe LDL [1], o paciente precisa de intervenção para atingir a meta. O estilo de vida saudável é promovido ao longo da vida [6].",
     "type": "conteudista"
   },
@@ -679,64 +679,64 @@
     "question": "Considerando que o colesterol LDL tem que estar 'dentro da célula' [11], e o colesterol é necessário para a produção de enzimas e hormônios, qual é o papel primário das estatinas no metabolismo do colesterol?",
     "options": [
       "Queimar o colesterol acumulado no sangue, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Bloquear a reabsorção intestinal do colesterol, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "**Bloquear a produção** de colesterol pelo fígado, permitindo que o colesterol no sangue seja consumido, conforme evidenciado em estudos clínicos e epidemiológicos, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos.",
       "Aumentar a função da PCSK9 para carrear o LDL para fora da célula, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Aumentar a testosterona nos idosos, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
+      "Aumentar a testosterona nos idosos, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "Bloquear a reabsorção intestinal do colesterol, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "**Bloquear a produção** de colesterol pelo fígado, permitindo que o colesterol no sangue seja consumido, conforme evidenciado em estudos clínicos e epidemiológicos, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "As estatinas bloqueiam a produção [12]. O remédio 'não vai queimar o colesterol, pessoal. A estatina ela vai **bloquear a produção** e o colesterol que tá acima consumido' [12].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a implicação prática para o paciente que inicia o tratamento medicamentoso para colesterol, baseada na forma de atuação das estatinas?",
     "options": [
+      "**Remédio de colesterol é pra vida inteira**, pois ao parar, o paciente volta a produzir colesterol, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos.",
       "Deve parar a medicação assim que o LDL atingir a meta, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "Deve tomar a medicação por 6 meses e repetir o exame para ver se pode parar, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "**Remédio de colesterol é pra vida inteira**, pois ao parar, o paciente volta a produzir colesterol, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos.",
-      "A duração do tratamento depende exclusivamente da dieta e exercício, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "A duração do tratamento é de no máximo 10 anos, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
+      "A duração do tratamento é de no máximo 10 anos, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
+      "A duração do tratamento depende exclusivamente da dieta e exercício, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "O colesterol que está acima é consumido após o bloqueio da produção pela estatina, 'Por isso que a gente sempre fala **remédio de colesterol é pra vida inteira**' [12]. Se o remédio for parado, a pessoa volta a produzir colesterol [13].",
     "type": "conteudista"
   },
   {
     "question": "A otimização da alimentação, o cuidado com o peso e a redução do álcool são pilares do tratamento não farmacológico. Qual é o valor de triglicerídeo que, se atingido pela correção do estilo de vida, evita a necessidade de tratamento medicamentoso focado no risco cardiovascular?",
     "options": [
-      "Abaixo de 175 mg/dL no estado pós-prandial, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Abaixo de 500 mg/dL, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
-      "Abaixo de 150 mg/dL em jejum, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Abaixo de 130 mg/dL, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Abaixo de 70 mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
+      "Abaixo de 175 mg/dL no estado pós-prandial, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "Abaixo de 70 mg/dL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
+      "Abaixo de 150 mg/dL em jejum, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "Abaixo de 500 mg/dL, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais."
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "O TG só deve ser tratado de forma medicamentosa quando estiver **acima de 500 mg/dL** [14], devido ao risco de pancreatite [9]. Para valores abaixo disso, medidas de estilo de vida são eficazes [4]. O objetivo primário é que o TG esteja abaixo de 500 mg/dL, eliminando o risco de pancreatite [15].",
     "type": "conteudista"
   },
   {
     "question": "Um paciente de 45 anos, sedentário, apresenta LDL-c de 160 mg/dL e TG de 350 mg/dL. Qual deve ser a prioridade na orientação não farmacológica e qual é o alvo principal do tratamento do TG nesse caso?",
     "options": [
-      "Focar em dieta para reduzir o LDL, pois 160 mg/dL é alto, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Prescrever estatina de alta potência imediatamente, pois o LDL é o alvo principal, e ignorar o TG, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "Priorizar o combate ao **sedentarismo** e corrigir a dieta (açúcar/álcool) para o TG, visando a redução do TG abaixo de 150 mg/dL, mas sabendo que a intervenção do LDL exigirá fármacos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos.",
       "Iniciar fibrato, pois o TG acima de 300 mg/dL representa risco cardiovascular, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Focar na redução do consumo de ovos para normalizar o LDL, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
+      "Focar em dieta para reduzir o LDL, pois 160 mg/dL é alto, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Focar na redução do consumo de ovos para normalizar o LDL, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "Priorizar o combate ao **sedentarismo** e corrigir a dieta (açúcar/álcool) para o TG, visando a redução do TG abaixo de 150 mg/dL, mas sabendo que a intervenção do LDL exigirá fármacos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O TG de 350 mg/dL está elevado, mas não é grave (TG $\\geq$ 500 mg/dL) [9]. O TG é altamente afetado por sedentarismo, álcool e dieta [4]. O combate ao sedentarismo é não negociável [5]. Portanto, a orientação deve focar nas mudanças de estilo de vida para reduzir o TG, enquanto a medicação será necessária para o LDL (que não responde à dieta) [1].",
     "type": "raciocínio"
   },
   {
     "question": "Uma paciente obesa com histórico de dislipidemia familiar, que fuma e tem risco cardiovascular calculado como alto (acima de 20%), apresenta LDL-c de 150 mg/dL. Se a paciente relata grande dificuldade em mudar hábitos. Qual estratégia motivacional baseada no material deve ser priorizada para maximizar a redução de risco cardiovascular de forma imediata?",
     "options": [
+      "Garantir 150 minutos semanais de exercício, ignorando o tabagismo por ser muito difícil de cessar, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "Focar primeiro em dietas restritivas para atingir a meta de LDL <70 mg/dL apenas com alimentação, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "Enfatizar que o LDL é um 'erro genético' para aliviar a culpa e focar na cessação imediata do **tabagismo** e início da estatina, pois o cigarro é um agravante muito alto de risco, segundo recomendações de guias internacionais.",
       "Priorizar apenas o aumento do HDL com exercícios de alta performance, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Garantir 150 minutos semanais de exercício, ignorando o tabagismo por ser muito difícil de cessar, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "Associar Ezetimiba à Sinvastatina sem qualquer orientação de estilo de vida, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "O tabagismo é um agravante muito alto de risco e 'não entra na nossa lista de de coisas negociáveis' [5, 8]. Além disso, informar que o LDL alto não é culpa da dieta ('erro inato do metabolismo') [1] pode aliviar o peso psicológico da paciente, facilitando o foco em medidas cruciais (cessação do tabagismo e tratamento medicamentoso do LDL).",
     "type": "raciocínio"
   },
@@ -744,23 +744,23 @@
     "question": "Um paciente de 60 anos, de risco intermediário, atinge a meta de LDL-c de 100 mg/dL com estatina de baixa dose. No entanto, ele é sedentário e seu HDL está baixo. Qual a principal recomendação não farmacológica a ser reforçada, e com qual objetivo?",
     "options": [
       "Cessação do tabagismo para baixar o LDL, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "Aumento da ingesta de gordura saturada para subir o HDL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Incentivo à **atividade física** (pelo menos 150 min/semana de leve) para melhorar o **HDL**, visto que a medicação não é o único foco do tratamento, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Reduzir o consumo de álcool, pois ele tem efeito direto no HDL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Substituir a estatina por Ezetimiba para elevar o HDL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Reduzir o consumo de álcool, pois ele tem efeito direto no HDL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
+      "Aumento da ingesta de gordura saturada para subir o HDL, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A atividade física (exercício aeróbico) **melhora o colesterol HDL** [1, 2]. Como a meta de LDL foi atingida, o foco deve ser na otimização de outros fatores de risco, sendo o exercício de 150 minutos/semana para reduzir eventos cardiovasculares uma recomendação fundamental, independentemente do colesterol [5].",
     "type": "raciocínio"
   },
   {
     "question": "Um paciente com TG de 700 mg/dL tem um risco iminente. Qual é o risco associado a esse valor e como a intervenção não farmacológica imediata se relaciona com o uso de fibratos neste cenário?",
     "options": [
-      "Risco cardiovascular, exigindo estatina de alta potência, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Risco de AVC, exigindo terapia tripla, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Risco de **pancreatite aguda** [9]. A intervenção não farmacológica (dieta, álcool) é complementar, mas o uso de **fibratos** é primordial para que o TG caia rapidamente abaixo de 500 mg/dL, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "Risco de rabdomiólise, exigindo a interrupção imediata da atividade física, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Risco de doença renal, exigindo o uso de inibidores da PCSK9, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
+      "Risco de doença renal, exigindo o uso de inibidores da PCSK9, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "Risco de **pancreatite aguda**. A intervenção não farmacológica (dieta, álcool) é complementar, mas o uso de **fibratos** é primordial para que o TG caia rapidamente abaixo de 500 mg/dL, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Risco cardiovascular, exigindo estatina de alta potência, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
+      "Risco de AVC, exigindo terapia tripla, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
     ],
     "correctIndex": 2,
     "explanation": "Hipertrigliceridemia grave ($\\geq$ 500 mg/dL) associa-se a risco de pancreatite aguda, não a risco cardiovascular [9]. Neste caso, a recomendação é o uso de **fármacos mais eficazes na redução dos TG, como os fibratos**, sendo o alvo terapêutico manter os níveis abaixo de 500 mg/dL [15]. As medidas de estilo de vida são importantes, mas não podem substituir a intervenção medicamentosa urgente nesse nível de risco.",
@@ -771,7 +771,7 @@
     "options": [
       "Essas medidas têm como objetivo principal aumentar a adesão à estatina, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "A caminhada reduz o LDL, e o cigarro piora a absorção do LDL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "O sedentarismo e o cigarro são **agravantes de risco muito alto** [5, 8], e a atividade física mínima recomendada reduz eventos cardiovasculares [5], sendo cruciais para a **promoção de estilo de vida saudável ao longo de toda a vida** [6], mesmo sem impacto no LDL, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
+      "O sedentarismo e o cigarro são **agravantes de risco muito alto**, e a atividade física mínima recomendada reduz eventos cardiovasculares, sendo cruciais para a **promoção de estilo de vida saudável ao longo de toda a vida**, mesmo sem impacto no LDL, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
       "O cigarro aumenta o TG e o sedentarismo aumenta o HDL, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "A não negociação é uma estratégia para forçar o paciente a comprar medicamentos de alto custo, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
     ],
@@ -782,26 +782,26 @@
   {
     "question": "Qual é o mecanismo de ação primário das estatinas, e qual a redução percentual de LDL-c esperada com o uso de uma estatina de alta intensidade (como Rosuvastatina ou Atorvastatina)?",
     "options": [
+      "Bloqueiam a produção hepática de colesterol (inibindo a HMG-CoA redutase); 50%, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "Bloqueiam a reabsorção intestinal de colesterol; 30%, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "Consomem a PCSK9, permitindo maior absorção celular de LDL; 55%, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Bloqueiam a produção hepática de colesterol (inibindo a HMG-CoA redutase); 50%, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
-      "Aumentam a produção de HDL; 65%, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Aumentam a excreção biliar de colesterol; 20%, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "Aumentam a excreção biliar de colesterol; 20%, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Aumentam a produção de HDL; 65%, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "As estatinas agem bloqueando a produção de colesterol, especificamente agindo na coenzima MG-CoA redutase [1, 2]. Uma estatina de alta intensidade consegue reduzir o LDL de colesterol em 50% [3].",
     "type": "conteudista"
   },
   {
     "question": "A Ezetimiba é um agente hipolipemiante frequentemente utilizado em terapia combinada. Qual seu mecanismo de ação específico e qual a potência de redução de LDL-c quando usada isoladamente?",
     "options": [
-      "Inibe a PCSK9, reduzindo o LDL em 55%, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Bloqueia a produção hepática, reduzindo o LDL em 30%, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Impede a reabsorção intestinal do colesterol que veio pela bile; 20% de redução de LDL [3, 4], conforme evidenciado em estudos clínicos e epidemiológicos, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Impede a reabsorção intestinal do colesterol que veio pela bile; 20% de redução de LDL, conforme evidenciado em estudos clínicos e epidemiológicos, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Atua como um potente anti-inflamatório, 50% de redução, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "Aumenta a excreção fecal de triglicerídeos, 40% de redução, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Atua como um potente anti-inflamatório, 50% de redução, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
+      "Inibe a PCSK9, reduzindo o LDL em 55%, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A Ezetimiba atua no intestino, impedindo que o colesterol que veio pelo sistema biliar seja reabsorvido pelas microvilosidades, não caindo na corrente sanguínea [4]. Isoladamente, ela consegue reduzir o LDL em apenas 20% [3].",
     "type": "conteudista"
   },
@@ -809,10 +809,10 @@
     "question": "Qual é a principal indicação para o uso de fibratos, e qual o objetivo terapêutico ao tratar essa condição?",
     "options": [
       "LDL-c acima de 190 mg/dL; objetivo LDL < 40 mg/dL, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Dislipidemia mista com LDL normal e HDL baixo; objetivo Colesterol Total < 200 mg/dL, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Hipertrigliceridemia grave ($geq 500$ mg/dL), para reduzir o risco de pancreatite aguda, mantendo os níveis abaixo de 500 mg/dL [5-7], segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
       "Para reduzir o risco de rabdomiólise em pacientes em uso de estatinas, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Para reduzir o colesterol não-HDL em pacientes de risco baixo, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "Hipertrigliceridemia grave ($geq 500$ mg/dL), para reduzir o risco de pancreatite aguda, mantendo os níveis abaixo de 500 mg/dL [5-7], segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
+      "Para reduzir o colesterol não-HDL em pacientes de risco baixo, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Dislipidemia mista com LDL normal e HDL baixo; objetivo Colesterol Total < 200 mg/dL, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
     ],
     "correctIndex": 2,
     "explanation": "O tratamento medicamentoso do triglicerídeo (TG) só é indicado quando ele está acima de 500 mg/dL (hipertrigliceridemia grave), pois isso associa risco de pancreatite, não a risco cardiovascular. Nesses casos, recomenda-se o uso de fármacos mais eficazes, como os fibratos, com o alvo de manter o TG abaixo de 500 mg/dL [5-7].",
@@ -821,76 +821,76 @@
   {
     "question": "Qual é a principal vantagem de associar uma estatina de moderada intensidade (redução de 30%) com a Ezetimiba, em comparação com o aumento da dose da estatina para alta intensidade?",
     "options": [
-      "Reduzir o custo total do tratamento, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Aumentar o HDL em 50%, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Potencializar o efeito (atingindo 65% de redução) sem aumentar significativamente o risco de efeitos colaterais, como a rabdomiólise [8-10].",
+      "Bloquear a PCSK9 de forma natural, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "Eliminar a necessidade de monitoramento hepático, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "Bloquear a PCSK9 de forma natural, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
+      "Aumentar o HDL em 50%, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Reduzir o custo total do tratamento, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A terapia combinada de estatina (bloqueia produção) e Ezetimiba (bloqueia reabsorção) utiliza dois sistemas de bloqueio. Essa associação potencializa o efeito, podendo chegar a 65% de redução (no caso de estatina moderada) sem aumentar o risco de efeito colateral relacionado à dose da estatina, como a rabdomiólise [8-10].",
     "type": "conteudista"
   },
   {
     "question": "Qual medicamento atua bloqueando a proteína que carreia o colesterol de dentro da célula para a corrente sanguínea, alcançando uma redução de LDL de 55%?",
     "options": [
-      "Sinvastatina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Fibrato, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Inibidor da PCSK9, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
+      "Sinvastatina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Ácido Bempedóico, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
+      "Inibidor da PCSK9, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
       "Ezetimiba, situação observada em pacientes com síndrome metabólica e resistência à insulina."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Os Inibidores da PCSK9 (PCK9) bloqueiam essa proteína, que é responsável por tirar o colesterol de dentro da célula (onde deve estar) e fazê-lo cair na corrente sanguínea, onde causa problemas de aterosclerose [1, 11]. Eles conseguem reduzir o LDL em 55% [3].",
     "type": "conteudista"
   },
   {
     "question": "O ácido bempedóico é uma nova opção terapêutica. Qual é a redução de LDL-c esperada ao utilizá-lo como monoterapia?",
     "options": [
+      "40%",
       "10%",
       "20%",
-      "30%",
-      "40%",
-      "50%"
+      "50%",
+      "30%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "O ácido bempedóico, quando utilizado sozinho, consegue baixar o LDL de colesterol em 20% [3].",
     "type": "conteudista"
   },
   {
     "question": "Por que o tratamento com estatinas deve ser considerado para a vida inteira e não apenas por um período de 6 meses?",
     "options": [
+      "Para prevenir a rabdomiólise, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
       "Para garantir o aumento contínuo do HDL, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "Para evitar o risco de pancreatite, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Porque a estatina bloqueia a produção de colesterol; se o remédio é parado, o organismo volta a produzir colesterol [2].",
       "Porque o LDL é um erro inato do metabolismo, mas que só é corrigido temporariamente pela estatina.",
-      "Para prevenir a rabdomiólise, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
+      "Porque a estatina bloqueia a produção de colesterol; se o remédio é parado, o organismo volta a produzir colesterol.",
+      "Para evitar o risco de pancreatite, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "A estatina não 'queima' o colesterol, ela bloqueia a produção. O colesterol que está em excesso é consumido. Se o paciente para de tomar o remédio, ele volta a produzir colesterol. Por isso, o tratamento é considerado para a vida inteira [2].",
     "type": "conteudista"
   },
   {
     "question": "Para o manejo do Colesterol Não-HDL (não-HDL-c), qual é a abordagem terapêutica preferencial citada nas diretrizes, além das estatinas de alta intensidade?",
     "options": [
-      "Foco na redução de LDL-c e ignorar o não-HDL-c, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Uso exclusivo de fibratos, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Associação com Ezetimiba, pois a terapia combinada ajuda a controlar o colesterol residual [12, 13], conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Inibidores da PCSK9 em monoterapia, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "Foco na redução de LDL-c e ignorar o não-HDL-c, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Apenas dieta e exercício aeróbico, pois ele anda de mãos dadas com o TG, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Inibidores da PCSK9 em monoterapia, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
+      "Associação com Ezetimiba, pois a terapia combinada ajuda a controlar o colesterol residual, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Para o Colesterol Não-HDL, que é uma meta coprimária e está ligado ao TG, a terapia medicamentosa, quando necessária, recomenda o uso preferencial de fármacos voltados à sua redução, como as estatinas de alta intensidade e a Ezetimiba [12, 13].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a redução máxima de LDL-c que pode ser alcançada com a terapia combinada quádrupla (estatina de alta potência + Ezetimiba + ácido bempedóico + inibidor da PCSK9)?",
     "options": [
+      "65%",
       "55%",
-      "75%",
       "90%",
       "100%",
-      "65%"
+      "75%"
     ],
     "correctIndex": 2,
     "explanation": "A associação de estatina de alta potência com Ezetimiba, ácido bempedóico e inibidor da PCSK9 permite baixar o LDL de colesterol em até 90% [10].",
@@ -900,101 +900,101 @@
     "question": "No Brasil, quais medicamentos para dislipidemia estão geralmente disponíveis no balcão do SUS (acessível por receita simples) e qual precisa de relatório de alto custo?",
     "options": [
       "Atorvastatina no balcão; Sinvastatina com relatório.",
-      "Rosuvastatina no balcão; Fibrato com relatório.",
-      "Sinvastatina no balcão; Atorvastatina com relatório [14].",
       "Ezetimiba no balcão; Sinvastatina com relatório.",
-      "Ácido bempedóico no balcão; Rosuvastatina com relatório."
+      "Ácido bempedóico no balcão; Rosuvastatina com relatório.",
+      "Rosuvastatina no balcão; Fibrato com relatório.",
+      "Sinvastatina no balcão; Atorvastatina com relatório."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "No SUS, a Sinvastatina (estatina de moderada intensidade) está geralmente disponível no balcão, enquanto a Atorvastatina (estatina de alta intensidade) exige que o médico faça um relatório para o paciente poder retirá-la por meio do alto custo [14].",
     "type": "conteudista"
   },
   {
     "question": "A Sinvastatina (estatina de moderada intensidade) é a mais acessível, mas sua potência de redução de LDL é de apenas 30%. O que o médico deve fazer se essa redução for insuficiente para atingir a meta individualizada do paciente (por exemplo, meta < 70 mg/dL)?",
     "options": [
-      "Avisar o paciente que a Sinvastatina é o máximo que pode ser feito, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
-      "Aumentar a dose da Sinvastatina ao máximo, independentemente do risco de rabdomiólise, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Oferecer a possibilidade de associar Ezetimiba, ou prescrever Atorvastatina por alto custo, e registrar no prontuário que o paciente foi informado sobre o melhor tratamento (Medicina Legal) [14], segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Oferecer a possibilidade de associar Ezetimiba, ou prescrever Atorvastatina por alto custo, e registrar no prontuário que o paciente foi informado sobre o melhor tratamento (Medicina Legal), segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
+      "Esperar que o paciente melhore com dieta e exercício, ignorando a dislipidemia primária, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "Encaminhar o paciente para um cardiologista especializado em lipídios, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Esperar que o paciente melhore com dieta e exercício, ignorando a dislipidemia primária, situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
+      "Avisar o paciente que a Sinvastatina é o máximo que pode ser feito, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "Aumentar a dose da Sinvastatina ao máximo, independentemente do risco de rabdomiólise, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Pelo Código de Defesa do Consumidor (e prática de Medicina Legal), o médico é obrigado a oferecer o melhor tratamento. Se a Sinvastatina for insuficiente, o médico deve informar o paciente sobre as opções que atingem a meta (como associação de Ezetimiba ou Atorvastatina de alto custo) e documentar a recusa ou aceitação do paciente no prontuário [14].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a redução percentual de LDL-c que o uso de uma estatina de moderada intensidade (Sinvastatina) alcança sozinha?",
     "options": [
-      "20%",
       "50%",
       "30%",
-      "40%",
-      "55%"
+      "20%",
+      "55%",
+      "40%"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Uma estatina de moderada intensidade, como a Sinvastatina, consegue baixar o LDL em apenas 30% [3].",
     "type": "conteudista"
   },
   {
     "question": "O LDL de colesterol, biologicamente, deve estar preferencialmente dentro da célula. Onde as estatinas agem para garantir isso?",
     "options": [
-      "Na absorção intestinal, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Na camada íntima média das artérias, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "No fígado, bloqueando a coenzima que produz o colesterol, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "No pâncreas, inibindo a pancreatite, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Na corrente sanguínea, quebrando as partículas de LDL, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
+      "Na camada íntima média das artérias, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "Na corrente sanguínea, quebrando as partículas de LDL, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "Na absorção intestinal, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "No fígado, bloqueando a coenzima que produz o colesterol, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "As estatinas agem no fígado, bloqueando a produção de colesterol ao inibir a HMG-CoA redutase. O objetivo é que o LDL de colesterol fique dentro da célula, e não na corrente sanguínea ou depositando na íntima média [1, 2].",
     "type": "conteudista"
   },
   {
     "question": "Em termos de escalonamento, qual terapia de associação é considerada um passo crucial para potencializar a redução de LDL-c, antes de recorrer a medicamentos de alto custo como os inibidores da PCSK9?",
     "options": [
-      "Estatina + Fibrato.",
       "Ezetimiba em monoterapia.",
-      "Estatina + Ezetimiba.",
+      "Estatina + Fibrato.",
+      "Suplementação de Ômega-3.",
       "Ácido bempedóico em monoterapia.",
-      "Suplementação de Ômega-3."
+      "Estatina + Ezetimiba."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A terapia combinada com Estatina e Ezetimiba permite potencializar o efeito de redução do LDL (chegando a 65% com estatina moderada) com baixo risco de efeitos colaterais, sendo um passo essencial na otimização do tratamento antes de drogas mais caras ou potentes como os inibidores da PCSK9 [8-10].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a principal complicação associada à combinação de estatina e fibrato, que torna essa conduta não recomendada na maioria dos casos?",
     "options": [
+      "Pancreatite aguda, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "Risco de causar rabdomiólise e lesão renal, por toxicidade muscular, segundo recomendações de guias internacionais.",
       "Aumento do colesterol não-HDL, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
       "Hipertensão arterial refratária, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
-      "Risco de causar rabdomiólise e lesão renal, por toxicidade muscular [15], segundo recomendações de guias internacionais.",
-      "Redução insuficiente do LDL, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Pancreatite aguda, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
+      "Redução insuficiente do LDL, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A associação de estatina com fibrato (para tratar LDL e TG simultaneamente) é desaconselhada porque aumenta o risco de causar rabdomiólise no paciente, o que é um risco potencial para o rim [15].",
     "type": "conteudista"
   },
   {
     "question": "Um paciente de 55 anos, diabético e de Risco Muito Alto (meta de LDL < 50 mg/dL), apresenta LDL de 180 mg/dL. Qual é o plano de tratamento farmacológico inicial mais adequado, visando alcançar a meta de forma rápida e eficaz?",
     "options": [
-      "Dieta e exercício por 6 meses, já que o paciente é diabético, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "Sinvastatina 40 mg em monoterapia (redução esperada de 30%), conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "Estatina de Alta Intensidade (ex: Atorvastatina 40/80 mg ou Rosuvastatina 20/40 mg), pois a redução de 50% é necessária para se aproximar da meta [3], conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
       "Fibrato, pois diabetes está ligado a TG alto, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Inibidor da PCSK9, devido ao alto custo e complexidade de uso, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo."
+      "Sinvastatina 40 mg em monoterapia (redução esperada de 30%), conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
+      "Inibidor da PCSK9, devido ao alto custo e complexidade de uso, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
+      "Dieta e exercício por 6 meses, já que o paciente é diabético, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
+      "Estatina de Alta Intensidade (ex: Atorvastatina 40/80 mg ou Rosuvastatina 20/40 mg), pois a redução de 50% é necessária para se aproximar da meta, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O paciente é de Risco Muito Alto (meta < 50 mg/dL). Para reduzir LDL de 180 mg/dL para menos de 50 mg/dL, é necessária uma redução superior a 70%. A primeira escolha, para começar a reduzir o máximo possível (50%), é a estatina de alta intensidade. A terapia combinada será provavelmente necessária após a primeira avaliação [3].",
     "type": "raciocínio"
   },
   {
     "question": "Um paciente com perfil lipídico apresenta LDL-c de 120 mg/dL, HDL-c de 30 mg/dL, e Triglicerídeos de 650 mg/dL. Qual deve ser a prioridade terapêutica inicial e qual classe de medicamento deve ser utilizada?",
     "options": [
-      "Priorizar o LDL, iniciando estatina de alta intensidade, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Priorizar o colesterol não-HDL, iniciando Ezetimiba, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
       "Priorizar o HDL, iniciando atividade física intensa, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
       "Priorizar o TG $\\geq 500$ mg/dL para prevenir pancreatite aguda, iniciando fibratos, e tratar o LDL em seguida [5-7].",
-      "Priorizar o colesterol não-HDL, iniciando Ezetimiba, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Iniciar terapia tripla (Estatina + Fibrato + Ezetimiba), situação observada em pacientes com síndrome metabólica e resistência à insulina."
+      "Iniciar terapia tripla (Estatina + Fibrato + Ezetimiba), situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "Priorizar o LDL, iniciando estatina de alta intensidade, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes."
     ],
     "correctIndex": 2,
     "explanation": "Com TG $\\geq 500$ mg/dL, a principal preocupação é o risco de pancreatite aguda. Portanto, a prioridade é o tratamento imediato do TG, geralmente com fibratos, para manter o TG abaixo de 500 mg/dL, independentemente do risco cardiovascular do LDL [5-7].",
@@ -1003,26 +1003,26 @@
   {
     "question": "Um paciente de Risco Extremo (meta de LDL < 40 mg/dL) está em uso de Atorvastatina 80 mg (redução de 50%) e ainda apresenta LDL de 90 mg/dL. Qual é a próxima etapa de escalonamento mais lógica e eficaz?",
     "options": [
+      "Adicionar Ezetimiba, combinando os mecanismos de bloqueio da produção e da absorção para potencializar a redução, segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
       "Substituir a Atorvastatina por Sinvastatina (estatina de menor potência), o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "Esperar mais 12 meses para ver se a dieta funciona, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
       "Adicionar um fibrato para sinergia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Adicionar Ezetimiba, combinando os mecanismos de bloqueio da produção e da absorção para potencializar a redução [3, 8], segundo recomendações de guias internacionais, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, conforme evidenciado em estudos clínicos e epidemiológicos, segundo recomendações de guias internacionais.",
-      "Interromper o tratamento, pois o LDL já está abaixo do valor de referência laboratorial, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo.",
-      "Esperar mais 12 meses para ver se a dieta funciona, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
+      "Interromper o tratamento, pois o LDL já está abaixo do valor de referência laboratorial, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "O paciente de Risco Extremo exige uma meta rigorosa (< 40 mg/dL). Como a estatina máxima (50% de redução) não foi suficiente, a próxima etapa é a terapia combinada, adicionando Ezetimiba (que bloqueia a reabsorção intestinal), o que pode levar a uma redução de até 65% (se a estatina for considerada moderada-alta) ou mais, sem aumentar o risco de efeitos adversos de dose [3, 8].",
     "type": "raciocínio"
   },
   {
     "question": "Um paciente de 45 anos, tabagista (agravante de risco alto) e com LDL-c de 145 mg/dL. Ele afirma que faz 'dieta rígida' e 'exercício aeróbico' há 3 meses, sem resultados no LDL. Como o médico deve interpretar a falta de resposta ao tratamento não farmacológico?",
     "options": [
-      "O paciente deve estar mentindo sobre a dieta, sendo necessária uma reeducação alimentar mais rigorosa, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Dieta e exercício aeróbico são ineficazes na redução do LDL-c, pois este é um erro inato do metabolismo, sendo necessária a intervenção com estatina [16], de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
       "O exercício só funciona se for de alta intensidade (75 minutos/semana), situação observada em pacientes com síndrome metabólica e resistência à insulina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia.",
-      "A falta de resposta indica que o paciente precisa de fibrato, não de estatina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias.",
-      "Ele deve estar usando o tipo errado de gordura (gordura poli-insaturada), conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
+      "O paciente deve estar mentindo sobre a dieta, sendo necessária uma reeducação alimentar mais rigorosa, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
+      "Dieta e exercício aeróbico são ineficazes na redução do LDL-c, pois este é um erro inato do metabolismo, sendo necessária a intervenção com estatina, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia, segundo recomendações de guias internacionais.",
+      "Ele deve estar usando o tipo errado de gordura (gordura poli-insaturada), conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "A falta de resposta indica que o paciente precisa de fibrato, não de estatina, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Dieta e atividade física para LDL é 'zero resultado', pois o LDL elevado é um 'erro inato do metabolismo' (defeito de produção). O tratamento não farmacológico é eficaz para melhorar o triglicerídeo e o HDL, mas não o LDL. Portanto, a falta de resposta no LDL era esperada, e a intervenção farmacológica é justificada [16].",
     "type": "raciocínio"
   },
@@ -1031,11 +1031,11 @@
     "options": [
       "Adicionar um fibrato, já que o TG está acima de 200 mg/dL, fenômeno fisiopatológico que envolve a deposição de lipídeos nas camadas íntimas das artérias, contexto frequentemente associado a hábitos de vida inadequados, como tabagismo e alcoolismo.",
       "Aumentar a dose da estatina, mesmo com o LDL já abaixo da meta, situação observada em pacientes com síndrome metabólica e resistência à insulina, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes.",
-      "Intensificar as medidas de estilo de vida (dieta/exercício aeróbico), pois elas melhoram o triglicerídeo e, consequentemente, o não-HDL [12, 15, 17], conforme evidenciado em estudos clínicos e epidemiológicos, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "A prioridade é o LDL, e o não-HDL deve ser ignorado, conforme relatado em estudos populacionais, embora não seja o padrão definido pelas diretrizes, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina.",
+      "Intensificar as medidas de estilo de vida (dieta/exercício aeróbico), pois elas melhoram o triglicerídeo e, consequentemente, o não-HDL, conforme evidenciado em estudos clínicos e epidemiológicos, de acordo com as diretrizes da Sociedade Brasileira de Cardiologia.",
       "Iniciar inibidores da PCSK9 imediatamente, o que contraria os dados epidemiológicos descritos pela Sociedade Brasileira de Cardiologia, especialmente em populações urbanas com dieta rica em gorduras saturadas e sedentarismo, situação observada em pacientes com síndrome metabólica e resistência à insulina."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O colesterol não-HDL anda de mãos dadas com o triglicerídeo. Embora o LDL esteja controlado, o padrão de TG elevado e não-HDL elevado causa ateromatose residual. Como o TG está abaixo de 500 mg/dL (não há risco de pancreatite), o foco inicial deve ser a intensificação das medidas de estilo de vida (atividade física e alimentação), que são muito eficazes na redução do TG e do não-HDL [12, 15, 17]."
   }
 ]

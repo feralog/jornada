@@ -2,37 +2,37 @@
   {
     "question": "Anatomicamente, qual é a principal função dos ossículos da audição (martelo, bigorna e estribo) localizados na orelha média?",
     "options": [
-      "Transduzir a energia mecânica em energia elétrica, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
-      "Conectar a nasofaringe com a caixa média para equalizar a pressão, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
-      "Amplificar a emissão sonora captada, tipicamente entre 17 a 22 vezes, antes de enviá-la para a cóclea, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição, conforme observado na fisiologia da orelha média.",
       "Detectar o equilíbrio e enviar informações pelo nervo vestibular, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
-      "Produzir o líquido endolinfático que preenche a cóclea, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, atividade exclusiva do nervo vestibular e do sistema vestibular periférico."
+      "Produzir o líquido endolinfático que preenche a cóclea, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
+      "Conectar a nasofaringe com a caixa média para equalizar a pressão, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
+      "Transduzir a energia mecânica em energia elétrica, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
+      "Amplificar a emissão sonora captada, tipicamente entre 17 a 22 vezes, antes de enviá-la para a cóclea, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição, conforme observado na fisiologia da orelha média."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Os ossículos (martelo, bigorna e estribo) têm a missão de amplificar o som que entra no ouvido, funcionando como um sistema de pistão que amplifica a emissão sonora por volta de 17 a 22 vezes [7].",
     "type": "conteudista"
   },
   {
     "question": "Em relação à anatomia coclear, como se distribui o tonotopismo, que é a representação das frequências dentro da cóclea?",
     "options": [
-      "As frequências mais agudas estão no ápice (região distal) e as graves na entrada (região proximal), função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
-      "As frequências são representadas de forma randômica ao longo da cóclea, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
       "As frequências agudas estão na entrada da cóclea e as frequências mais graves estão na região distal da cóclea (ápice), segundo os princípios anatômicos da audição, como descrito na literatura sobre a audição, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição.",
       "Todas as frequências são processadas simultaneamente no órgão de Corti, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
-      "O tonotopismo só se aplica ao sistema vestibular, não à cóclea, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico."
+      "O tonotopismo só se aplica ao sistema vestibular, não à cóclea, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
+      "As frequências são representadas de forma randômica ao longo da cóclea, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
+      "As frequências mais agudas estão no ápice (região distal) e as graves na entrada (região proximal), função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Na cóclea, que é uma espiral, na entrada (proximal) estão as frequências mais agudas, e conforme se avança para a região distal, temos as frequências mais graves (tonotopismo) [8, 9].",
     "type": "conteudista"
   },
   {
     "question": "A perda auditiva neurossensorial é caracterizada por qual alteração estrutural primária?",
     "options": [
-      "Obstrução física do conduto auditivo externo (cerúmen), papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
       "Calcificação da cadeia ossicular (otosclerose), atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
-      "Romero da membrana timpânica (perfuração timpânica), responsabilidade das células do labirinto membranoso na formação da endolinfa.",
+      "Obstrução física do conduto auditivo externo (cerúmen), papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
+      "Disfunção da tuba auditiva, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
       "Acometimento da cóclea e da via auditiva em si, incluindo o nervo vestibulococlear e as células ciliadas.",
-      "Disfunção da tuba auditiva, função típica da tuba auditiva, que equaliza a pressão na orelha média."
+      "Romero da membrana timpânica (perfuração timpânica), responsabilidade das células do labirinto membranoso na formação da endolinfa."
     ],
     "correctIndex": 3,
     "explanation": "A perda neurossensorial acomete a cóclea e a via auditiva (nervo vestíbulo coclear e células ciliadas), sendo diferente da perda condutiva, que é uma alteração na transmissão do som até a cóclea [10].",
@@ -41,65 +41,65 @@
   {
     "question": "Qual é um exemplo de etiologia de perda auditiva condutiva que é frequentemente resolvida em consultório, sendo inclusive mencionada como motivo de 'felicidade' para o médico?",
     "options": [
-      "Presbiacusia avançada, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
-      "Trauma acústico com perda completa da audição, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
       "Acúmulo de cerúmen no conduto auditivo externo, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição, como descrito na literatura sobre a audição.",
       "Infecção por citomegalovírus durante a gestação, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
+      "Presbiacusia avançada, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
+      "Trauma acústico com perda completa da audição, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
       "Neuroma do acústico, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "O acúmulo de cerúmen é uma causa condutiva que o médico fica 'feliz' em encontrar e é bem resolutivo, bastando fazer a lavagem ou remoção para o paciente ter alta feliz [11-13].",
     "type": "conteudista"
   },
   {
     "question": "A Presbiacusia, associada ao envelhecimento, resulta primariamente da perda de quais estruturas dentro da cóclea e qual faixa de frequência é tipicamente afetada inicialmente?",
     "options": [
-      "Perda dos ossículos na orelha média; frequências graves, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
-      "Perda de células ciliadas internas e externas; frequências agudas (altas), conforme observado na fisiologia da orelha média, como descrito na literatura sobre a audição, conforme observado na fisiologia da orelha média.",
+      "Perda da elasticidade da janela oval; frequências graves, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
       "Calcificação da membrana timpânica; frequências médias, função típica da tuba auditiva, que equaliza a pressão na orelha média, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
       "Atrofia do tronco encefálico; todas as frequências, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
-      "Perda da elasticidade da janela oval; frequências graves, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média."
+      "Perda de células ciliadas internas e externas; frequências agudas (altas), conforme observado na fisiologia da orelha média, como descrito na literatura sobre a audição, conforme observado na fisiologia da orelha média.",
+      "Perda dos ossículos na orelha média; frequências graves, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares."
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": "A Presbiacusia é um dano progressivo com a idade, principalmente depois dos 60 anos, no qual o paciente perde as células ciliadas internas e externas dentro da cóclea, afetando principalmente as frequências agudas [9, 14].",
     "type": "conteudista"
   },
   {
     "question": "A ototoxicidade é um fator importante de perda auditiva neurossensorial. Quais classes de medicamentos foram citadas como potenciais causadores desse dano, exigindo atenção em uso crônico?",
     "options": [
+      "Inibidores da bomba de prótons (IBPs) e corticoides, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
       "Anti-hipertensivos e betabloqueadores, processo realizado nas células ciliadas da cóclea durante a transdução do som, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
       "Aminoglicosídeos (antibióticos) e diuréticos de alça (como furosemida), segundo os princípios anatômicos da audição, como descrito na literatura sobre a audição, conforme observado na fisiologia da orelha média.",
       "Anti-inflamatórios não esteroides (AINEs) e estatinas, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
-      "Inibidores da bomba de prótons (IBPs) e corticoides, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
       "Vacinas e analgésicos comuns, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Alguns medicamentos, como antibióticos (aminoglicosídeos, por exemplo) e diuréticos de alça (furosemida), são otóxicos e podem gerar dano ao sistema auditivo, especialmente em exposição crônica [14, 15].",
     "type": "conteudista"
   },
   {
     "question": "Em relação à Otosclerose, qual é o mecanismo fisiopatológico principal que resulta na perda auditiva condutiva?",
     "options": [
-      "Acúmulo de muco na caixa média, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
       "Deterioração das células ciliadas internas, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
+      "Acúmulo de muco na caixa média, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
+      "Formação de colesteatoma, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
       "Calcificação da cadeia ossicular, impedindo a correta amplificação sonora, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição, como descrito na literatura sobre a audição, conforme observado na fisiologia da orelha média.",
-      "Neuropatia do nervo vestibulococlear, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
-      "Formação de colesteatoma, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico."
+      "Neuropatia do nervo vestibulococlear, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, atividade exclusiva do nervo vestibular e do sistema vestibular periférico."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "A Otosclerose é basicamente a calcificação da cadeia ossicular, o que impede a transmissão e amplificação adequada do som, sendo uma causa de perda condutiva [10]. Em casos cirúrgicos, é tratada por estapedotatomia [16].",
     "type": "conteudista"
   },
   {
     "question": "Qual é o nervo craniano que é compartilhado pelo sistema auditivo e pelo sistema vestibular (equilíbrio), explicando a relação anatômica entre perda auditiva e risco de queda?",
     "options": [
-      "Nervo facial (VII par).",
       "Nervo trigêmeo (V par).",
+      "Nervo óptico (II par).",
+      "Nervo facial (VII par).",
       "Nervo vestibulococlear (VIII par).",
-      "Nervo vago (X par).",
-      "Nervo óptico (II par)."
+      "Nervo vago (X par)."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O sistema do equilíbrio (vestibular) e o sistema auditivo ficam muito próximos e compartilham o mesmo nervo, que é o nervo vestibulococlear [5]. A perda auditiva pode levar a um risco três vezes maior de queda por deterioração do nervo [5].",
     "type": "conteudista"
   },
@@ -107,51 +107,51 @@
     "question": "Para o diagnóstico de perda auditiva em neonatos (triagem neonatal), qual exame é primariamente utilizado para rastreio e qual sua função?",
     "options": [
       "BERA (Potencial Evocado Auditivo do Tronco Encefálico), que avalia o córtex cerebral, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
-      "Audiometria comportamental, que exige a resposta ativa da criança, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
-      "Emissões Otoacústicas (Teste da Orelhinha), que envia sinais sonoros e avalia os sons de resposta emitidos pela cóclea (células ciliadas), conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição.",
       "Timpanometria, que avalia a pressão no conduto externo, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
-      "Ressonância magnética do ouvido interno, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som."
+      "Audiometria comportamental, que exige a resposta ativa da criança, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
+      "Ressonância magnética do ouvido interno, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
+      "Emissões Otoacústicas (Teste da Orelhinha), que envia sinais sonoros e avalia os sons de resposta emitidos pela cóclea (células ciliadas), conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "As Emissões Otoacústicas (teste da orelhinha) são o principal exame na triagem neonatal. Funciona enviando sinais sonoros e avaliando os sons de resposta emitidos pela própria cóclea para saber se ela está saudável [17].",
     "type": "conteudista"
   },
   {
     "question": "A perda auditiva induzida por ruído (PAIR) é gerada por exposição a sons intensos por um longo período. Que tipo de perda auditiva é a PAIR e quais frequências são tipicamente as mais danificadas?",
     "options": [
+      "Neurossensorial; frequências agudas (altas).",
       "Condutiva; frequências graves.",
       "Mista; frequências médias.",
-      "Neurossensorial; frequências agudas (altas).",
-      "Central; frequências agudas.",
-      "Mista; frequências graves."
+      "Mista; frequências graves.",
+      "Central; frequências agudas."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A PAIR é gerada por exposição a ruído e é uma perda neurossensorial de origem da cóclea, danificando as células ciliadas e afetando principalmente as frequências agudas [18].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a tríade de frequências que deve ser somada e dividida por quatro para calcular a Média Quadritonal (MQT), utilizada para definir o grau de perda auditiva de um paciente?",
     "options": [
-      "500 Hz, 1000 Hz, 2000 Hz, 8000 Hz.",
-      "125 Hz, 250 Hz, 500 Hz, 1000 Hz.",
-      "250 Hz, 500 Hz, 1000 Hz, 4000 Hz.",
       "500 Hz, 1000 Hz, 2000 Hz.",
-      "Todas as frequências testadas na audiometria."
+      "125 Hz, 250 Hz, 500 Hz, 1000 Hz.",
+      "Todas as frequências testadas na audiometria.",
+      "250 Hz, 500 Hz, 1000 Hz, 4000 Hz.",
+      "500 Hz, 1000 Hz, 2000 Hz, 8000 Hz."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Para definir a média quadritonal, que estabelece o grau de perda, deve-se somar a frequência de 250, 500, 1000 e 4000 Hz e dividir por quatro [19].",
     "type": "conteudista"
   },
   {
     "question": "A perda auditiva mista é definida como:",
     "options": [
-      "Perda auditiva que se manifesta apenas em uma orelha, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
       "Perda condutiva que não pode ser tratada cirurgicamente, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
-      "Uma associação de componentes condutivos e neurossensoriais, como uma perfuração timpânica após trauma acústico que também cause comprometimento inflamatório da via nervosa, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição, como descrito na literatura sobre a audição.",
+      "Perda auditiva que se manifesta apenas em uma orelha, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
       "Perda que se desenvolve apenas na fase adulta, sem componente congênito, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
-      "Perda auditiva de origem exclusivamente central, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, responsabilidade das células do labirinto membranoso na formação da endolinfa."
+      "Perda auditiva de origem exclusivamente central, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
+      "Uma associação de componentes condutivos e neurossensoriais, como uma perfuração timpânica após trauma acústico que também cause comprometimento inflamatório da via nervosa, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição, como descrito na literatura sobre a audição."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Uma perda mista seria a associação de uma perda condutiva com uma neurossensorial, por exemplo, por um trauma intenso que cause perfuração timpânica e também comprometimento inflamatório das vias nervosas [20].",
     "type": "conteudista"
   },
@@ -160,74 +160,74 @@
     "options": [
       "Gripe comum (vírus Influenza), papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
       "Meningite bacteriana, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
-      "Citomegalovírus (junto com sarampo, rubéola e sífilis congênita), conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição, como descrito na literatura sobre a audição.",
+      "Tuberculose, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
       "Otitite Média Aguda (OMA), processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
-      "Tuberculose, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som."
+      "Citomegalovírus (junto com sarampo, rubéola e sífilis congênita), conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição, como descrito na literatura sobre a audição."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "As infecções congênitas, como citomegalovírus, sarampo, rubéola e sífilis congênita, estão listadas entre as causas de hipocusia/anacusia [21].",
     "type": "conteudista"
   },
   {
     "question": "No caso de Otosclerose, que é uma perda tipicamente condutiva, qual tratamento de abordagem cirúrgica é citado?",
     "options": [
-      "Colocação de tubo de ventilação (dreno), responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
-      "Timpanoplastia, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
+      "Implante coclear (dispositivo eletrônico), papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
       "Mastoidectomia, processo realizado nas células ciliadas da cóclea durante a transdução do som, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
       "Estapedotatomia (reconstrução dos ossículos), segundo os princípios anatômicos da audição, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição, como descrito na literatura sobre a audição.",
-      "Implante coclear (dispositivo eletrônico), papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, processo realizado nas células ciliadas da cóclea durante a transdução do som."
+      "Colocação de tubo de ventilação (dreno), responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
+      "Timpanoplastia, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico."
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": "Para a Otosclerose, a abordagem é cirúrgica, sendo citada a estapedotatomia, que acessa a caixa média e reconstrói os ossículos [16].",
     "type": "conteudista"
   },
   {
     "question": "Qual é a definição de uma perda auditiva congênita em contraste com uma perda genética, conforme diferenciado na aula?",
     "options": [
-      "Congênita é a perda que se manifesta apenas na fase adulta, e genética é a que se manifesta no nascimento, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
-      "Congênito é tudo aquilo que o paciente nasce com, enquanto genético é tudo aquilo ocasionado por alteração de cromossomo (embora uma causa genética possa ser congênita), segundo os princípios anatômicos da audição, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição.",
-      "Congênita é a perda causada por trauma acústico, e genética é causada por infecções, função típica da tuba auditiva, que equaliza a pressão na orelha média, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
       "Genética é sempre recessiva, e congênita é sempre dominante, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
-      "Ambos os termos são sinônimos e descrevem a mesma etiologia, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares."
+      "Congênita é a perda causada por trauma acústico, e genética é causada por infecções, função típica da tuba auditiva, que equaliza a pressão na orelha média, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
+      "Congênito é tudo aquilo que o paciente nasce com, enquanto genético é tudo aquilo ocasionado por alteração de cromossomo (embora uma causa genética possa ser congênita), segundo os princípios anatômicos da audição, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição.",
+      "Ambos os termos são sinônimos e descrevem a mesma etiologia, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
+      "Congênita é a perda que se manifesta apenas na fase adulta, e genética é a que se manifesta no nascimento, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Congênito é tudo aquilo que se nasce com, enquanto genético é tudo aquilo ocasionado por uma alteração de cromossomo. Uma causa genética pode ser congênita, mas não são a mesma coisa (existem síndromes genéticas que se desenvolvem na fase adulta, e causas congênitas não genéticas, como a anóxia perinatal) [21].",
     "type": "conteudista"
   },
   {
     "question": "Um paciente pediátrico apresenta otoscopia sugestiva de Otite Média Secretora (OMS), com membrana timpânica abaulada e secreção retrotimpânica. Qual achado é esperado na Immitância Acústica (Timpanometria) e qual tipo de perda auditiva a OMS tipicamente causa?",
     "options": [
+      "Timpanograma tipo C; perda neurossensorial, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
       "Timpanograma tipo A; perda neurossensorial, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
       "Timpanograma tipo As; perda mista, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
       "Timpanograma tipo B (curva plana); perda condutiva, devido à obstrução física na caixa média.",
-      "Timpanograma tipo Ad; perda mista, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
-      "Timpanograma tipo C; perda neurossensorial, responsabilidade das células do labirinto membranoso na formação da endolinfa."
+      "Timpanograma tipo Ad; perda mista, atividade exclusiva do nervo vestibular e do sistema vestibular periférico."
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "A Otite Média Secretora (OMS) [13, 22] causa acúmulo de secreção na caixa média, o que obstrui a passagem do som, gerando perda condutiva [22]. Na Immitância, isso é visto como um Timpanograma Tipo B, que representa uma membrana timpânica endurecida, sem complacência (como um 'chão'), pois a secreção impede o movimento [23].",
     "type": "raciocínio"
   },
   {
     "question": "Um médico generalista atende dois pacientes: Paciente A com perda auditiva significativa e otoscopia normal. Paciente B com perda auditiva e otoscopia revelando grande acúmulo de cerúmen. Qual é a correlação mais provável entre os achados otoscópicos e o tipo de perda auditiva em cada caso, direcionando o tratamento?",
     "options": [
-      "Ambos têm perda mista, pois o cerúmen e a otoscopia normal indicam comprometimento central, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
-      "O Paciente A provavelmente tem perda condutiva resolúvel; o Paciente B tem perda neurossensorial irreversível, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
       "O Paciente A provavelmente tem perda neurossensorial (exigindo audiometria e BERA, se for criança); o Paciente B tem perda condutiva resolúvel (exigindo remoção de cerúmen), como descrito na literatura sobre a audição, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição.",
-      "O Paciente B tem perda central; o Paciente A tem perda condutiva, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
-      "Ambos têm otosclerose, independentemente da otoscopia, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, responsabilidade das células do labirinto membranoso na formação da endolinfa."
+      "O Paciente A provavelmente tem perda condutiva resolúvel; o Paciente B tem perda neurossensorial irreversível, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
+      "Ambos têm otosclerose, independentemente da otoscopia, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
+      "Ambos têm perda mista, pois o cerúmen e a otoscopia normal indicam comprometimento central, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
+      "O Paciente B tem perda central; o Paciente A tem perda condutiva, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Quando a otoscopia é normal, mas o paciente relata perda auditiva, isso sugere uma perda neurossensorial, exigindo maior investigação ('vou ficar triste') [24]. Já o acúmulo de cerúmen é uma causa condutiva ('feliz') e facilmente resolúvel [12, 13].",
     "type": "raciocínio"
   },
   {
     "question": "Uma gestante relata que seu primeiro filho teve hipoacusia congênita por anóxia perinatal. Qual a principal conduta de raciocínio deve ser adotada pelo médico na abordagem da segunda gestação, conforme a importância da intervenção precoce?",
     "options": [
-      "Aguardar até o nascimento para fazer o Teste da Orelhinha, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
       "Prescrever antibióticos otóxicos para prevenir infecções congênitas, já que o dano já ocorreu, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
+      "Realizar apenas audiometria comportamental após os 2 anos de idade, função típica da tuba auditiva, que equaliza a pressão na orelha média, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
       "Focar no histórico pré-gravidez e evitar aquilo que aconteceu (fatores de hipóxia ou sofrimento fetal) para prevenir a recorrência da etiologia congênita, mas não genética, no novo feto, garantindo o diagnóstico precoce se necessário, segundo os princípios anatômicos da audição, como descrito na literatura sobre a audição.",
       "Assumir que a causa é genética recessiva e que não há prevenção possível, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
-      "Realizar apenas audiometria comportamental após os 2 anos de idade, função típica da tuba auditiva, que equaliza a pressão na orelha média, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa."
+      "Aguardar até o nascimento para fazer o Teste da Orelhinha, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som."
     ],
     "correctIndex": 2,
     "explanation": "É crucial pesquisar o histórico e, se a etiologia do primeiro filho foi anóxia perinatal (uma causa congênita, mas não genética), o médico deve evitar aquilo que aconteceu na segunda gestação [21, 25]. A intervenção precoce é a conduta mais importante para evitar a progressão e garantir a reabilitação [26].",
@@ -236,13 +236,13 @@
   {
     "question": "Por que, para o médico, a perda auditiva condutiva é geralmente preferível à perda neurossensorial, em termos de tratamento e prognóstico?",
     "options": [
-      "Ambas são igualmente fáceis de tratar, mas a condutiva é mais rara, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
-      "A condutiva é mais facilmente reabilitada por meio de dispositivos eletrônicos, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
       "As causas condutivas (cerúmen, OMS, otosclerose) são frequentemente tratáveis por meios medicamentosos ou cirúrgicos (tubo de ventilação, estapedotatomia), com alta chance de cura ou melhora significativa, enquanto a neurossensorial é de difícil reversão e requer reabilitação auditiva (dispositivos implantáveis), como descrito na literatura sobre a audição, conforme observado na fisiologia da orelha média.",
-      "A perda neurossensorial só afeta frequências agudas, sendo menos grave, função típica da tuba auditiva, que equaliza a pressão na orelha média, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa.",
-      "A perda condutiva nunca causa isolamento social ou declínio cognitivo, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som."
+      "A condutiva é mais facilmente reabilitada por meio de dispositivos eletrônicos, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
+      "A perda condutiva nunca causa isolamento social ou declínio cognitivo, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
+      "Ambas são igualmente fáceis de tratar, mas a condutiva é mais rara, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares.",
+      "A perda neurossensorial só afeta frequências agudas, sendo menos grave, função típica da tuba auditiva, que equaliza a pressão na orelha média, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "O médico se 'fica feliz quando o paciente tem uma perda condutiva, ao invés de uma neurossensorial' [11]. Isso ocorre porque as perdas condutivas são 'mais fáceis de serem tratadas' com opções medicamentosas ou cirúrgicas [16], enquanto as neurossensoriais resultam em dano irreversível à cóclea e necessitam de reabilitação auditiva através de dispositivos eletrônicos [27].",
     "type": "raciocínio"
   },
@@ -250,10 +250,10 @@
     "question": "Um paciente chega ao consultório com perfuração timpânica. Que restrição crítica de tratamento deve ser observada pelo médico generalista ao prescrever medicação tópica (gotas) para o ouvido?",
     "options": [
       "Apenas pomadas podem ser usadas, nunca gotas, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
-      "É estritamente proibido o uso de qualquer medicação tópica em caso de perfuração, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico.",
-      "Deve-se ter extremo cuidado com a colocação de qualquer medicação no ouvido, pois a perfuração permite a complicação do meio externo com o meio interno (ototoxicidade), limitando-se o uso a medicações específicas como Ciprofloxacino com hidrocortisona, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição.",
       "A perfuração timpânica aumenta a absorção sistêmica da medicação, exigindo ajuste de dose, papel desempenhado pelo labirinto membranoso e pelos canais semicirculares, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, função típica da tuba auditiva, que equaliza a pressão na orelha média.",
-      "A medicação tópica só deve ser utilizada se a perfuração for pequena, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som."
+      "Deve-se ter extremo cuidado com a colocação de qualquer medicação no ouvido, pois a perfuração permite a complicação do meio externo com o meio interno (ototoxicidade), limitando-se o uso a medicações específicas como Ciprofloxacino com hidrocortisona, conforme observado na fisiologia da orelha média, segundo os princípios anatômicos da audição.",
+      "A medicação tópica só deve ser utilizada se a perfuração for pequena, atividade exclusiva do nervo vestibular e do sistema vestibular periférico, responsabilidade das células do labirinto membranoso na formação da endolinfa, processo realizado nas células ciliadas da cóclea durante a transdução do som.",
+      "É estritamente proibido o uso de qualquer medicação tópica em caso de perfuração, processo realizado nas células ciliadas da cóclea durante a transdução do som, função típica da tuba auditiva, que equaliza a pressão na orelha média, atividade exclusiva do nervo vestibular e do sistema vestibular periférico."
     ],
     "correctIndex": 2,
     "explanation": "Quando há perfuração timpânica, existe uma complicação do meio externo com o meio interno, e o médico deve ter 'cuidado que vocês vão colocar no ouvido dele' [9, 28]. A regra é não colocar 'qualquer medicação' no ouvido dele, sendo que o Ciprofloxacino com hidrocortisona é citado como um dos poucos permitidos [28].",
